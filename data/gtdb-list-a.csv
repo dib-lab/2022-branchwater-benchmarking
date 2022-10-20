@@ -1,0 +1,1001 @@
+internal_location,md5,md5short,ksize,moltype,num,scaled,n_hashes,with_abundance,name,filename
+signatures/482d4b8a5af75f58e96af4319e1f8e4e.sig.gz,482d4b8a5af75f58e96af4319e1f8e4e,482d4b8a,31,DNA,0,1000,2459,True,"GCA_017985375.1 Chitinophagales bacterium, ASM1798537v1",/dev/fd/63
+signatures/5cf5dbfac8824549395b57a6e56ec28e.sig.gz,5cf5dbfac8824549395b57a6e56ec28e,5cf5dbfa,31,DNA,0,1000,3246,True,"GCA_903836935.1 uncultured Chlorobiaceae bacterium, freshwater MAG --- MJ-2014-D7_bin-183",/dev/fd/63
+signatures/f32a7f7d0c5e618f5f014eecd7e28998.sig.gz,f32a7f7d0c5e618f5f014eecd7e28998,f32a7f7d,31,DNA,0,1000,4604,True,"GCF_008040765.1 Escherichia coli strain=3_77_1, ASM804076v1",/dev/fd/63
+signatures/c5f7816ef670f952922a54d731827c6e.sig.gz,c5f7816ef670f952922a54d731827c6e,c5f7816e,31,DNA,0,1000,1170,True,"GCA_902523635.1 uncultured Bacteroidetes bacterium, AG-895-G08",/dev/fd/63
+signatures/a5118a39edf33c7740726d9963d5d1ab.sig.gz,a5118a39edf33c7740726d9963d5d1ab,a5118a39,31,DNA,0,1000,3425,True,"GCF_003201565.1 Nitrosomonas sp. Nm84 strain=Nm84, ASM320156v1",/dev/fd/63
+signatures/f54976fc270a4439e5f4d3ffaf24fe6b.sig.gz,f54976fc270a4439e5f4d3ffaf24fe6b,f54976fc,31,DNA,0,1000,3188,True,"GCF_006506395.1 Brucella melitensis strain=2016.CB.1265.1.7, ASM650639v1",/dev/fd/63
+signatures/f06e233cc61b7bf16f9f41f20a5b992c.sig.gz,f06e233cc61b7bf16f9f41f20a5b992c,f06e233c,31,DNA,0,1000,2008,True,"GCF_000496435.1 Lactobacillus fermentum NB-22 strain=NB-22, LfermNB22_1.0",/dev/fd/63
+signatures/aaff0c2cef93514e3d8406adb38b953c.sig.gz,aaff0c2cef93514e3d8406adb38b953c,aaff0c2c,31,DNA,0,1000,7004,True,"GCF_900593875.1 Burkholderia pseudomallei strain=HBPUB10488A, 10156_4#31",/dev/fd/63
+signatures/171dae79fcd8a6d297fcaff0911c9eb3.sig.gz,171dae79fcd8a6d297fcaff0911c9eb3,171dae79,31,DNA,0,1000,3223,True,"GCF_018256235.1 Gluconobacter kondonii strain=Dm-68, ASM1825623v1",/dev/fd/63
+signatures/1ad5b57a6ba0e048d07a8aae6e62f278.sig.gz,1ad5b57a6ba0e048d07a8aae6e62f278,1ad5b57a,31,DNA,0,1000,2882,True,"GCF_016908935.1 Sporolactobacillus spathodeae strain=DSM 100968, ASM1690893v1",/dev/fd/63
+signatures/ac157a88b07af2fcf390c563a88c78bb.sig.gz,ac157a88b07af2fcf390c563a88c78bb,ac157a88,31,DNA,0,1000,2248,True,"GCF_014192995.1 Slackia isoflavoniconvertens strain=DSM 22006, ASM1419299v1",/dev/fd/63
+signatures/30ab5b1c2ec0d162ff7d215665934615.sig.gz,30ab5b1c2ec0d162ff7d215665934615,30ab5b1c,31,DNA,0,1000,4316,True,"GCA_018897395.1 Planctomycetes bacterium, ASM1889739v1",/dev/fd/63
+signatures/cbef4c969955cfa89afb02a91f85496b.sig.gz,cbef4c969955cfa89afb02a91f85496b,cbef4c96,31,DNA,0,1000,4549,True,"GCA_018828565.1 Alphaproteobacteria bacterium, ASM1882856v1",/dev/fd/63
+signatures/edd8a9ddbb99d8565d5fbc2ed99ffc34.sig.gz,edd8a9ddbb99d8565d5fbc2ed99ffc34,edd8a9dd,31,DNA,0,1000,4832,True,"GCF_009790535.1 Escherichia coli strain=OM8c, ASM979053v1",/dev/fd/63
+signatures/556f5f9cbe67625aa5343db216280f9e.sig.gz,556f5f9cbe67625aa5343db216280f9e,556f5f9c,31,DNA,0,1000,2727,True,"GCF_000726925.1 Listeria monocytogenes strain=FSL R8-6122, ASM72692v1",/dev/fd/63
+signatures/e2bb3d250d01b1a45d8de346ce743877.sig.gz,e2bb3d250d01b1a45d8de346ce743877,e2bb3d25,31,DNA,0,1000,3837,True,"GCA_011174825.1 Anaerolineae bacterium, ASM1117482v1",/dev/fd/63
+signatures/a9f7250fa83a8344ff5c3f7dc52e8048.sig.gz,a9f7250fa83a8344ff5c3f7dc52e8048,a9f7250f,31,DNA,0,1000,2839,True,"GCF_900128285.1 Staphylococcus aureus strain=3688STDY6125102, 17175_3#48",/dev/fd/63
+signatures/ea9f445dc564dd6f1e206a222e0267c8.sig.gz,ea9f445dc564dd6f1e206a222e0267c8,ea9f445d,31,DNA,0,1000,2515,True,"GCA_905200175.1 uncultured Clostridiales bacterium, SRR5580102-mag-bin.18",/dev/fd/63
+signatures/367e002114214a369211bb689080a527.sig.gz,367e002114214a369211bb689080a527,367e0021,31,DNA,0,1000,3264,True,"GCA_003241515.1 Flavobacterium johnsoniae, ASM324151v1",/dev/fd/63
+signatures/4cd9fa7b3d54c535149ff057185be023.sig.gz,4cd9fa7b3d54c535149ff057185be023,4cd9fa7b,31,DNA,0,1000,4503,True,"GCF_013106795.1 Roseobacter sp. HKCCD9073 strain=HKCCD9073, ASM1310679v1",/dev/fd/63
+signatures/7b0406fe0bb3da2924ded0153990a257.sig.gz,7b0406fe0bb3da2924ded0153990a257,7b0406fe,31,DNA,0,1000,3743,True,"GCF_013111655.1 Vibrio cholerae strain=M4, ASM1311165v1",/dev/fd/63
+signatures/caa5e39e599cdb5e5745532f231d3efb.sig.gz,caa5e39e599cdb5e5745532f231d3efb,caa5e39e,31,DNA,0,1000,2116,True,"GCF_001202735.1 Streptococcus pneumoniae strain=SMRU1752, 6805_7#23",/dev/fd/63
+signatures/42f43b35186377534013e081b3902fd9.sig.gz,42f43b35186377534013e081b3902fd9,42f43b35,31,DNA,0,1000,5873,True,"GCF_000375145.1 Salinispora arenicola CNY231 strain=CNY231, ASM37514v1",/dev/fd/63
+signatures/2e91f61b93ed3f49e70ae48f2e7301a0.sig.gz,2e91f61b93ed3f49e70ae48f2e7301a0,2e91f61b,31,DNA,0,1000,4875,True,"GCF_009910055.1 Escherichia coli strain=BJ05, ASM991005v1",/dev/fd/63
+signatures/5dd10ad1f6710413aa0c1122a6aeb436.sig.gz,5dd10ad1f6710413aa0c1122a6aeb436,5dd10ad1,31,DNA,0,1000,3988,True,"GCF_000337175.1 Natrinema gari JCM 14663 strain=JCM 14663, ASM33717v1",/dev/fd/63
+signatures/2076190e595aa7b64c3ef400c5b7d55d.sig.gz,2076190e595aa7b64c3ef400c5b7d55d,2076190e,31,DNA,0,1000,4633,True,"GCF_017175175.1 Mycobacteroides abscessus subsp. bolletii strain=GD37, ASM1717517v1",/dev/fd/63
+signatures/d0aeab36afc207f3eb485436d9e47db0.sig.gz,d0aeab36afc207f3eb485436d9e47db0,d0aeab36,31,DNA,0,1000,4842,True,"GCF_902170395.1 Yersinia frederiksenii, IP37124",/dev/fd/63
+signatures/76c67b46c335e295ab7e89f56d6ca819.sig.gz,76c67b46c335e295ab7e89f56d6ca819,76c67b46,31,DNA,0,1000,7685,True,"GCF_001994025.1 Burkholderia cenocepacia strain=VC7741, ASM199402v1",/dev/fd/63
+signatures/5f255db7bf325603a23e54ab4c519fe2.sig.gz,5f255db7bf325603a23e54ab4c519fe2,5f255db7,31,DNA,0,1000,2160,True,"GCF_001175405.1 Streptococcus equi subsp. equi strain=EQUI0240, 6830_4#95",/dev/fd/63
+signatures/96b743d708269404c559a543e6b44de9.sig.gz,96b743d708269404c559a543e6b44de9,96b743d7,31,DNA,0,1000,6467,True,"GCF_900145715.1 Pseudomonas aeruginosa, 229",/dev/fd/63
+signatures/df3fd2a3ac80f4789c33fae2e8399714.sig.gz,df3fd2a3ac80f4789c33fae2e8399714,df3fd2a3,31,DNA,0,1000,4937,True,"GCF_018499845.1 Escherichia coli strain=JNQH497, ASM1849984v1",/dev/fd/63
+signatures/7dfdacf9f748424d867f71339d5cc17c.sig.gz,7dfdacf9f748424d867f71339d5cc17c,7dfdacf9,31,DNA,0,1000,2028,True,"GCF_900032285.1 Streptococcus pneumoniae strain=2842STDY5753393, 12718_5#20",/dev/fd/63
+signatures/d9753a206d7a281eb82448c844399d95.sig.gz,d9753a206d7a281eb82448c844399d95,d9753a20,31,DNA,0,1000,2172,True,"GCF_003493135.1 Neisseria meningitidis strain=M28920, ASM349313v1",/dev/fd/63
+signatures/9582639c83dccec420eca57af5f145f8.sig.gz,9582639c83dccec420eca57af5f145f8,9582639c,31,DNA,0,1000,3916,True,"GCF_009494655.1 Prevotella copri strain=iA624, ASM949465v1",/dev/fd/63
+signatures/37ec77c4eef5f94a9515bfd1b3d54df2.sig.gz,37ec77c4eef5f94a9515bfd1b3d54df2,37ec77c4,31,DNA,0,1000,4674,True,"GCF_009670465.1 Yersinia pestis strain=42045, ASM967046v1",/dev/fd/63
+signatures/80c4e0e99531b48e9479eef9240762b8.sig.gz,80c4e0e99531b48e9479eef9240762b8,80c4e0e9,31,DNA,0,1000,5679,True,"GCF_003112775.1 Mycobacterium montefiorense strain=BS, ASM311277v1",/dev/fd/63
+signatures/d7a091ced264747010f391244b9375ba.sig.gz,d7a091ced264747010f391244b9375ba,d7a091ce,31,DNA,0,1000,1733,True,"GCF_002913155.1 Campylobacter concisus strain=AAUH-11UCdes-a, ASM291315v1",/dev/fd/63
+signatures/98aac7582cd807a1625fb25f470aa9c1.sig.gz,98aac7582cd807a1625fb25f470aa9c1,98aac758,31,DNA,0,1000,2791,True,"GCF_002132385.1 Listeria monocytogenes strain=MOD1_LS1010, LS1010.fasta",/dev/fd/63
+signatures/442fd811433b162f3e8eec0604722c05.sig.gz,442fd811433b162f3e8eec0604722c05,442fd811,31,DNA,0,1000,5807,True,"GCF_900493845.1 Klebsiella pneumoniae strain=4300STDY6470410, 22036_6#286",/dev/fd/63
+signatures/516d52f3e8660c6df647776d040edbc2.sig.gz,516d52f3e8660c6df647776d040edbc2,516d52f3,31,DNA,0,1000,4937,True,"GCF_001756285.1 Frankia sp. CgIM4 strain=CgIM4, ASM175628v1",/dev/fd/63
+signatures/03919fc27906f8029ffb4b9fc331be85.sig.gz,03919fc27906f8029ffb4b9fc331be85,03919fc2,31,DNA,0,1000,2468,True,"GCA_018261755.1 Burkholderiaceae bacterium, ASM1826175v1",/dev/fd/63
+signatures/e2ece0a0dce31b565caeaf6b9b8f5cc9.sig.gz,e2ece0a0dce31b565caeaf6b9b8f5cc9,e2ece0a0,31,DNA,0,1000,2765,True,"GCF_003001715.1 Caldicellulosiruptor bescii strain=RKCB132, ASM300171v1",/dev/fd/63
+signatures/1a73f3edc430064b888ce27ac4b2855f.sig.gz,1a73f3edc430064b888ce27ac4b2855f,1a73f3ed,31,DNA,0,1000,8098,True,"GCF_002551105.1 Streptomyces sp. st170 strain=st170, ASM255110v1",/dev/fd/63
+signatures/fc5f337f47a30cc0ef1f78a614438192.sig.gz,fc5f337f47a30cc0ef1f78a614438192,fc5f337f,31,DNA,0,1000,2088,True,"GCF_014931095.1 Helicobacter cinaedi strain=D7095, ASM1493109v1",/dev/fd/63
+signatures/8fc3c54d23544680bc4ebf8fa455c993.sig.gz,8fc3c54d23544680bc4ebf8fa455c993,8fc3c54d,31,DNA,0,1000,4292,True,"GCF_008762085.1 Mycobacterium tuberculosis strain=96784, ASM876208v1",/dev/fd/63
+signatures/573cbee15a96a87b8dc267295b8420b7.sig.gz,573cbee15a96a87b8dc267295b8420b7,573cbee1,31,DNA,0,1000,2160,True,"GCF_001072115.1 Streptococcus pseudopneumoniae strain=289_SPSE, ASM107211v1",/dev/fd/63
+signatures/ced73401ae51b6660df2bd73285534aa.sig.gz,ced73401ae51b6660df2bd73285534aa,ced73401,31,DNA,0,1000,1990,True,"GCF_002987435.1 Haemophilus influenzae strain=84P36H1, ASM298743v1",/dev/fd/63
+signatures/422d1409c4c2c05ec5195f58df9e076b.sig.gz,422d1409c4c2c05ec5195f58df9e076b,422d1409,31,DNA,0,1000,2108,True,"GCF_003789325.1 Neisseria gonorrhoeae strain=WUSM_Ng_70, ASM378932v1",/dev/fd/63
+signatures/bce0f848affd017374ff1f97f930ca1c.sig.gz,bce0f848affd017374ff1f97f930ca1c,bce0f848,31,DNA,0,1000,1944,True,"GCF_002990975.1 Haemophilus influenzae strain=127P5H1, ASM299097v1",/dev/fd/63
+signatures/00b1e11dca91e37e3e10b44a852d8793.sig.gz,00b1e11dca91e37e3e10b44a852d8793,00b1e11d,31,DNA,0,1000,3217,True,"GCF_000519965.1 Enterococcus faecalis EnGen0427 strain=EnGen0427, Ente_faec_B388_V1",/dev/fd/63
+signatures/8f347caf8db440f19234c032ee44adcf.sig.gz,8f347caf8db440f19234c032ee44adcf,8f347caf,31,DNA,0,1000,3905,True,"GCA_900008415.1 Clostridioides difficile, Peptoclostridium difficile",/dev/fd/63
+signatures/476c2d2fc2fa606d7637d59e8e8ebe30.sig.gz,476c2d2fc2fa606d7637d59e8e8ebe30,476c2d2f,31,DNA,0,1000,1090,True,"GCA_018663385.1 Nitrosomonadales bacterium, ASM1866338v1",/dev/fd/63
+signatures/a0a41ac1a7d2f7f77129b28a8f31440b.sig.gz,a0a41ac1a7d2f7f77129b28a8f31440b,a0a41ac1,31,DNA,0,1000,1339,True,"GCA_000504645.1 actinobacterium SCGC AAA041-L13 strain=SCGC AAA041-L13, ASM50464v1",/dev/fd/63
+signatures/c335c11388f9a95739ec45ec7093e61f.sig.gz,c335c11388f9a95739ec45ec7093e61f,c335c113,31,DNA,0,1000,4666,True,"GCF_002469115.1 Escherichia coli strain=MOD1-EC6576, ASM246911v1",/dev/fd/63
+signatures/ca690d09eb87add9d3ce471c4382d9fe.sig.gz,ca690d09eb87add9d3ce471c4382d9fe,ca690d09,31,DNA,0,1000,4746,True,"GCF_017572725.1 Salmonella sp. 32100201201700133SM strain=32100201201700133SM, ASM1757272v1",/dev/fd/63
+signatures/9a434776f34cd928662899fe2c5e8d99.sig.gz,9a434776f34cd928662899fe2c5e8d99,9a434776,31,DNA,0,1000,2081,True,"GCF_000936955.1 Streptococcus suis strain=LS9V, Velvet_assembly",/dev/fd/63
+signatures/f45817f2a739c286480aa74d7a152b8b.sig.gz,f45817f2a739c286480aa74d7a152b8b,f45817f2,31,DNA,0,1000,2135,True,"GCA_002434645.1 Candidatus Microthrix sp. UBA6542, ASM243464v1",/dev/fd/63
+signatures/54d22ac0a24db2b5403dbb392ae570b0.sig.gz,54d22ac0a24db2b5403dbb392ae570b0,54d22ac0,31,DNA,0,1000,4301,True,"GCF_015627275.1 Mycobacterium tuberculosis strain=2044, ASM1562727v1",/dev/fd/63
+signatures/475f0cde09de0d839210bb4a7d9ddfa4.sig.gz,475f0cde09de0d839210bb4a7d9ddfa4,475f0cde,31,DNA,0,1000,2302,True,"GCF_009661785.1 Lactococcus lactis subsp. cremoris strain=158, ASM966178v1",/dev/fd/63
+signatures/5d461a41cf4a0c1c4f48a8ba35961b51.sig.gz,5d461a41cf4a0c1c4f48a8ba35961b51,5d461a41,31,DNA,0,1000,4971,True,"GCF_005395625.1 Escherichia coli strain=OU-P014, ASM539562v1",/dev/fd/63
+signatures/e180f6542e609398daaae296267c44c7.sig.gz,e180f6542e609398daaae296267c44c7,e180f654,31,DNA,0,1000,2448,True,"GCF_001075805.1 Staphylococcus epidermidis strain=947_SEPI, ASM107580v1",/dev/fd/63
+signatures/36b9c1c86020f013e7dae614791164ea.sig.gz_0,36b9c1c86020f013e7dae614791164ea,36b9c1c8,31,DNA,0,1000,3166,True,"GCF_000413655.1 Brucella abortus 90-0742 strain=90-0742, Bruc_abor_biovar_1_90-0742_V1",/dev/fd/63
+signatures/7cbb8ccfc6d90adb4af9e12b4cefa2ba.sig.gz,7cbb8ccfc6d90adb4af9e12b4cefa2ba,7cbb8ccf,31,DNA,0,1000,2803,True,"GCF_003962415.1 Enterococcus faecalis strain=11382, ASM396241v1",/dev/fd/63
+signatures/d37d48c91829a5f69e581826f2af72cc.sig.gz,d37d48c91829a5f69e581826f2af72cc,d37d48c9,31,DNA,0,1000,4261,True,"GCF_013205055.1 Rathayibacter sp. VKM Ac-2856 strain=VKM Ac-2856, ASM1320505v1",/dev/fd/63
+signatures/eae54143071494e09085b6c664ccb260.sig.gz,eae54143071494e09085b6c664ccb260,eae54143,31,DNA,0,1000,1576,True,"GCF_000274545.2 Helicobacter pylori NQ4110 strain=NQ4110, ASM27454v2",/dev/fd/63
+signatures/d0970511e22b48d279f7cdd1d1cd3623.sig.gz,d0970511e22b48d279f7cdd1d1cd3623,d0970511,31,DNA,0,1000,4887,True,"GCF_011028085.1 Escherichia coli strain=CAP46, ASM1102808v1",/dev/fd/63
+signatures/add70f509aaefca8f7101a7cc6a45f16.sig.gz,add70f509aaefca8f7101a7cc6a45f16,add70f50,31,DNA,0,1000,4838,True,"GCA_013739155.1 Enterobacter cloacae strain=RHBSTW-00675, ASM1373915v1",/dev/fd/63
+signatures/b2448b63b87a716fd1dde523c4f45e8d.sig.gz,b2448b63b87a716fd1dde523c4f45e8d,b2448b63,31,DNA,0,1000,6429,True,"GCF_018027475.1 Pseudomonas aeruginosa strain=Patient_4_Baseline, ASM1802747v1",/dev/fd/63
+signatures/0349a829d1886f8093437daa8aa785e3.sig.gz,0349a829d1886f8093437daa8aa785e3,0349a829,31,DNA,0,1000,1997,True,"GCF_900020125.1 Streptococcus pneumoniae strain=2842STDY5644037, 11861_2#2",/dev/fd/63
+signatures/80d3acadf9981beeb551c299a9941c6f.sig.gz,80d3acadf9981beeb551c299a9941c6f,80d3acad,31,DNA,0,1000,3042,True,"GCF_002445095.1 Listeria monocytogenes strain=CFSAN049235, CFSAN049235",/dev/fd/63
+signatures/3009f1e43a0df94e04ea63e6d213548b.sig.gz,3009f1e43a0df94e04ea63e6d213548b,3009f1e4,31,DNA,0,1000,4313,True,"GCA_001626765.1 Maritimibacter sp. REDSEA-S28_B5, ASM162676v1",/dev/fd/63
+signatures/ea95bd808d8ca814783691206bd99880.sig.gz,ea95bd808d8ca814783691206bd99880,ea95bd80,31,DNA,0,1000,4460,True,"GCF_004172005.1 Escherichia coli strain=TZ7_Sb, ASM417200v1",/dev/fd/63
+signatures/05229a6bd2fdcc94b86f56690ca53db9.sig.gz,05229a6bd2fdcc94b86f56690ca53db9,05229a6b,31,DNA,0,1000,5167,True,"GCF_002971815.1 Escherichia coli strain=HT2012103, ASM297181v1",/dev/fd/63
+signatures/efee6a0c1c796587fb8354eb02d5b413.sig.gz,efee6a0c1c796587fb8354eb02d5b413,efee6a0c,31,DNA,0,1000,6529,True,"GCF_007992695.1 Chitinophaga terrae Kim and Jung 2007 strain=NBRC 109751, ASM799269v1",/dev/fd/63
+signatures/4231c76188ec78da67a9df1adaa5665c.sig.gz,4231c76188ec78da67a9df1adaa5665c,4231c761,31,DNA,0,1000,8409,True,"GCF_902830995.1 Burkholderia gladioli strain=BCC1621, ASM90283099v1",/dev/fd/63
+signatures/acb833bf201b9ad360ed7ba0b0b14c56.sig.gz,acb833bf201b9ad360ed7ba0b0b14c56,acb833bf,31,DNA,0,1000,4011,True,"GCF_017161985.1 Acinetobacter pittii strain=AC1597, ASM1716198v1",/dev/fd/63
+signatures/39fb861d0451dd572368125f5dbe628b.sig.gz,39fb861d0451dd572368125f5dbe628b,39fb861d,31,DNA,0,1000,1672,True,"GCF_001488535.1 Campylobacter coli strain=n/a, EC5259",/dev/fd/63
+signatures/7132204db99dac692f555875480c1819.sig.gz,7132204db99dac692f555875480c1819,7132204d,31,DNA,0,1000,6948,True,"GCF_005222145.1 Azospirillum brasilense strain=MTCC4038, ASM522214v1",/dev/fd/63
+signatures/9c66a78a50cf10de1d3a2e8dd57162a9.sig.gz,9c66a78a50cf10de1d3a2e8dd57162a9,9c66a78a,31,DNA,0,1000,1775,True,"GCA_012513515.1 Myxococcales bacterium, ASM1251351v1",/dev/fd/63
+signatures/2754735b9ef7dc7d5790b47656ef3d07.sig.gz,2754735b9ef7dc7d5790b47656ef3d07,2754735b,31,DNA,0,1000,1677,True,"GCA_002705185.1 Nitrospina sp., ASM270518v1",/dev/fd/63
+signatures/f5c9fb1b07bf27f8fb964abded4a5f5c.sig.gz,f5c9fb1b07bf27f8fb964abded4a5f5c,f5c9fb1b,31,DNA,0,1000,1703,True,"GCF_003095875.1 Campylobacter jejuni strain=CAMSA2086, ASM309587v1",/dev/fd/63
+signatures/5c0033d0c4850b4d0b637c89a2134674.sig.gz,5c0033d0c4850b4d0b637c89a2134674,5c0033d0,31,DNA,0,1000,3964,True,"GCA_903836865.1 uncultured Bacteroidia bacterium, freshwater MAG --- MJ-2014-D7_bin-042",/dev/fd/63
+signatures/63d0276e3afd92c853092976e6ce8ec9.sig.gz,63d0276e3afd92c853092976e6ce8ec9,63d0276e,31,DNA,0,1000,2523,True,"GCA_017527825.1 Oscillospiraceae bacterium, ASM1752782v1",/dev/fd/63
+signatures/79165154fc98a1b7978346ee20f89b88.sig.gz,79165154fc98a1b7978346ee20f89b88,79165154,31,DNA,0,1000,4676,True,"GCF_003609635.1 Lacrimispora algidixylanolytica strain=SPL73, ASM360963v1",/dev/fd/63
+signatures/87e156073d1ecf2b85a28fdad2a8b9e7.sig.gz,87e156073d1ecf2b85a28fdad2a8b9e7,87e15607,31,DNA,0,1000,5082,True,"GCF_002810265.1 Escherichia coli strain=1724, 1724",/dev/fd/63
+signatures/a3c7ab6a9dd28e62d16e63a67b47e627.sig.gz,a3c7ab6a9dd28e62d16e63a67b47e627,a3c7ab6a,31,DNA,0,1000,5365,True,"GCF_000319815.1 Pseudomonas chengduensis strain=34, Psalc341.0",/dev/fd/63
+signatures/5486dbacc52320d0857a898298989f48.sig.gz,5486dbacc52320d0857a898298989f48,5486dbac,31,DNA,0,1000,6919,True,"GCF_004374705.1 Pseudomonas aeruginosa strain=286S270711BSL_PA1, ASM437470v1",/dev/fd/63
+signatures/4fc301f75a299c0844e901c2709f93d9.sig.gz,4fc301f75a299c0844e901c2709f93d9,4fc301f7,31,DNA,0,1000,3153,True,"GCA_002384615.1 Gammaproteobacteria bacterium UBA3978, ASM238461v1",/dev/fd/63
+signatures/04900cb6c3db63ec433de688f15ef3cb.sig.gz,04900cb6c3db63ec433de688f15ef3cb,04900cb6,31,DNA,0,1000,4283,True,"GCF_001027005.1 Methanosarcina barkeri CM1 strain=CM1, ASM102700v1",/dev/fd/63
+signatures/451aefc790544fd4a1e223001655abc8.sig.gz,451aefc790544fd4a1e223001655abc8,451aefc7,31,DNA,0,1000,4798,True,"GCF_001156385.1 Salmonella enterica subsp. enterica serovar Typhi strain=MDUST228, 10562_2#26",/dev/fd/63
+signatures/edf8be357a49d9b10d3b887de098afa3.sig.gz,edf8be357a49d9b10d3b887de098afa3,edf8be35,31,DNA,0,1000,5195,True,"GCF_016635345.1 Klebsiella pneumoniae strain=KP64, ASM1663534v1",/dev/fd/63
+signatures/900f6a19fc76f49d0787c83475b93024.sig.gz,900f6a19fc76f49d0787c83475b93024,900f6a19,31,DNA,0,1000,1995,True,"GCF_900043195.1 Streptococcus pneumoniae strain=2842STDY5753699, 12754_3#38",/dev/fd/63
+signatures/63dc20859a250b8a861a7d53a7b16e71.sig.gz,63dc20859a250b8a861a7d53a7b16e71,63dc2085,31,DNA,0,1000,2875,True,"GCA_018366895.1 Roseburia sp., ASM1836689v1",/dev/fd/63
+signatures/6fa3baa13f46ae0df720ec2607d8e2a5.sig.gz,6fa3baa13f46ae0df720ec2607d8e2a5,6fa3baa1,31,DNA,0,1000,6096,True,"GCF_900083985.1 Klebsiella oxytoca strain=2880STDY5682554, 12045_6#90",/dev/fd/63
+signatures/816842c32976962a02be17e51588f207.sig.gz,816842c32976962a02be17e51588f207,816842c3,31,DNA,0,1000,5702,True,"GCA_003428845.1 Klebsiella pneumoniae subsp. pneumoniae strain=M5, ASM342884v1",/dev/fd/63
+signatures/2203042b452663c1c74113dba281baef.sig.gz_3,2203042b452663c1c74113dba281baef,2203042b,31,DNA,0,1000,1815,True,"GCF_900988775.1 Streptococcus pyogenes strain=31041V2S1, 8113_7#74",/dev/fd/63
+signatures/c69f608df4b0ab6ede1b4d8e6af8d21c.sig.gz,c69f608df4b0ab6ede1b4d8e6af8d21c,c69f608d,31,DNA,0,1000,2848,True,"GCF_014693495.1 Staphylococcus aureus strain=HP20814.068, ASM1469349v1",/dev/fd/63
+signatures/be5320995eca7ff498ff7ef486e42e83.sig.gz,be5320995eca7ff498ff7ef486e42e83,be532099,31,DNA,0,1000,4846,True,"GCF_017920795.1 Pantoea ananatis strain=PNA_03_2, ASM1792079v1",/dev/fd/63
+signatures/3a24393352dd70dc3189c7fb81d306d0.sig.gz,3a24393352dd70dc3189c7fb81d306d0,3a243933,31,DNA,0,1000,6094,True,"GCF_900588815.1 Pseudomonas viridiflava, p27.A3",/dev/fd/63
+signatures/da2e54ae89ff3bc0f1ecae5e9afdcadc.sig.gz,da2e54ae89ff3bc0f1ecae5e9afdcadc,da2e54ae,31,DNA,0,1000,6545,True,"GCF_000792895.1 Pseudomonas aeruginosa strain=AZPAE15012, AZPAE15012",/dev/fd/63
+signatures/66f363be625dd960cce859d176bdef3a.sig.gz,66f363be625dd960cce859d176bdef3a,66f363be,31,DNA,0,1000,4653,True,"GCF_009677575.1 Odoribacter splanchnicus strain=BIOML-A7, ASM967757v1",/dev/fd/63
+signatures/0509dbb1ced2bddd4c4f0774ed4284ac.sig.gz,0509dbb1ced2bddd4c4f0774ed4284ac,0509dbb1,31,DNA,0,1000,4604,True,"GCF_018449775.1 Mucilaginibacter sp. dw_454 strain=dw_454, ASM1844977v1",/dev/fd/63
+signatures/4c642dbd103f2c54b31eda5f34d1d928.sig.gz,4c642dbd103f2c54b31eda5f34d1d928,4c642dbd,31,DNA,0,1000,2128,True,"GCF_900039285.1 Neisseria meningitidis strain=2842STDY5881434, 14555_5#93",/dev/fd/63
+signatures/7bb3974f182bd7beb61172111ddb39c8.sig.gz,7bb3974f182bd7beb61172111ddb39c8,7bb3974f,31,DNA,0,1000,2068,True,"GCF_003491085.1 Neisseria meningitidis strain=M39083, ASM349108v1",/dev/fd/63
+signatures/11ac1648334cbbb4c3241698169c251a.sig.gz,11ac1648334cbbb4c3241698169c251a,11ac1648,31,DNA,0,1000,3565,True,"GCA_003021545.1 Cyanobacteria bacterium QH_2_48_84, ASM302154v1",/dev/fd/63
+signatures/c3e3ab2c6832b2273cdbd4fab2f15685.sig.gz,c3e3ab2c6832b2273cdbd4fab2f15685,c3e3ab2c,31,DNA,0,1000,4725,True,"GCF_009295965.1 Yersinia pestis strain=SCPM-O-B-5935 (I-1996), ASM929596v1",/dev/fd/63
+signatures/8b25aaea6ff6d2e390ff7a7a8920ab4e.sig.gz,8b25aaea6ff6d2e390ff7a7a8920ab4e,8b25aaea,31,DNA,0,1000,1815,True,"GCF_013293415.1 Campylobacter coli strain=703632, ASM1329341v1",/dev/fd/63
+signatures/f4b35c6f70988ff0557915d1bd95c576.sig.gz,f4b35c6f70988ff0557915d1bd95c576,f4b35c6f,31,DNA,0,1000,5609,True,"GCF_016650615.1 Bacillus sp. TH45 strain=TH45, ASM1665061v1",/dev/fd/63
+signatures/46ce86e72a7d72fad275486210d3f032.sig.gz,46ce86e72a7d72fad275486210d3f032,46ce86e7,31,DNA,0,1000,1087,True,"GCA_009392315.1 SAR202 cluster bacterium, ASM939231v1",/dev/fd/63
+signatures/89d3787b74ac8bdf53706ab6fb69f2d8.sig.gz,89d3787b74ac8bdf53706ab6fb69f2d8,89d3787b,31,DNA,0,1000,2102,True,"GCF_001340015.1 Streptococcus pneumoniae strain=SMRU1039, 6731_3#7",/dev/fd/63
+signatures/966e7f67456c244fb9d6418c0ff6659e.sig.gz,966e7f67456c244fb9d6418c0ff6659e,966e7f67,31,DNA,0,1000,3040,True,"GCF_008131445.1 Enterococcus faecium strain=ERV218, ASM813144v1",/dev/fd/63
+signatures/cd60f133cafe16f3f25f7fb92e11f33f.sig.gz,cd60f133cafe16f3f25f7fb92e11f33f,cd60f133,31,DNA,0,1000,2222,True,"GCF_016901925.1 Veillonella magna strain=An537, ASM1690192v1",/dev/fd/63
+signatures/1de7784bf3a7af697c5807a4c8cf3cf6.sig.gz,1de7784bf3a7af697c5807a4c8cf3cf6,1de7784b,31,DNA,0,1000,2209,True,"GCA_900758465.1 uncultured Faecalibacterium sp., ERS608519_39",/dev/fd/63
+signatures/9f285abcc55a0103ebf1f696014238b0.sig.gz,9f285abcc55a0103ebf1f696014238b0,9f285abc,31,DNA,0,1000,4567,True,"GCF_002545485.1 Escherichia coli strain=MOD1-EC5881, ASM254548v1",/dev/fd/63
+signatures/d942b08fad5604549060e8f76ea87dbc.sig.gz,d942b08fad5604549060e8f76ea87dbc,d942b08f,31,DNA,0,1000,2966,True,"GCA_002492025.1 Escherichia coli, ASM249202v1",/dev/fd/63
+signatures/dad99ae48d8464f062e0f83d98e6e9c2.sig.gz,dad99ae48d8464f062e0f83d98e6e9c2,dad99ae4,31,DNA,0,1000,1756,True,"GCF_001494035.1 Campylobacter coli strain=n/a, p474D",/dev/fd/63
+signatures/2172414dd6860aecbbddd9bdd43fa4c3.sig.gz,2172414dd6860aecbbddd9bdd43fa4c3,2172414d,31,DNA,0,1000,4290,True,"GCF_000443895.1 Mycobacterium tuberculosis PanR0301 strain=PanR0301, fedora0301c_IS",/dev/fd/63
+signatures/9cddfae450814d9fe7afaf0b22fa61d9.sig.gz,9cddfae450814d9fe7afaf0b22fa61d9,9cddfae4,31,DNA,0,1000,4439,True,"GCA_007096005.1 Microcystis viridis Mv_BB_P_19951000_S68, ASM709600v1",/dev/fd/63
+signatures/a69979653e2395d1d263de0bd3ef3c5d.sig.gz,a69979653e2395d1d263de0bd3ef3c5d,a6997965,31,DNA,0,1000,2914,True,"GCF_004126015.1 Enterococcus faecalis strain=EN36, ASM412601v1",/dev/fd/63
+signatures/f7756f968cdef6c0134ab2ae2b66fa67.sig.gz,f7756f968cdef6c0134ab2ae2b66fa67,f7756f96,31,DNA,0,1000,2699,True,"GCA_910578615.1 uncultured Duncaniella sp., MGBC111445",/dev/fd/63
+signatures/665f655237cd3e54388ae3235c90eeb5.sig.gz,665f655237cd3e54388ae3235c90eeb5,665f6552,31,DNA,0,1000,2899,True,"GCA_015978185.1 Oceanicaulis alexandrii, ASM1597818v1",/dev/fd/63
+signatures/1614c833d3f48f938bd21e233339c25b.sig.gz,1614c833d3f48f938bd21e233339c25b,1614c833,31,DNA,0,1000,4036,True,"GCA_002381615.1 Polaromonas sp. UBA4122, ASM238161v1",/dev/fd/63
+signatures/a6cbc0b5354db40876e0025b442e6f45.sig.gz,a6cbc0b5354db40876e0025b442e6f45,a6cbc0b5,31,DNA,0,1000,3074,True,"GCF_900302955.1 Enterococcus faecium, V1780",/dev/fd/63
+signatures/97fbbeef7d8c7214c7367aa8de3bbc2d.sig.gz,97fbbeef7d8c7214c7367aa8de3bbc2d,97fbbeef,31,DNA,0,1000,1260,True,"GCA_902648475.2 uncultured Wolbachia sp., WOLB1162.2",/dev/fd/63
+signatures/f5e08993ad4e4be739212517e2bfeb83.sig.gz,f5e08993ad4e4be739212517e2bfeb83,f5e08993,31,DNA,0,1000,6017,True,"GCF_016308175.1 Pseudomonas syringae strain=RCY_3a, ASM1630817v1",/dev/fd/63
+signatures/db9eb59dc9c74832594516dc3d1f025e.sig.gz,db9eb59dc9c74832594516dc3d1f025e,db9eb59d,31,DNA,0,1000,2722,True,"GCF_001019305.2 Staphylococcus aureus strain=FDAARGOS_9, ASM101930v2",/dev/fd/63
+signatures/453b54d6048bbf28bd55840f6eaa8833.sig.gz,453b54d6048bbf28bd55840f6eaa8833,453b54d6,31,DNA,0,1000,2227,True,"GCA_902770725.1 uncultured Bacteroidales bacterium, Rumen uncultured genome RUG11599",/dev/fd/63
+signatures/35e35d9d2a6f32eb0ea938ffc8d90990.sig.gz,35e35d9d2a6f32eb0ea938ffc8d90990,35e35d9d,31,DNA,0,1000,3385,True,"GCA_005240015.1 Candidatus Odyssella thessalonicensis, ASM524001v1",/dev/fd/63
+signatures/52fa8b59fe5ed5cae922510c6afafbbf.sig.gz,52fa8b59fe5ed5cae922510c6afafbbf,52fa8b59,31,DNA,0,1000,2026,True,"GCF_016658865.1 Streptococcus mitis strain=S022-V7-A3, ASM1665886v1",/dev/fd/63
+signatures/70038dfb9fd95c16e94924c0c131b6eb.sig.gz,70038dfb9fd95c16e94924c0c131b6eb,70038dfb,31,DNA,0,1000,1527,True,"GCF_904419105.1 Candidatus Avimicrobium faecavium, Chicken_15_mag_135",/dev/fd/63
+signatures/6929ba7590e5b9fdbc7be597bbc9ffcb.sig.gz,6929ba7590e5b9fdbc7be597bbc9ffcb,6929ba75,31,DNA,0,1000,6658,True,"GCF_013410205.1 Methylobacterium sp. YL-MPn5-2016 strain=YL-MPn5-2016, ASM1341020v1",/dev/fd/63
+signatures/b0666da9ff6b644fe49303693a47d542.sig.gz,b0666da9ff6b644fe49303693a47d542,b0666da9,31,DNA,0,1000,2100,True,"GCF_001084825.1 Streptococcus pneumoniae strain=type strain: N, 6631_1#2",/dev/fd/63
+signatures/f9741b57b92efdcb3c496a5a219bf8fd.sig.gz,f9741b57b92efdcb3c496a5a219bf8fd,f9741b57,31,DNA,0,1000,1548,True,"GCF_008032975.1 Helicobacter pylori strain=G-Mx-2006-152, ASM803297v1",/dev/fd/63
+signatures/a17158ad4412e7f9d7ee644d6f47cfa2.sig.gz,a17158ad4412e7f9d7ee644d6f47cfa2,a17158ad,31,DNA,0,1000,2749,True,"GCF_004328235.1 Enterococcus faecium strain=J25, ASM432823v1",/dev/fd/63
+signatures/301e133c033efecdcee494c3579b8ec8.sig.gz,301e133c033efecdcee494c3579b8ec8,301e133c,31,DNA,0,1000,2465,True,"GCF_001876115.1 Corynebacterium diphtheriae strain=ST378-KZN-2015-45788, ASM187611v1",/dev/fd/63
+signatures/3e6a4fa94667a068170537fa1fdacd1b.sig.gz,3e6a4fa94667a068170537fa1fdacd1b,3e6a4fa9,31,DNA,0,1000,5158,True,"GCF_000017505.1 Anaeromyxobacter sp. Fw109-5 strain=Fw109-5, ASM1750v1",/dev/fd/63
+signatures/5c857c822f8168afcfe1e0e2e3b64d77.sig.gz,5c857c822f8168afcfe1e0e2e3b64d77,5c857c82,31,DNA,0,1000,1048,True,"GCA_902596745.1 uncultured Pelagibacteraceae bacterium, AG-916-D16",/dev/fd/63
+signatures/67dad8383364e50a74bfc8a5c0cacf4a.sig.gz,67dad8383364e50a74bfc8a5c0cacf4a,67dad838,31,DNA,0,1000,1508,True,"GCA_012727845.1 Clostridiaceae bacterium, ASM1272784v1",/dev/fd/63
+signatures/f87e6f83f83bcfe7a3cf612b15a3a733.sig.gz,f87e6f83f83bcfe7a3cf612b15a3a733,f87e6f83,31,DNA,0,1000,4467,True,"GCF_001577305.1 Sinomonas atrocyanea strain=KCTC 3377, ASM157730v1",/dev/fd/63
+signatures/5ab9006ffec82d526637c8b7f2eb3a81.sig.gz,5ab9006ffec82d526637c8b7f2eb3a81,5ab9006f,31,DNA,0,1000,2004,True,"GCA_008017315.1 Acinetobacter sp., ASM801731v1",/dev/fd/63
+signatures/d1a0031d3b9c847640e65cdb9e94675d.sig.gz,d1a0031d3b9c847640e65cdb9e94675d,d1a0031d,31,DNA,0,1000,2298,True,"GCA_902763935.1 uncultured Methanobrevibacter sp., Rumen uncultured genome RUG10917",/dev/fd/63
+signatures/02d6dae7c484187971fa109a24ba5f88.sig.gz,02d6dae7c484187971fa109a24ba5f88,02d6dae7,31,DNA,0,1000,3238,True,"GCF_003469805.1 Lactobacillus plantarum strain=AM25-25, ASM346980v1",/dev/fd/63
+signatures/1ab574221accd0cfb3f25f5b4b61f5aa.sig.gz,1ab574221accd0cfb3f25f5b4b61f5aa,1ab57422,31,DNA,0,1000,3634,True,"GCA_903909725.1 uncultured Burkholderiales bacterium, freshwater MAG --- AM-2014-D1_bin-062",/dev/fd/63
+signatures/146ee539441a85c3e1681572d9617635.sig.gz,146ee539441a85c3e1681572d9617635,146ee539,31,DNA,0,1000,3578,True,"GCA_003133815.1 Verrucomicrobia subdivision 3 bacterium, 20111000_S3M",/dev/fd/63
+signatures/2922edcb0027770dd2728f193728ad66.sig.gz,2922edcb0027770dd2728f193728ad66,2922edcb,31,DNA,0,1000,2580,True,"GCF_000392195.1 Enterococcus faecium EnGen0151 strain=H17575, Ente_faec_H17575_V1",/dev/fd/63
+signatures/e048a62f93540d0690779a889fb36e3a.sig.gz,e048a62f93540d0690779a889fb36e3a,e048a62f,31,DNA,0,1000,2114,True,"GCF_001697325.1 Neisseria meningitidis strain=M12752, ASM169732v1",/dev/fd/63
+signatures/badeacdba0039e3c90a0fc7b9243cf69.sig.gz,badeacdba0039e3c90a0fc7b9243cf69,badeacdb,31,DNA,0,1000,4864,True,"GCF_900077045.1 Enterobacter hormaechei strain=e395, 12045_4#37",/dev/fd/63
+signatures/60df8787c11f998046fa12ef096ea94f.sig.gz,60df8787c11f998046fa12ef096ea94f,60df8787,31,DNA,0,1000,2560,True,"GCF_019125315.1 Bifidobacterium longum strain=MSK.5.15, ASM1912531v1",/dev/fd/63
+signatures/953be83aa4012d025917d1e0e9a41e78.sig.gz,953be83aa4012d025917d1e0e9a41e78,953be83a,31,DNA,0,1000,6234,True,"GCF_003217495.1 Paenibacillus barcinonensis strain=CECT 7022, ASM321749v1",/dev/fd/63
+signatures/5385597d7a83c0ab0d8cbb703853b12d.sig.gz,5385597d7a83c0ab0d8cbb703853b12d,5385597d,31,DNA,0,1000,2794,True,"GCF_008755155.1 Listeria monocytogenes strain=ICDC_LM0077, ASM875515v1",/dev/fd/63
+signatures/5b13548d1bbae2e916166c20e77c6b5a.sig.gz,5b13548d1bbae2e916166c20e77c6b5a,5b13548d,31,DNA,0,1000,2798,True,"GCF_009913115.1 Staphylococcus aureus strain=UP_1097, ASM991311v1",/dev/fd/63
+signatures/cad35558d612e7b09c48ec501d02c989.sig.gz,cad35558d612e7b09c48ec501d02c989,cad35558,31,DNA,0,1000,4278,True,"GCF_003395825.1 Mycobacterium tuberculosis strain=33079_S28, ASM339582v1",/dev/fd/63
+signatures/5ba5745020bb21991e740356493c641c.sig.gz,5ba5745020bb21991e740356493c641c,5ba57450,31,DNA,0,1000,3168,True,"GCF_001401925.1 Brucella abortus strain=11796, ASM140192v1",/dev/fd/63
+signatures/e4b4b6236f769403f9a00e8053595d13.sig.gz,e4b4b6236f769403f9a00e8053595d13,e4b4b623,31,DNA,0,1000,3841,True,"GCF_002212685.1 Acinetobacter baumannii strain=AB559, ASM221268v1",/dev/fd/63
+signatures/65529c8927618adceb8d4c2960010fd3.sig.gz,65529c8927618adceb8d4c2960010fd3,65529c89,31,DNA,0,1000,1468,True,"GCA_004554005.1 Clostridiales bacterium, ASM455400v1",/dev/fd/63
+signatures/68c5b8e94161f407dc147419f005974c.sig.gz,68c5b8e94161f407dc147419f005974c,68c5b8e9,31,DNA,0,1000,2118,True,"GCF_900193495.1 Streptococcus pneumoniae strain=UoS5205, 6569_7#10",/dev/fd/63
+signatures/2c5b344844a4101ff472046d2ade2a31.sig.gz_1,2c5b344844a4101ff472046d2ade2a31,2c5b3448,31,DNA,0,1000,2838,True,"GCF_009788255.1 Listeria monocytogenes strain=ICDC-LM1869, ASM978825v1",/dev/fd/63
+signatures/ff1e097e38790deceac48375892260a6.sig.gz,ff1e097e38790deceac48375892260a6,ff1e097e,31,DNA,0,1000,3183,True,"GCF_900417235.1 Brucella melitensis, 00-2782",/dev/fd/63
+signatures/431014d73f8a1cceb2f7c1763e18d426.sig.gz_0,431014d73f8a1cceb2f7c1763e18d426,431014d7,31,DNA,0,1000,2871,True,"GCF_001354315.1 Staphylococcus aureus strain=FL362, 9266_1#8",/dev/fd/63
+signatures/939c4ba4db088494bb6743614f0351a4.sig.gz,939c4ba4db088494bb6743614f0351a4,939c4ba4,31,DNA,0,1000,5010,True,"GCA_013424335.1 Escherichia coli strain=PE01_355, ASM1342433v1",/dev/fd/63
+signatures/2d1766ca89e72b80c51937a8598bbe4a.sig.gz,2d1766ca89e72b80c51937a8598bbe4a,2d1766ca,31,DNA,0,1000,2506,True,"GCA_905235745.1 uncultured Lachnospiraceae bacterium, RUG30263",/dev/fd/63
+signatures/422023663b2acf6ad534bd9c7c237fce.sig.gz,422023663b2acf6ad534bd9c7c237fce,42202366,31,DNA,0,1000,2888,True,"GCF_000578895.1 Staphylococcus aureus H47171 strain=H47171, Stap_aure_H47171_V1",/dev/fd/63
+signatures/57f67e7ff2f4af103e55d4fe498c004b.sig.gz,57f67e7ff2f4af103e55d4fe498c004b,57f67e7f,31,DNA,0,1000,2784,True,"GCF_003424745.1 Staphylococcus aureus subsp. aureus, ASM342474v1",/dev/fd/63
+signatures/97f09f5c775dd8e40be96376dcacc462.sig.gz,97f09f5c775dd8e40be96376dcacc462,97f09f5c,31,DNA,0,1000,2125,True,"GCF_001136965.1 Streptococcus pneumoniae strain=SMRU1916, 6823_3#20",/dev/fd/63
+signatures/eefc0ab47171594b8dae8a5018c0e1f5.sig.gz,eefc0ab47171594b8dae8a5018c0e1f5,eefc0ab4,31,DNA,0,1000,4722,True,"GCF_005381525.1 Escherichia coli strain=BE2125, ASM538152v1",/dev/fd/63
+signatures/f7ceb78143978505c8a1ed08169776b6.sig.gz,f7ceb78143978505c8a1ed08169776b6,f7ceb781,31,DNA,0,1000,660,True,"GCA_017512175.1 Candidatus Saccharibacteria bacterium, ASM1751217v1",/dev/fd/63
+signatures/f0c646f003097a360939a38899b4bc8b.sig.gz,f0c646f003097a360939a38899b4bc8b,f0c646f0,31,DNA,0,1000,5820,True,"GCF_000424745.1 Salinispora arenicola CNS299 strain=CNS299, ASM42474v1",/dev/fd/63
+signatures/6b3706523049c85ed95abd18ac8e0372.sig.gz,6b3706523049c85ed95abd18ac8e0372,6b370652,31,DNA,0,1000,6615,True,"GCA_000281735.1 Rhizobium sp. AP16 strain=AP16, ASM28173v1",/dev/fd/63
+signatures/b3bfa30847511985f9475c8957a72720.sig.gz,b3bfa30847511985f9475c8957a72720,b3bfa308,31,DNA,0,1000,1769,True,"GCF_000189855.1 Methanobrevibacter smithii TS146B strain=TS146B, ASM18985v2",/dev/fd/63
+signatures/de0c44489492fcaa1981c2a471e9072d.sig.gz,de0c44489492fcaa1981c2a471e9072d,de0c4448,31,DNA,0,1000,2826,True,"GCF_000546045.1 Staphylococcus aureus M0979 strain=M0979, Stap_aure_M0979_V1",/dev/fd/63
+signatures/c683c6140c4c252cbbe70bb3563a92bc.sig.gz,c683c6140c4c252cbbe70bb3563a92bc,c683c614,31,DNA,0,1000,5275,True,"GCF_002133925.1 Escherichia coli strain=OLC984, ASM213392v1",/dev/fd/63
+signatures/1ba4cf7ba593d8e75035ff8ea3fb99a5.sig.gz,1ba4cf7ba593d8e75035ff8ea3fb99a5,1ba4cf7b,31,DNA,0,1000,4323,True,"GCF_001386195.1 Mycobacterium tuberculosis strain=2087V, 7935_3#54",/dev/fd/63
+signatures/a61d98fbad1349c333298efb74ea6080.sig.gz,a61d98fbad1349c333298efb74ea6080,a61d98fb,31,DNA,0,1000,4221,True,"GCF_001955715.1 Rhodoferax saidenbachensis strain=DSM 22694, ASM195571v1",/dev/fd/63
+signatures/a6ea6980934c87e6ab7d33a2d35cc6b5.sig.gz,a6ea6980934c87e6ab7d33a2d35cc6b5,a6ea6980,31,DNA,0,1000,2065,True,"GCF_000293325.1 Neisseria meningitidis NM183 strain=NM183, ASM29332v1",/dev/fd/63
+signatures/702fd327430a9bda81068a2b65cdd18a.sig.gz,702fd327430a9bda81068a2b65cdd18a,702fd327,31,DNA,0,1000,5430,True,"GCF_000782875.1 Bacillus anthracis strain=2000031006, ASM78287v1",/dev/fd/63
+signatures/93ee1832eb384f06b1900856eb2106cd.sig.gz,93ee1832eb384f06b1900856eb2106cd,93ee1832,31,DNA,0,1000,3938,True,"GCF_001857145.1 Vibrio cholerae strain=2559-78, ASM185714v1",/dev/fd/63
+signatures/2889d619e5d59aaef7808beed65b11aa.sig.gz,2889d619e5d59aaef7808beed65b11aa,2889d619,31,DNA,0,1000,5878,True,"GCA_900544215.1 uncultured Parabacteroides sp., UMGS647",/dev/fd/63
+signatures/45764b67fa4bdf23688a70e7f053f507.sig.gz,45764b67fa4bdf23688a70e7f053f507,45764b67,31,DNA,0,1000,5414,True,"GCF_900093445.1 Klebsiella pneumoniae strain=F1-9-ERG1, 18090_8#92",/dev/fd/63
+signatures/5f11eaf5315bf10031f2cdbb41822412.sig.gz,5f11eaf5315bf10031f2cdbb41822412,5f11eaf5,31,DNA,0,1000,2192,True,"GCA_903814225.1 uncultured Gammaproteobacteria bacterium, C115.bsp_MAR-CL_sox_MAG",/dev/fd/63
+signatures/881ed35f730882e46433234ec67f6296.sig.gz,881ed35f730882e46433234ec67f6296,881ed35f,31,DNA,0,1000,2677,True,"GCA_003167295.1 Candidatus Eremiobacteraeota bacterium, 20110700_P2D",/dev/fd/63
+signatures/f0fc2bd19519d00429061625cce27805.sig.gz,f0fc2bd19519d00429061625cce27805,f0fc2bd1,31,DNA,0,1000,2860,True,"GCF_018617975.1 Exiguobacterium sp. s21 strain=s21, ASM1861797v1",/dev/fd/63
+signatures/3fda9b24bea0ba4870b796ad105cae7a.sig.gz,3fda9b24bea0ba4870b796ad105cae7a,3fda9b24,31,DNA,0,1000,2957,True,"GCF_007595545.1 Brachyspira hyodysenteriae strain=NM31, ASM759554v1",/dev/fd/63
+signatures/909f7187c6c0b4750678067b37e5cc2d.sig.gz,909f7187c6c0b4750678067b37e5cc2d,909f7187,31,DNA,0,1000,4703,True,"GCF_001022335.1 Enterobacter hormaechei subsp. steigerwaltii strain=GN02377, ASM102233v1",/dev/fd/63
+signatures/a72ac590decc8180d293f213774079a0.sig.gz,a72ac590decc8180d293f213774079a0,a72ac590,31,DNA,0,1000,6848,True,"GCF_003850585.1 Pseudomonas chlororaphis subsp. piscium strain=ToZa7, ASM385058v1",/dev/fd/63
+signatures/0232a9f215d7100016e647a5f478c47f.sig.gz,0232a9f215d7100016e647a5f478c47f,0232a9f2,31,DNA,0,1000,4562,True,"GCF_010974825.1 Aeromonas rivipollensis strain=G78, ASM1097482v1",/dev/fd/63
+signatures/6985a8767b5a603aeceaa915a73b98ed.sig.gz,6985a8767b5a603aeceaa915a73b98ed,6985a876,31,DNA,0,1000,1771,True,"GCF_003961905.1 Campylobacter jejuni strain=CB375, ASM396190v1",/dev/fd/63
+signatures/53943268c46db9cab3e486b515dafff0.sig.gz,53943268c46db9cab3e486b515dafff0,53943268,31,DNA,0,1000,5142,True,"GCA_002386525.1 Sphingobacterium sp. UBA4616, ASM238652v1",/dev/fd/63
+signatures/c831768bd078d932411d6cf28775f448.sig.gz,c831768bd078d932411d6cf28775f448,c831768b,31,DNA,0,1000,953,True,"GCA_002452795.1 Dehalococcoidia bacterium UBA6803, ASM245279v1",/dev/fd/63
+signatures/d95d64a02ba0e5a20119e69820ba966d.sig.gz,d95d64a02ba0e5a20119e69820ba966d,d95d64a0,31,DNA,0,1000,8360,True,"GCF_014831675.1 Komarekiella sp. 'clone 1' strain=clone 1, ASM1483167v1",/dev/fd/63
+signatures/18b8fdc699ce2b7cb248960827fe3ad2.sig.gz,18b8fdc699ce2b7cb248960827fe3ad2,18b8fdc6,31,DNA,0,1000,4581,True,"GCF_002994485.1 Chromobacterium amazonense strain=56AF, ASM299448v1",/dev/fd/63
+signatures/9969638d2a5dde68742d43bbd0d82b81.sig.gz,9969638d2a5dde68742d43bbd0d82b81,9969638d,31,DNA,0,1000,4540,True,"GCF_006350635.1 Escherichia coli strain=KCJK8659, ASM635063v1",/dev/fd/63
+signatures/487740e266520b7c7c5d2dfb5d7afff2.sig.gz,487740e266520b7c7c5d2dfb5d7afff2,487740e2,31,DNA,0,1000,4540,True,"GCF_017313085.1 Roseibium sp. CAU 1637 strain=CAU 1637, ASM1731308v1",/dev/fd/63
+signatures/7d11383c9e7c866446f67d35b6648c2c.sig.gz_0,7d11383c9e7c866446f67d35b6648c2c,7d11383c,31,DNA,0,1000,1555,True,"GCF_011458315.1 Helicobacter pylori strain=78A3, ASM1145831v1",/dev/fd/63
+signatures/9823d6531e723d6f30c7e783a1db217f.sig.gz,9823d6531e723d6f30c7e783a1db217f,9823d653,31,DNA,0,1000,8634,True,"GCF_010747425.1 Nostoc sp. UIC 10630 strain=UIC 10630, ASM1074742v1",/dev/fd/63
+signatures/9a926599086176b75508fa0082111f3d.sig.gz,9a926599086176b75508fa0082111f3d,9a926599,31,DNA,0,1000,4771,True,"GCF_003964555.1 Enterobacter hormaechei strain=WCHEH090056, ASM396455v1",/dev/fd/63
+signatures/2065142eb87a0303c40532bf5730055d.sig.gz,2065142eb87a0303c40532bf5730055d,2065142e,31,DNA,0,1000,2800,True,"GCA_012719335.1 Propionibacterium sp., ASM1271933v1",/dev/fd/63
+signatures/193f54a97e0702e02710db548f7309c7.sig.gz,193f54a97e0702e02710db548f7309c7,193f54a9,31,DNA,0,1000,2903,True,"GCF_013432835.1 Listeria monocytogenes strain=412, ASM1343283v1",/dev/fd/63
+signatures/b81c3db957ad461eae65bb960070bf1a.sig.gz,b81c3db957ad461eae65bb960070bf1a,b81c3db9,31,DNA,0,1000,5042,True,"GCF_001245415.1 Salmonella enterica subsp. enterica serovar Typhimurium var. 5- strain=CVM N50425, Salmonella enterica CVM N5042",/dev/fd/63
+signatures/60be973bdbd057b7dfe26eae92780242.sig.gz,60be973bdbd057b7dfe26eae92780242,60be973b,31,DNA,0,1000,5278,True,"GCF_001617135.1 Escherichia coli strain=sheep50, ASM161713v1",/dev/fd/63
+signatures/e100f507bd8e505c69bad62835701fe6.sig.gz,e100f507bd8e505c69bad62835701fe6,e100f507,31,DNA,0,1000,889,True,"GCA_018656625.1 Candidatus Diapherotrites archaeon, ASM1865662v1",/dev/fd/63
+signatures/986fe1b3337f8c0824ae5c896a5541c6.sig.gz,986fe1b3337f8c0824ae5c896a5541c6,986fe1b3,31,DNA,0,1000,2230,True,"GCA_900067015.1 uncultured Ruminococcus sp., 14207_7#95",/dev/fd/63
+signatures/a48e62130eaea4242afa491552f8f6e9.sig.gz,a48e62130eaea4242afa491552f8f6e9,a48e6213,31,DNA,0,1000,2913,True,"GCF_000556385.1 Staphylococcus aureus M0465 strain=M0465, Stap_aure_M0465_V1",/dev/fd/63
+signatures/17502418b555801b36608e08233dc686.sig.gz,17502418b555801b36608e08233dc686,17502418,31,DNA,0,1000,914,True,"GCA_902595595.1 uncultured Pelagibacteraceae bacterium, AG-447-N16",/dev/fd/63
+signatures/88fb2fa28aa6a56d170dd407784bc8f0.sig.gz,88fb2fa28aa6a56d170dd407784bc8f0,88fb2fa2,31,DNA,0,1000,5586,True,"GCF_002182055.1 Klebsiella pneumoniae strain=42196, ASM218205v1",/dev/fd/63
+signatures/c011ce35b8a48a61bd498871b88a422a.sig.gz,c011ce35b8a48a61bd498871b88a422a,c011ce35,31,DNA,0,1000,5155,True,"GCF_004100625.1 Escherichia coli strain=46_rectal, ASM410062v1",/dev/fd/63
+signatures/33260a76145c355e61f057fae019c66d.sig.gz,33260a76145c355e61f057fae019c66d,33260a76,31,DNA,0,1000,6850,True,"GCF_900106185.1 Pseudomonas aeruginosa, PSA4",/dev/fd/63
+signatures/ec3ae2d2b5dc328420659007f84ca8ff.sig.gz,ec3ae2d2b5dc328420659007f84ca8ff,ec3ae2d2,31,DNA,0,1000,4900,True,"GCF_900009535.1 Salmonella enterica subsp. enterica serovar Typhimurium strain=STM3, 2013_039587_32_",/dev/fd/63
+signatures/0faf344a44fc55ffaf6b48693c700e81.sig.gz,0faf344a44fc55ffaf6b48693c700e81,0faf344a,31,DNA,0,1000,5352,True,"GCF_011033175.1 Escherichia coli strain=SHCDC-ECO157-009, ASM1103317v1",/dev/fd/63
+signatures/f95df6e02ccbb6ab1ec3f5739be0737c.sig.gz,f95df6e02ccbb6ab1ec3f5739be0737c,f95df6e0,31,DNA,0,1000,2088,True,"GCA_015829595.1 Neisseria meningitidis strain=N83_16, ASM1582959v1",/dev/fd/63
+signatures/abd6864488efa70cac29d4e9e2d75136.sig.gz,abd6864488efa70cac29d4e9e2d75136,abd68644,31,DNA,0,1000,2821,True,"GCF_900035205.1 Listeria monocytogenes strain=2842STDY5753904, 12754_5#21",/dev/fd/63
+signatures/65e39d794a795b547183ff64fb1bf24a.sig.gz,65e39d794a795b547183ff64fb1bf24a,65e39d79,31,DNA,0,1000,3892,True,"GCF_006802355.1 Vibrio cholerae strain=A12JL36W74, ASM680235v1",/dev/fd/63
+signatures/2dfbc0787ce7c5968af91da1aa5c355e.sig.gz,2dfbc0787ce7c5968af91da1aa5c355e,2dfbc078,31,DNA,0,1000,5029,True,"GCF_003017995.1 Escherichia coli strain=2014C-3307, ASM301799v1",/dev/fd/63
+signatures/fb54c1ac4bc1083ce9856e1a8a5326aa.sig.gz,fb54c1ac4bc1083ce9856e1a8a5326aa,fb54c1ac,31,DNA,0,1000,4328,True,"GCF_900121025.1 Mycobacterium tuberculosis strain=2926STDY5723587, 14722_6#66",/dev/fd/63
+signatures/4b50af6576253bf142337bd6b63ac443.sig.gz,4b50af6576253bf142337bd6b63ac443,4b50af65,31,DNA,0,1000,2763,True,"GCF_900251615.1 Staphylococcus aureus strain=M3593, M3593",/dev/fd/63
+signatures/1d96026067237f4143c9d7266da263a6.sig.gz,1d96026067237f4143c9d7266da263a6,1d960260,31,DNA,0,1000,1866,True,"GCF_901542445.1 Streptococcus anginosus strain=NCTC11062, 42017_C01",/dev/fd/63
+signatures/a7ca0a6e2a40e06869b53b8ce9c4041e.sig.gz,a7ca0a6e2a40e06869b53b8ce9c4041e,a7ca0a6e,31,DNA,0,1000,5392,True,"GCF_004801455.1 Bacillus sp. DSL-17 strain=DSL-17, ASM480145v1",/dev/fd/63
+signatures/2a41f432920e47e9db8f2e5d5af2ccba.sig.gz,2a41f432920e47e9db8f2e5d5af2ccba,2a41f432,31,DNA,0,1000,1457,True,"GCA_015263775.1 Mogibacterium diversum, ASM1526377v1",/dev/fd/63
+signatures/7531203fa78856a574e76c21e6fe83c6.sig.gz,7531203fa78856a574e76c21e6fe83c6,7531203f,31,DNA,0,1000,2053,True,"GCF_000947835.1 Streptococcus suis strain=S3E, Velvet_assembly",/dev/fd/63
+signatures/558af35e615e7b923bcb21e9bc04e50b.sig.gz,558af35e615e7b923bcb21e9bc04e50b,558af35e,31,DNA,0,1000,3215,True,"GCF_000971115.1 Lysinimicrobium gelatinilyticum strain=NBRC 109390, ASM97111v1",/dev/fd/63
+signatures/585751bc3a0debe95f6f825a1be5e8ae.sig.gz,585751bc3a0debe95f6f825a1be5e8ae,585751bc,31,DNA,0,1000,2077,True,"GCA_905479445.1 uncultured Polaribacter sp., 0.2_20180529_Bin_33_1_1",/dev/fd/63
+signatures/e120ef8ee8d3d20e9c59b5d7f595b337.sig.gz,e120ef8ee8d3d20e9c59b5d7f595b337,e120ef8e,31,DNA,0,1000,2096,True,"GCF_000232965.1 Streptococcus pneumoniae GA47373 strain=GA47373, ASM23296v2",/dev/fd/63
+signatures/9c2f4cff85e01d94cca828ec72aa78b9.sig.gz,9c2f4cff85e01d94cca828ec72aa78b9,9c2f4cff,31,DNA,0,1000,2054,True,"GCF_012641885.1 Streptococcus mutans strain=UAB-35, ASM1264188v1",/dev/fd/63
+signatures/62f1c5ee4faf37cd26bb37730bb2fbcd.sig.gz,62f1c5ee4faf37cd26bb37730bb2fbcd,62f1c5ee,31,DNA,0,1000,1901,True,"GCF_902460865.1 Campylobacter concisus, 2013-101463",/dev/fd/63
+signatures/ae4219d57f30214e80992f013e229fb9.sig.gz_0,ae4219d57f30214e80992f013e229fb9,ae4219d5,31,DNA,0,1000,1674,True,"GCF_001490215.1 Campylobacter coli strain=n/a, EC3575",/dev/fd/63
+signatures/441660951449b67b0f5beb7fdf4e1dc6.sig.gz,441660951449b67b0f5beb7fdf4e1dc6,44166095,31,DNA,0,1000,5381,True,"GCF_010597985.1 Klebsiella aerogenes strain=AS012312, ASM1059798v1",/dev/fd/63
+signatures/a927a02e3973bcc657d5af9bb5f9191e.sig.gz,a927a02e3973bcc657d5af9bb5f9191e,a927a02e,31,DNA,0,1000,2471,True,"GCF_001073295.1 Staphylococcus epidermidis strain=551_SEPI, ASM107329v1",/dev/fd/63
+signatures/57750b7c65c333d87d6bd4b47028b39f.sig.gz,57750b7c65c333d87d6bd4b47028b39f,57750b7c,31,DNA,0,1000,6721,True,"GCF_000795205.1 Pseudomonas aeruginosa strain=AZPAE14819, AZPAE14819",/dev/fd/63
+signatures/1e8b13a4a344cb27cd5cdbb21bc816ae.sig.gz,1e8b13a4a344cb27cd5cdbb21bc816ae,1e8b13a4,31,DNA,0,1000,4565,True,"GCF_003145855.1 Escherichia coli strain=Spr2013_WWKa_OUT_11, ASM314585v1",/dev/fd/63
+signatures/447f594f96f46e6e59ed77e185f1abc4.sig.gz,447f594f96f46e6e59ed77e185f1abc4,447f594f,31,DNA,0,1000,4829,True,"GCF_001293445.1 Xanthomonas campestris pv. campestris strain=17, ASM129344v1",/dev/fd/63
+signatures/7b3668aa053216fb7b9fab920b2e5165.sig.gz,7b3668aa053216fb7b9fab920b2e5165,7b3668aa,31,DNA,0,1000,5635,True,"GCF_003332225.1 Bacillus cereus strain=8A, ASM333222v1",/dev/fd/63
+signatures/20b174c0acff2bd53759da71dd8a7923.sig.gz,20b174c0acff2bd53759da71dd8a7923,20b174c0,31,DNA,0,1000,2201,True,"GCA_905205975.1 uncultured Clostridiales bacterium, ERR1430500-mag-bin.41",/dev/fd/63
+signatures/8ef78bdd427049ab5110cf74648d6316.sig.gz,8ef78bdd427049ab5110cf74648d6316,8ef78bdd,31,DNA,0,1000,6787,True,"GCF_015317985.1 Pseudomonas aeruginosa strain=H52, ASM1531798v1",/dev/fd/63
+signatures/4c56d2cf656d94d4606cfbc7cbe29edb.sig.gz,4c56d2cf656d94d4606cfbc7cbe29edb,4c56d2cf,31,DNA,0,1000,3854,True,"GCF_002138315.1 Acinetobacter baumannii strain=PR396, ASM213831v1",/dev/fd/63
+signatures/a222398813d2cd166e36580aa60eee0f.sig.gz,a222398813d2cd166e36580aa60eee0f,a2223988,31,DNA,0,1000,5141,True,"GCF_000695135.1 Escherichia coli strain=PMK-5, Ecoli97-3250v1",/dev/fd/63
+signatures/1851b4f8106e335eb092817abf9bbc80.sig.gz,1851b4f8106e335eb092817abf9bbc80,1851b4f8,31,DNA,0,1000,5007,True,"GCF_003305135.1 Escherichia coli strain=TUM18687, ASM330513v1",/dev/fd/63
+signatures/8d80685dfed17ac1ee5fff30a6b4124c.sig.gz,8d80685dfed17ac1ee5fff30a6b4124c,8d80685d,31,DNA,0,1000,2649,True,"GCA_003402345.1 Candidatus Nitrotoga sp. MKT, ASM340234v1",/dev/fd/63
+signatures/208a33bf7ec707d2dcab98bbde7fcd4c.sig.gz,208a33bf7ec707d2dcab98bbde7fcd4c,208a33bf,31,DNA,0,1000,5687,True,"GCA_903927485.1 uncultured Rhodospirillales bacterium, freshwater MAG --- AlinenLipids_bin-2111",/dev/fd/63
+signatures/742556919595a256a88283557945306f.sig.gz,742556919595a256a88283557945306f,74255691,31,DNA,0,1000,4663,True,"GCF_005395325.1 Escherichia coli strain=OU-NP027, ASM539532v1",/dev/fd/63
+signatures/d9423012a78e13c64b2fe330cb096e33.sig.gz,d9423012a78e13c64b2fe330cb096e33,d9423012,31,DNA,0,1000,5236,True,"GCF_003634415.1 Serratia plymuthica strain=WS3236, ASM363441v1",/dev/fd/63
+signatures/6de445d373aebb073e7e604617219208.sig.gz,6de445d373aebb073e7e604617219208,6de445d3,31,DNA,0,1000,5156,True,"GCF_002469075.1 Escherichia coli strain=MOD1-EC6578, ASM246907v1",/dev/fd/63
+signatures/7dd56557688620ed2ab66d0394e6c790.sig.gz,7dd56557688620ed2ab66d0394e6c790,7dd56557,31,DNA,0,1000,4877,True,"GCF_011368485.1 Salmonella enterica subsp. enterica strain=72_16, ASM1136848v1",/dev/fd/63
+signatures/5932163a82a2d039a7b71153b25fcb86.sig.gz,5932163a82a2d039a7b71153b25fcb86,5932163a,31,DNA,0,1000,2579,True,"GCF_001074755.1 Staphylococcus epidermidis strain=872_SEPI, ASM107475v1",/dev/fd/63
+signatures/900c5984ce80cae585b0046c6ceb559c.sig.gz,900c5984ce80cae585b0046c6ceb559c,900c5984,31,DNA,0,1000,1892,True,"GCF_000499265.1 Streptococcus pyogenes GA19702 strain=GA19702, SpyogGA19702v1.0",/dev/fd/63
+signatures/3d710b4ca14065f7681ac074d0f22a88.sig.gz,3d710b4ca14065f7681ac074d0f22a88,3d710b4c,31,DNA,0,1000,2819,True,"GCF_900026965.1 Listeria monocytogenes strain=2842STDY5753969, 12754_5#85",/dev/fd/63
+signatures/29e55ccf11d3d98a0c0327843625ecf8.sig.gz,29e55ccf11d3d98a0c0327843625ecf8,29e55ccf,31,DNA,0,1000,3028,True,"GCF_001677395.1 Flavobacterium columnare strain=Pf1, ASM167739v1",/dev/fd/63
+signatures/4190aaf71da14de97b0b474099cb5347.sig.gz,4190aaf71da14de97b0b474099cb5347,4190aaf7,31,DNA,0,1000,1797,True,"GCF_002966595.1 Haemophilus influenzae strain=48P153H1, ASM296659v1",/dev/fd/63
+signatures/62fa28a03534dcb704d06bc1bd76c48c.sig.gz,62fa28a03534dcb704d06bc1bd76c48c,62fa28a0,31,DNA,0,1000,1964,True,"GCF_000622125.1 Kandleria vitulina MC3001 strain=MC3001, ASM62212v1",/dev/fd/63
+signatures/1387bca4fa02ceaa16e0f9e49d5aa311.sig.gz,1387bca4fa02ceaa16e0f9e49d5aa311,1387bca4,31,DNA,0,1000,2477,True,"GCF_002002505.1 Leptospirillum ferriphilum strain=DX, ASM200250v1",/dev/fd/63
+signatures/45d4d21e9bcd7a9941c04e5e31879b89.sig.gz,45d4d21e9bcd7a9941c04e5e31879b89,45d4d21e,31,DNA,0,1000,4596,True,"GCF_004793175.1 Escherichia coli strain=KCJK8104, ASM479317v1",/dev/fd/63
+signatures/21718bda455f9b2b8ac49b005dc3fc97.sig.gz,21718bda455f9b2b8ac49b005dc3fc97,21718bda,31,DNA,0,1000,2973,True,"GCF_000420205.1 Bacillus coagulans DSM 1 = ATCC 7050 strain=ATCC 7050, ASM42020v1",/dev/fd/63
+signatures/192694487f3de4801a2782ae6f2fc1db.sig.gz,192694487f3de4801a2782ae6f2fc1db,19269448,31,DNA,0,1000,1813,True,"GCA_903918115.1 uncultured beta proteobacterium, freshwater MAG --- KTt_bin-0790",/dev/fd/63
+signatures/2b5d44c46fd5b6466e6a7802df6d3475.sig.gz,2b5d44c46fd5b6466e6a7802df6d3475,2b5d44c4,31,DNA,0,1000,2387,True,"GCF_004103355.1 Lactobacillus crispatus strain=L49, ASM410335v1",/dev/fd/63
+signatures/f2d99a8d2cea01a56a1b7d03b5b5fb8a.sig.gz,f2d99a8d2cea01a56a1b7d03b5b5fb8a,f2d99a8d,31,DNA,0,1000,1133,True,"GCA_902598485.1 uncultured Pelagibacteraceae bacterium, AG-453-I04",/dev/fd/63
+signatures/09171c21af5af75bc085af76413f3d2c.sig.gz,09171c21af5af75bc085af76413f3d2c,09171c21,31,DNA,0,1000,2383,True,"GCA_900550865.1 uncultured Dorea sp., UMGS1335",/dev/fd/63
+signatures/b3ebb77b86845890aedd7c2664fbdde2.sig.gz,b3ebb77b86845890aedd7c2664fbdde2,b3ebb77b,31,DNA,0,1000,3368,True,"GCF_900617945.1 Lactobacillus mudanjiangensis, DSM28402",/dev/fd/63
+signatures/b81cd09d92bbc5ffbd7b08c69ccd260d.sig.gz,b81cd09d92bbc5ffbd7b08c69ccd260d,b81cd09d,31,DNA,0,1000,1782,True,"GCA_003279785.1 Prochlorococcus sp. AG-388-J02, ASM327978v1",/dev/fd/63
+signatures/2f0ca3ad77b52a4cd1433543e85bda7d.sig.gz,2f0ca3ad77b52a4cd1433543e85bda7d,2f0ca3ad,31,DNA,0,1000,4242,True,"GCF_001394415.1 Mycobacterium tuberculosis strain=Bir 405, 6570_8#24",/dev/fd/63
+signatures/d0a4dec131a7fa8f2f0802c905eb6971.sig.gz,d0a4dec131a7fa8f2f0802c905eb6971,d0a4dec1,31,DNA,0,1000,2801,True,"GCF_000336405.1 Enterococcus faecium ATCC 8459 = NRRL B-2354 strain=NRRL B-2354, ASM33640v1",/dev/fd/63
+signatures/671f6ed1821d787192f0e17a1825a884.sig.gz,671f6ed1821d787192f0e17a1825a884,671f6ed1,31,DNA,0,1000,4788,True,"GCF_000748985.1 Salmonella enterica subsp. enterica serovar Bareilly str. CFSAN000662 strain=CFSAN000662, CFSAN000662_01.0",/dev/fd/63
+signatures/ae35f9018bc96cda95b6992a714f568e.sig.gz,ae35f9018bc96cda95b6992a714f568e,ae35f901,31,DNA,0,1000,4179,True,"GCA_001184065.1 Shigella flexneri 6 strain=BS1040, ASM118406v1",/dev/fd/63
+signatures/2b4313e98c7cac60fe93b3ce4027749d.sig.gz,2b4313e98c7cac60fe93b3ce4027749d,2b4313e9,31,DNA,0,1000,3724,True,"GCF_008367895.1 Bacillus velezensis strain=SYP-B637, ASM836789v1",/dev/fd/63
+signatures/0888f1fdfd15ab7941d5ee09e3e6a43f.sig.gz_0,0888f1fdfd15ab7941d5ee09e3e6a43f,0888f1fd,31,DNA,0,1000,1712,True,"GCF_900993155.1 Streptococcus pyogenes strain=30109V1T1, 8113_6#54",/dev/fd/63
+signatures/21fa1c2e56649fb011b3b48205ebb805.sig.gz,21fa1c2e56649fb011b3b48205ebb805,21fa1c2e,31,DNA,0,1000,3915,True,"GCF_900167615.1 Clostridioides difficile strain=CD19, 11670_1#20",/dev/fd/63
+signatures/83b8784e681d22246627d2a4f0f7ffc8.sig.gz,83b8784e681d22246627d2a4f0f7ffc8,83b8784e,31,DNA,0,1000,923,True,"GCA_016453665.1 Mycoplasma bovis strain=Mb179, ASM1645366v1",/dev/fd/63
+signatures/65508226564f6409ab717dd143fb4f51.sig.gz,65508226564f6409ab717dd143fb4f51,65508226,31,DNA,0,1000,1461,True,"GCA_018396515.1 Candidatus Bathyarchaeota archaeon, ASM1839651v1",/dev/fd/63
+signatures/fd24507ed0cb6afae3ff2244588d07a0.sig.gz,fd24507ed0cb6afae3ff2244588d07a0,fd24507e,31,DNA,0,1000,2502,True,"GCF_016100485.1 Snodgrassella sp. W6238H14 strain=W6238H14, ASM1610048v1",/dev/fd/63
+signatures/16b29d95f9a7c738e50d79c593c9462b.sig.gz,16b29d95f9a7c738e50d79c593c9462b,16b29d95,31,DNA,0,1000,2490,True,"GCF_001236365.1 Staphylococcus haemolyticus strain=51-22, 7067_4#49",/dev/fd/63
+signatures/290ccffb91bad9d9c2276c530c5bcc02.sig.gz,290ccffb91bad9d9c2276c530c5bcc02,290ccffb,31,DNA,0,1000,2588,True,"GCA_004296805.1 Dehalococcoidia bacterium, ASM429680v1",/dev/fd/63
+signatures/b2eaacc6b9d822b387a63dfb67f701c3.sig.gz,b2eaacc6b9d822b387a63dfb67f701c3,b2eaacc6,31,DNA,0,1000,799,True,"GCA_002343645.1 Candidatus Saccharibacteria bacterium UBA2413, ASM234364v1",/dev/fd/63
+signatures/194ce074a802718d111838d7e7e2068e.sig.gz,194ce074a802718d111838d7e7e2068e,194ce074,31,DNA,0,1000,4862,True,"GCF_005045735.1 Escherichia coli strain=FWSEC0083, ASM504573v1",/dev/fd/63
+signatures/cb08c2f6975541f60ac9b6e3c987dcbd.sig.gz,cb08c2f6975541f60ac9b6e3c987dcbd,cb08c2f6,31,DNA,0,1000,5186,True,"GCF_000263915.1 Escherichia coli O103:H2 str. CVM9450 strain=CVM9450, ASM26391v1",/dev/fd/63
+signatures/2a7d599bac88575412572d08e57741ff.sig.gz,2a7d599bac88575412572d08e57741ff,2a7d599b,31,DNA,0,1000,3470,True,"GCA_910576895.1 uncultured Lachnospiraceae bacterium, MGBC100174",/dev/fd/63
+signatures/0fbdc5053921fa0a2819fc8098585928.sig.gz,0fbdc5053921fa0a2819fc8098585928,0fbdc505,31,DNA,0,1000,4937,True,"GCF_006384085.1 Salmonella enterica subsp. enterica serovar Goldcoast strain=Sal-5808, ASM638408v1",/dev/fd/63
+signatures/3ed219c30e9c3f3d4630aca261596dda.sig.gz,3ed219c30e9c3f3d4630aca261596dda,3ed219c3,31,DNA,0,1000,1536,True,"GCF_000476615.1 Helicobacter pylori SA233C strain=SA233C, SA233C",/dev/fd/63
+signatures/740104217d83bdc3109f16d74bc7cb73.sig.gz,740104217d83bdc3109f16d74bc7cb73,74010421,31,DNA,0,1000,4271,True,"GCF_008632335.1 Thiohalocapsa marina strain=DSM 19078, ASM863233v1",/dev/fd/63
+signatures/d4f7fab39e13074520836b4830eb6267.sig.gz,d4f7fab39e13074520836b4830eb6267,d4f7fab3,31,DNA,0,1000,4300,True,"GCF_900123005.1 Mycobacterium tuberculosis strain=2926STDY5723780, 14722_8#9",/dev/fd/63
+signatures/0f0d961ba85aa942ce94cced7da03771.sig.gz,0f0d961ba85aa942ce94cced7da03771,0f0d961b,31,DNA,0,1000,3398,True,"GCF_000019485.1 Synechococcus sp. PCC 7002 strain=PCC 7002, ASM1948v1",/dev/fd/63
+signatures/98e05f2d9b8dfb5e81b606b205f0afbd.sig.gz,98e05f2d9b8dfb5e81b606b205f0afbd,98e05f2d,31,DNA,0,1000,4292,True,"GCF_001852065.1 Mycobacterium tuberculosis strain=02-R0861, ASM185206v1",/dev/fd/63
+signatures/56b10de304d3225494d186825b6a1ab5.sig.gz,56b10de304d3225494d186825b6a1ab5,56b10de3,31,DNA,0,1000,4724,True,"GCF_003945815.1 Salmonella enterica subsp. enterica serovar Enteritidis strain=I24, ASM394581v1",/dev/fd/63
+signatures/2578ea99e0823b655942a5a1ae2a5b39.sig.gz,2578ea99e0823b655942a5a1ae2a5b39,2578ea99,31,DNA,0,1000,5266,True,"GCF_004563925.1 Herbaspirillum sp. 3R11 strain=3R11, ASM456392v1",/dev/fd/63
+signatures/34668837ac4e3bf0fbdf401330428f22.sig.gz,34668837ac4e3bf0fbdf401330428f22,34668837,31,DNA,0,1000,2238,True,"GCF_001837325.1 Streptococcus sp. HMSC065H07 strain=HMSC065H07, ASM183732v1",/dev/fd/63
+signatures/f28b0024cea615189ed6cba61a1579cf.sig.gz,f28b0024cea615189ed6cba61a1579cf,f28b0024,31,DNA,0,1000,4956,True,"GCF_002516435.1 Escherichia coli strain=MOD1-EC5139, ASM251643v1",/dev/fd/63
+signatures/3cb8801ec9c56503e9fc9978ddf58ce7.sig.gz,3cb8801ec9c56503e9fc9978ddf58ce7,3cb8801e,31,DNA,0,1000,5633,True,"GCF_016583565.1 Thiocystis violacea strain=DSM 208, ASM1658356v1",/dev/fd/63
+signatures/15339fdf3337056124566ed5aeb20d48.sig.gz,15339fdf3337056124566ed5aeb20d48,15339fdf,31,DNA,0,1000,2296,True,"GCA_002328755.1 Rhodocyclaceae bacterium UBA2179, ASM232875v1",/dev/fd/63
+signatures/8a5c3bd4672be417da936979e53c3435.sig.gz,8a5c3bd4672be417da936979e53c3435,8a5c3bd4,31,DNA,0,1000,5995,True,"GCF_002585395.1 Bacillus toyonensis strain=AFS036256, ASM258539v1",/dev/fd/63
+signatures/fde0389fbec30f27fb89869d9bed6a26.sig.gz,fde0389fbec30f27fb89869d9bed6a26,fde0389f,31,DNA,0,1000,2032,True,"GCF_001134505.1 Streptococcus pneumoniae strain=0254, 5750_2#10",/dev/fd/63
+signatures/6599dd7cb01499d6fb57da619c432d75.sig.gz,6599dd7cb01499d6fb57da619c432d75,6599dd7c,31,DNA,0,1000,3749,True,"GCF_016771475.1 Bacillus sporothermodurans strain=M5547-20, ASM1677147v1",/dev/fd/63
+signatures/24a92618da4903799a8cc0197e7726a5.sig.gz,24a92618da4903799a8cc0197e7726a5,24a92618,31,DNA,0,1000,5366,True,"GCF_002770355.1 Escherichia coli O26:H11 strain=3186, ASM277035v1",/dev/fd/63
+signatures/08288c5539d109676d3c08d980e32a37.sig.gz,08288c5539d109676d3c08d980e32a37,08288c55,31,DNA,0,1000,2601,True,"GCF_000724225.2 Clostridium haemolyticum NCTC 9693 strain=NCTC 9693, NCTC9693_1.0",/dev/fd/63
+signatures/d51c41c11856efc0cff56c08af68bf04.sig.gz,d51c41c11856efc0cff56c08af68bf04,d51c41c1,31,DNA,0,1000,4176,True,"GCA_000474595.1 Mycobacterium tuberculosis str. OSDD515 strain=OSDD515, MtbOSDD515V1.0",/dev/fd/63
+signatures/37a9a117a8d643942211bc947ede5ecb.sig.gz,37a9a117a8d643942211bc947ede5ecb,37a9a117,31,DNA,0,1000,2794,True,"GCA_905204715.1 uncultured Eubacterium sp., SRR413620-mag-bin.19",/dev/fd/63
+signatures/56b182bc9abdcbaa3468cb377dae0b4a.sig.gz,56b182bc9abdcbaa3468cb377dae0b4a,56b182bc,31,DNA,0,1000,2236,True,"GCA_003021745.1 Halobacteriales archaeon QH_7_69_31, ASM302174v1",/dev/fd/63
+signatures/fb2c4c8861753dbc497d72d0e465465a.sig.gz_148,fb2c4c8861753dbc497d72d0e465465a,fb2c4c88,31,DNA,0,1000,1769,True,"GCA_009814635.1 Francisella tularensis strain=06-929, ASM981463v1",/dev/fd/63
+signatures/6d1f46208dcadab7d259c26a77d9c7ef.sig.gz,6d1f46208dcadab7d259c26a77d9c7ef,6d1f4620,31,DNA,0,1000,1888,True,"GCF_901553755.1 Streptococcus porcinus strain=NCTC10924, 41851_D01",/dev/fd/63
+signatures/ad4e1739d10ce19df379f09807a275a8.sig.gz,ad4e1739d10ce19df379f09807a275a8,ad4e1739,31,DNA,0,1000,5582,True,"GCF_004313725.1 Klebsiella pneumoniae strain=TUM14147, ASM431372v1",/dev/fd/63
+signatures/9292dc604c4034475631a5836cfd2736.sig.gz,9292dc604c4034475631a5836cfd2736,9292dc60,31,DNA,0,1000,2438,True,"GCF_900167355.1 Porphyromonas cangingivalis strain=ATCC 700135, IMG-taxon 2585428082 annotated assembly",/dev/fd/63
+signatures/35713e73cb97690fb8d24bf95a022aa3.sig.gz_0,35713e73cb97690fb8d24bf95a022aa3,35713e73,31,DNA,0,1000,6075,True,"GCF_900598785.1 Pseudomonas viridiflava, p4.G9",/dev/fd/63
+signatures/adfa222b92b3637d757ec1015ee903ff.sig.gz,adfa222b92b3637d757ec1015ee903ff,adfa222b,31,DNA,0,1000,2892,True,"GCA_017649545.1 Bacteroidaceae bacterium, ASM1764954v1",/dev/fd/63
+signatures/21271463509bbacec46d52c8e3e54180.sig.gz,21271463509bbacec46d52c8e3e54180,21271463,31,DNA,0,1000,6208,True,"GCF_015999385.1 Klebsiella michiganensis strain=7525, ASM1599938v1",/dev/fd/63
+signatures/56d62bce390963eeccba83f443135042.sig.gz,56d62bce390963eeccba83f443135042,56d62bce,31,DNA,0,1000,6067,True,"GCF_004340925.1 Blautia coccoides strain=DSM 935, ASM434092v1",/dev/fd/63
+signatures/cd2cbbb0db2eaaabb42a0406267d2926.sig.gz,cd2cbbb0db2eaaabb42a0406267d2926,cd2cbbb0,31,DNA,0,1000,5304,True,"GCF_003471715.1 Klebsiella pneumoniae strain=AM17-27, ASM347171v1",/dev/fd/63
+signatures/7043865a2421f9b861694e35b0b3874a.sig.gz,7043865a2421f9b861694e35b0b3874a,7043865a,31,DNA,0,1000,2595,True,"GCA_012720075.1 Clostridia bacterium, ASM1272007v1",/dev/fd/63
+signatures/475fd55501ba5bb87d6a6cb2dda495d7.sig.gz,475fd55501ba5bb87d6a6cb2dda495d7,475fd555,31,DNA,0,1000,4093,True,"GCF_009025035.1 Bacteroides stercoris strain=BIOML-A9, ASM902503v1",/dev/fd/63
+signatures/de0d31f28d0c55345f862722158d69cc.sig.gz,de0d31f28d0c55345f862722158d69cc,de0d31f2,31,DNA,0,1000,5287,True,"GCF_900075115.1 Enterobacter hormaechei strain=e1082, 12045_5#58",/dev/fd/63
+signatures/2092931e0c4bd590488d9cd6bfd39a2f.sig.gz,2092931e0c4bd590488d9cd6bfd39a2f,2092931e,31,DNA,0,1000,2766,True,"GCF_015277465.1 Listeria welshimeri strain=FSL W9-0244, ASM1527746v1",/dev/fd/63
+signatures/a9bfdb4a0939ad5fd02011d063961cb4.sig.gz,a9bfdb4a0939ad5fd02011d063961cb4,a9bfdb4a,31,DNA,0,1000,5140,True,"GCF_016905775.1 Citrobacter freundii strain=CF47462, ASM1690577v1",/dev/fd/63
+signatures/069337525581b66bdb8f6f86feeb6fde.sig.gz,069337525581b66bdb8f6f86feeb6fde,06933752,31,DNA,0,1000,4837,True,"GCF_000356885.2 Escherichia coli BCE006_MS-23 strain=BCE006_MS-23, ASM35688v2",/dev/fd/63
+signatures/3da5d538a2f9959a5e1251cb4000685d.sig.gz,3da5d538a2f9959a5e1251cb4000685d,3da5d538,31,DNA,0,1000,6019,True,"GCF_008120465.1 Klebsiella grimontii strain=P038I, ASM812046v1",/dev/fd/63
+signatures/36a6c82b6a3b5afefb708cc898c21f30.sig.gz,36a6c82b6a3b5afefb708cc898c21f30,36a6c82b,31,DNA,0,1000,5226,True,"GCF_003719795.1 Escherichia coli O157:H7 strain=C1-067, ASM371979v1",/dev/fd/63
+signatures/b534a4dfa20d520b140432077f39d72b.sig.gz,b534a4dfa20d520b140432077f39d72b,b534a4df,31,DNA,0,1000,3716,True,"GCF_004347715.1 Halomonas sp. 204 strain=204, ASM434771v1",/dev/fd/63
+signatures/59d816473aad43667586f148c44e874c.sig.gz,59d816473aad43667586f148c44e874c,59d81647,31,DNA,0,1000,5584,True,"GCF_900174105.1 Klebsiella pneumoniae strain=VRCO0178, 20925_2#161",/dev/fd/63
+signatures/867580532ecd3bec03364788f993f69c.sig.gz,867580532ecd3bec03364788f993f69c,86758053,31,DNA,0,1000,5203,True,"GCF_005043475.1 Escherichia coli strain=FWSEC0247, ASM504347v1",/dev/fd/63
+signatures/d1947aefcaf0265f62347fb809f94488.sig.gz,d1947aefcaf0265f62347fb809f94488,d1947aef,31,DNA,0,1000,3844,True,"GCF_017797845.1 Bacillus sp. LJBV19 strain=LJBV19, ASM1779784v1",/dev/fd/63
+signatures/8462aaef64542b097eab529bf0cebafa.sig.gz,8462aaef64542b097eab529bf0cebafa,8462aaef,31,DNA,0,1000,2017,True,"GCA_003509545.1 Peptococcaceae bacterium, ASM350954v1",/dev/fd/63
+signatures/dfc7b1f760dfc9abbdcf87a4a2bd044f.sig.gz,dfc7b1f760dfc9abbdcf87a4a2bd044f,dfc7b1f7,31,DNA,0,1000,2259,True,"GCA_905209655.1 uncultured Ruminococcaceae bacterium, ERR1600745-mag-bin.27",/dev/fd/63
+signatures/2cb912bab90fcf04d7a1bb114783f98e.sig.gz,2cb912bab90fcf04d7a1bb114783f98e,2cb912ba,31,DNA,0,1000,2011,True,"GCF_001596415.1 Aggregatibacter actinomycetemcomitans SC383s strain=SC383s, SC383sv1.0",/dev/fd/63
+signatures/dc30cde1b3e34a791ee50b31951b5263.sig.gz,dc30cde1b3e34a791ee50b31951b5263,dc30cde1,31,DNA,0,1000,4954,True,"GCF_002127855.1 Salmonella enterica subsp. enterica serovar Mississippi strain=GSB13, ASM212785v1",/dev/fd/63
+signatures/d13cd04e0cd20e65f348697c7a6ac130.sig.gz,d13cd04e0cd20e65f348697c7a6ac130,d13cd04e,31,DNA,0,1000,2541,True,"GCF_015627125.1 Acinetobacter sp. EC24 strain=EC24, ASM1562712v1",/dev/fd/63
+signatures/b1def3d3546855a26f30859507e6ac49.sig.gz,b1def3d3546855a26f30859507e6ac49,b1def3d3,31,DNA,0,1000,2239,True,"GCF_012976565.1 Mobiluncus curtisii strain=10, ASM1297656v1",/dev/fd/63
+signatures/91a63c5cb172012097db8776fcfb09a6.sig.gz,91a63c5cb172012097db8776fcfb09a6,91a63c5c,31,DNA,0,1000,4927,True,"GCF_001221745.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain=V95, 8080_3#75",/dev/fd/63
+signatures/a986caddcb35c8d0d013cc28611cffa7.sig.gz,a986caddcb35c8d0d013cc28611cffa7,a986cadd,31,DNA,0,1000,1265,True,"GCA_017503005.1 Clostridia bacterium, ASM1750300v1",/dev/fd/63
+signatures/dbc2a9111fac471d1a95b8c2742be948.sig.gz,dbc2a9111fac471d1a95b8c2742be948,dbc2a911,31,DNA,0,1000,2932,True,"GCF_000878105.1 Staphylococcus aureus subsp. aureus strain=SA-120, SA-120 1.0",/dev/fd/63
+signatures/d187b6d305bc4cd9fe76c424a6bcb03e.sig.gz,d187b6d305bc4cd9fe76c424a6bcb03e,d187b6d3,31,DNA,0,1000,1928,True,"GCA_902798655.1 uncultured Bacteroidetes bacterium, Rumen uncultured genome RUG14398",/dev/fd/63
+signatures/0835f0752fe1aa79c81489f4306f0dc7.sig.gz,0835f0752fe1aa79c81489f4306f0dc7,0835f075,31,DNA,0,1000,5477,True,"GCF_004313005.1 Klebsiella pneumoniae strain=TUM14110, ASM431300v1",/dev/fd/63
+signatures/81c03bc030de1d7ec800b3e7c995e198.sig.gz,81c03bc030de1d7ec800b3e7c995e198,81c03bc0,31,DNA,0,1000,4131,True,"GCF_002891615.1 Clostridioides difficile strain=LIBA2811, ASM289161v1",/dev/fd/63
+signatures/37f80e9f1e89b87190d51c10ca0273c4.sig.gz,37f80e9f1e89b87190d51c10ca0273c4,37f80e9f,31,DNA,0,1000,4329,True,"GCF_000671135.1 Mycobacterium tuberculosis TB_RSA69 strain=TB_RSA69, Myco_tube_TB_RSA69_V1",/dev/fd/63
+signatures/5dbc4a0efe317e3aaef4563f06cbeb14.sig.gz,5dbc4a0efe317e3aaef4563f06cbeb14,5dbc4a0e,31,DNA,0,1000,5402,True,"GCF_900503995.1 Klebsiella pneumoniae strain=EuSCAPE_RO044, 19084_3#130",/dev/fd/63
+signatures/6e7fd40d25e527554313c4d68d18dfd2.sig.gz,6e7fd40d25e527554313c4d68d18dfd2,6e7fd40d,31,DNA,0,1000,3440,True,"GCF_000761445.1 Oleiagrimonas soli strain=3.5X, ASM76144v1",/dev/fd/63
+signatures/1dd799239b464575d18c08d5fd10ff0d.sig.gz,1dd799239b464575d18c08d5fd10ff0d,1dd79923,31,DNA,0,1000,1994,True,"GCF_000010005.1 Lactobacillus reuteri JCM 1112 strain=JCM 1112, ASM1000v1",/dev/fd/63
+signatures/d465acca18f0cac6c10212e6337024cb.sig.gz,d465acca18f0cac6c10212e6337024cb,d465acca,31,DNA,0,1000,4988,True,"GCA_016217545.1 Opitutae bacterium, ASM1621754v1",/dev/fd/63
+signatures/486cb641a39c472108b7b3992f3225ee.sig.gz,486cb641a39c472108b7b3992f3225ee,486cb641,31,DNA,0,1000,2336,True,"GCA_017936265.1 Bacteroidaceae bacterium, ASM1793626v1",/dev/fd/63
+signatures/153fa189b5421dbc008b8fda15e23f6a.sig.gz,153fa189b5421dbc008b8fda15e23f6a,153fa189,31,DNA,0,1000,4870,True,"GCF_003146465.1 Escherichia coli strain=Aut2013_WWKa_ALT_59, ASM314646v1",/dev/fd/63
+signatures/b4aab528eb60570bdfc0053a123667ec.sig.gz,b4aab528eb60570bdfc0053a123667ec,b4aab528,31,DNA,0,1000,4743,True,"GCF_001629755.1 Salmonella enterica subsp. diarizonae strain=11-01853, ASM162975v1",/dev/fd/63
+signatures/610cafb0af57a21958226569fcf7649d.sig.gz,610cafb0af57a21958226569fcf7649d,610cafb0,31,DNA,0,1000,2835,True,"GCF_001710245.1 Listeria monocytogenes strain=A522, ASM171024v1",/dev/fd/63
+signatures/ca2074700204cd171e2e70766f0a49bf.sig.gz,ca2074700204cd171e2e70766f0a49bf,ca207470,31,DNA,0,1000,4659,True,"GCF_004292005.1 Salmonella enterica subsp. enterica serovar Saintpaul strain=sg_9712b, ASM429200v1",/dev/fd/63
+signatures/415fc32399d80e320e3980930c6c0fca.sig.gz,415fc32399d80e320e3980930c6c0fca,415fc323,31,DNA,0,1000,1083,True,"GCA_016201925.1 Nitrospirae bacterium, ASM1620192v1",/dev/fd/63
+signatures/495a6434f7a904cfbf64e101b857c18c.sig.gz,495a6434f7a904cfbf64e101b857c18c,495a6434,31,DNA,0,1000,2618,True,"GCF_018918025.1 Oscillibacter sp. MSJ-31 strain=MSJ-31, ASM1891802v1",/dev/fd/63
+signatures/14d54a562becc1535d955c95c15a6e08.sig.gz,14d54a562becc1535d955c95c15a6e08,14d54a56,31,DNA,0,1000,4965,True,"GCF_009823205.1 Escherichia coli strain=G32, ASM982320v1",/dev/fd/63
+signatures/1579e2815f2dd6b1c877b4310731f05e.sig.gz,1579e2815f2dd6b1c877b4310731f05e,1579e281,31,DNA,0,1000,1313,True,"GCF_018437225.1 Fructobacillus sp. M1-10 strain=M1-10, ASM1843722v1",/dev/fd/63
+signatures/05879e621dbc2b40d8a8271db7290a24.sig.gz,05879e621dbc2b40d8a8271db7290a24,05879e62,31,DNA,0,1000,7341,True,"GCA_004021495.1 Mesorhizobium sp., ASM402149v1",/dev/fd/63
+signatures/aa7d9b62c8891e3b621965a580b3a248.sig.gz,aa7d9b62c8891e3b621965a580b3a248,aa7d9b62,31,DNA,0,1000,5297,True,"GCF_003255275.1 Escherichia coli strain=14-428, ASM325527v1",/dev/fd/63
+signatures/c5431604b6197c679fbee608675302e7.sig.gz,c5431604b6197c679fbee608675302e7,c5431604,31,DNA,0,1000,6835,True,"GCF_002134915.1 Pseudomonas aeruginosa strain=PASGNDM586, ASM213491v1",/dev/fd/63
+signatures/a7079c64b70cc56dba537900dfe1c084.sig.gz,a7079c64b70cc56dba537900dfe1c084,a7079c64,31,DNA,0,1000,2787,True,"GCF_000239575.1 Staphylococcus aureus subsp. aureus 21334 strain=21334, ASM23957v2",/dev/fd/63
+signatures/6a4965da062e60e5a260abb51411d53f.sig.gz,6a4965da062e60e5a260abb51411d53f,6a4965da,31,DNA,0,1000,4319,True,"GCF_000666185.1 Mycobacterium tuberculosis variant africanum MAL010070 strain=MAL010070, Myco_afri_MAL010070_V1",/dev/fd/63
+signatures/dcfc9beb1362db2c1d96724a208a62df.sig.gz,dcfc9beb1362db2c1d96724a208a62df,dcfc9beb,31,DNA,0,1000,4870,True,"GCF_016950185.1 Pectobacterium brasiliense strain=IPO:3644, ASM1695018v1",/dev/fd/63
+signatures/eba4f766e460892f2c70e5e66169eb96.sig.gz,eba4f766e460892f2c70e5e66169eb96,eba4f766,31,DNA,0,1000,1591,True,"GCA_015069575.1 Clostridiales bacterium, ASM1506957v1",/dev/fd/63
+signatures/7f800eb2fd9fdb06031ea36d653eb29d.sig.gz,7f800eb2fd9fdb06031ea36d653eb29d,7f800eb2,31,DNA,0,1000,1268,True,"GCA_902538945.1 uncultured OCS116 cluster bacterium, AG-899-I09",/dev/fd/63
+signatures/22f403952df034f43bc99b4223268f5c.sig.gz,22f403952df034f43bc99b4223268f5c,22f40395,31,DNA,0,1000,4042,True,"GCF_014489035.1 Vibrio cholerae strain=S-619, ASM1448903v1",/dev/fd/63
+signatures/8a69e258a69db65e559cd81079e6394d.sig.gz,8a69e258a69db65e559cd81079e6394d,8a69e258,31,DNA,0,1000,2084,True,"GCA_902783235.1 uncultured Ruminococcus sp., Rumen uncultured genome RUG12849",/dev/fd/63
+signatures/77c32dc35e43b8fe1159fa88e31885e3.sig.gz,77c32dc35e43b8fe1159fa88e31885e3,77c32dc3,31,DNA,0,1000,6256,True,"GCF_000290835.1 Bacillus cereus VD115 strain=VD115, Baci_cere_VD115_V1",/dev/fd/63
+signatures/be5078fe732daac3e27f3192db96348a.sig.gz,be5078fe732daac3e27f3192db96348a,be5078fe,31,DNA,0,1000,1719,True,"GCF_018687615.1 Polynucleobacter sp. MWH-CaK5 strain=MWH-CaK5, ASM1868761v1",/dev/fd/63
+signatures/ce6b91c924e1005b52648914df939681.sig.gz,ce6b91c924e1005b52648914df939681,ce6b91c9,31,DNA,0,1000,1632,True,"GCA_018052945.1 Negativicutes bacterium, ASM1805294v1",/dev/fd/63
+signatures/c18e778c615bd5b100994e093cc91d1f.sig.gz,c18e778c615bd5b100994e093cc91d1f,c18e778c,31,DNA,0,1000,2096,True,"GCA_002781925.1 Piscirickettsiaceae bacterium CG12_big_fil_rev_8_21_14_0_65_44_934, ASM278192v1",/dev/fd/63
+signatures/d9aa4be2daf1d37f4a06c894318ab7ca.sig.gz,d9aa4be2daf1d37f4a06c894318ab7ca,d9aa4be2,31,DNA,0,1000,5000,True,"GCF_017117385.1 Escherichia coli strain=EP075, ASM1711738v1",/dev/fd/63
+signatures/c0164d68356acb1bf0f141d495acaacc.sig.gz,c0164d68356acb1bf0f141d495acaacc,c0164d68,31,DNA,0,1000,3111,True,"GCA_903912585.1 uncultured Thermoleophilia bacterium, freshwater MAG --- Umea3_bin-0017",/dev/fd/63
+signatures/10e3095a28c68039735732cf975cc139.sig.gz,10e3095a28c68039735732cf975cc139,10e3095a,31,DNA,0,1000,2994,True,"GCA_005790605.1 Planctomycetia bacterium, ASM579060v1",/dev/fd/63
+signatures/3eda853efb48823f73cc9372d32dccf3.sig.gz,3eda853efb48823f73cc9372d32dccf3,3eda853e,31,DNA,0,1000,2581,True,"GCA_005879975.1 Chloroflexi bacterium, ASM587997v1",/dev/fd/63
+signatures/05c3179a9b185e3c856a1ff13ce465d8.sig.gz,05c3179a9b185e3c856a1ff13ce465d8,05c3179a,31,DNA,0,1000,5958,True,"GCA_001317085.2 Serratia marcescens strain=946252515, 45_S21v.02",/dev/fd/63
+signatures/e013c1ce27779b6ff4009741d39f2217.sig.gz,e013c1ce27779b6ff4009741d39f2217,e013c1ce,31,DNA,0,1000,2609,True,"GCA_910586135.1 uncultured Muribaculaceae bacterium, MGBC129157",/dev/fd/63
+signatures/471f946a59e0a3621510aa390c0fb5cd.sig.gz,471f946a59e0a3621510aa390c0fb5cd,471f946a,31,DNA,0,1000,5194,True,"GCF_003027955.1 Escherichia coli strain=364068-17, ASM302795v1",/dev/fd/63
+signatures/f5f46d38b55dfa221ee758428092139b.sig.gz,f5f46d38b55dfa221ee758428092139b,f5f46d38,31,DNA,0,1000,2169,True,"GCA_003501745.1 Rhizobiales bacterium, ASM350174v1",/dev/fd/63
+signatures/c62f1c9815f66871a33eba72049cb814.sig.gz,c62f1c9815f66871a33eba72049cb814,c62f1c98,31,DNA,0,1000,5678,True,"GCF_009825695.1 Klebsiella pneumoniae strain=1201147, ASM982569v1",/dev/fd/63
+signatures/6dd7b4374d747c316f9ddd8adf3ddd68.sig.gz,6dd7b4374d747c316f9ddd8adf3ddd68,6dd7b437,31,DNA,0,1000,4417,True,"GCA_003566475.1 PVC group bacterium, ASM356647v1",/dev/fd/63
+signatures/337a6e72ee998baffcb0e87b466705ee.sig.gz,337a6e72ee998baffcb0e87b466705ee,337a6e72,31,DNA,0,1000,5527,True,"GCF_015333575.1 Mycolicibacterium phlei strain=RIVM700384, ASM1533357v1",/dev/fd/63
+signatures/f62eee7f92af459f682f73bdf4b9312c.sig.gz,f62eee7f92af459f682f73bdf4b9312c,f62eee7f,31,DNA,0,1000,2993,True,"GCF_001594015.1 Moorella mulderi DSM 14980 strain=DSM 14980, ASM159401v1",/dev/fd/63
+signatures/f9074a13f0b6874780566b654deb6854.sig.gz,f9074a13f0b6874780566b654deb6854,f9074a13,31,DNA,0,1000,4109,True,"GCA_900118125.2 Acinetobacter baumannii strain=ILBAbau5423458, 9119_6#49",/dev/fd/63
+signatures/1dff33199ddb9449ab558d68faeb55bd.sig.gz,1dff33199ddb9449ab558d68faeb55bd,1dff3319,31,DNA,0,1000,4631,True,"GCA_013361955.1 Nocardioidaceae bacterium, ASM1336195v1",/dev/fd/63
+signatures/0fec645e9fb2a9b0f4b7169bbbbbbb24.sig.gz,0fec645e9fb2a9b0f4b7169bbbbbbb24,0fec645e,31,DNA,0,1000,7147,True,"GCF_002234615.1 Paenibacillus rigui strain=JCM 16352, ASM223461v1",/dev/fd/63
+signatures/48ae8d66f1aee73e7babb891cca00fe0.sig.gz,48ae8d66f1aee73e7babb891cca00fe0,48ae8d66,31,DNA,0,1000,3563,True,"GCF_900640085.1 Legionella cherrii strain=ORW, Leg_cherrii_ORW.v1",/dev/fd/63
+signatures/234fb3e454dc9c3eb57f150c61453f5a.sig.gz,234fb3e454dc9c3eb57f150c61453f5a,234fb3e4,31,DNA,0,1000,2066,True,"GCF_900200155.1 Neisseria meningitidis strain=Neisseria meningitidis, B095",/dev/fd/63
+signatures/1663ec5c5db41c39eeb182b0222f78bf.sig.gz,1663ec5c5db41c39eeb182b0222f78bf,1663ec5c,31,DNA,0,1000,2149,True,"GCA_000232865.2 Streptococcus pneumoniae GA41565 strain=GA41565, ASM23286v2",/dev/fd/63
+signatures/a1cba7a1eea945b549bb5a08dbd3c12d.sig.gz,a1cba7a1eea945b549bb5a08dbd3c12d,a1cba7a1,31,DNA,0,1000,4111,True,"GCA_017330725.1 Clostridium botulinum strain=CDC59947, ASM1733072v1",/dev/fd/63
+signatures/84976e2aae3f5900a466006de5d945c9.sig.gz,84976e2aae3f5900a466006de5d945c9,84976e2a,31,DNA,0,1000,1116,True,"GCA_002504645.1 Methanomassiliicoccaceae archaeon UBA306, ASM250464v1",/dev/fd/63
+signatures/4dcbea153a5bb9c5b55d3620fbbd6a12.sig.gz,4dcbea153a5bb9c5b55d3620fbbd6a12,4dcbea15,31,DNA,0,1000,3770,True,"GCF_007655015.1 Bacillus velezensis strain=JK, ASM765501v1",/dev/fd/63
+signatures/af6cebf62ce4b254f4cc29221eaf35dc.sig.gz,af6cebf62ce4b254f4cc29221eaf35dc,af6cebf6,31,DNA,0,1000,3663,True,"GCF_013694105.1 Halobacillus locisalis strain=KCTC 3788, ASM1369410v1",/dev/fd/63
+signatures/2d2f35cc83b9e9440659dd809f5c0d17.sig.gz,2d2f35cc83b9e9440659dd809f5c0d17,2d2f35cc,31,DNA,0,1000,4861,True,"GCF_000408225.1 Escherichia coli KTE221 strain=KTE221, Esch_coli_KTE221_V1",/dev/fd/63
+signatures/c96ead89e4583e47a82fc9bc3f0e5627.sig.gz_0,c96ead89e4583e47a82fc9bc3f0e5627,c96ead89,31,DNA,0,1000,3771,True,"GCF_902364755.1 Fusicatenibacter saccharivorans, MGYG-HGUT-00251",/dev/fd/63
+signatures/a9097b41c154da22c266b9c531f16799.sig.gz,a9097b41c154da22c266b9c531f16799,a9097b41,31,DNA,0,1000,2901,True,"GCF_003422945.1 Staphylococcus aureus strain=M6K200, ASM342294v1",/dev/fd/63
+signatures/584db2a6504c3d65a3647d059ffe2789.sig.gz,584db2a6504c3d65a3647d059ffe2789,584db2a6,31,DNA,0,1000,4251,True,"GCF_900114635.1 Shimia aestuarii strain=DSM 15283, IMG-taxon 2616644822 annotated assembly",/dev/fd/63
+signatures/94130fd03b9da6555c5065ef60707388.sig.gz,94130fd03b9da6555c5065ef60707388,94130fd0,31,DNA,0,1000,4608,True,"GCF_002048585.1 Salmonella enterica subsp. enterica serovar Minnesota strain=58-5769, ASM204858v1",/dev/fd/63
+signatures/35f261933c3bc776fe85fe8a3fae4741.sig.gz,35f261933c3bc776fe85fe8a3fae4741,35f26193,31,DNA,0,1000,5311,True,"GCF_000633335.1 Serratia marcescens H1q strain=H1q, ASM63333v1",/dev/fd/63
+signatures/f5679b6de70902c8ef5a120cc61fe057.sig.gz,f5679b6de70902c8ef5a120cc61fe057,f5679b6d,31,DNA,0,1000,2334,True,"GCF_014525425.1 Schaalia sp. JY-X159 strain=JY-X159, ASM1452542v1",/dev/fd/63
+signatures/c3bc99bb1e7be7130b1bb8ec261b3567.sig.gz,c3bc99bb1e7be7130b1bb8ec261b3567,c3bc99bb,31,DNA,0,1000,2071,True,"GCF_012843605.1 Lactobacillus ruminis strain=LKV-472-APC-10, ASM1284360v1",/dev/fd/63
+signatures/a4786cc035bd1297f2eedc47bdc702fe.sig.gz,a4786cc035bd1297f2eedc47bdc702fe,a4786cc0,31,DNA,0,1000,2177,True,"GCF_002963645.1 Streptococcus suis strain=393, ASM296364v1",/dev/fd/63
+signatures/41a013ee8717bf82d018a2b44f11a683.sig.gz,41a013ee8717bf82d018a2b44f11a683,41a013ee,31,DNA,0,1000,4814,True,"GCF_013372365.1 Escherichia coli strain=EcPF15, ASM1337236v1",/dev/fd/63
+signatures/790845ed08f4748af47bc8de2c78e872.sig.gz,790845ed08f4748af47bc8de2c78e872,790845ed,31,DNA,0,1000,4337,True,"GCF_003111865.1 Xanthomonas vasicola pv. zeae strain=XGP, ASM311186v1",/dev/fd/63
+signatures/dfafbf9c4f0ae4eb84f8f79ea40ba657.sig.gz,dfafbf9c4f0ae4eb84f8f79ea40ba657,dfafbf9c,31,DNA,0,1000,6413,True,"GCF_001036915.1 Pseudomonas aeruginosa strain=Pae_CF67.06d, ASM103691v1",/dev/fd/63
+signatures/e707d920b4bd86f21c363d1cdd007354.sig.gz,e707d920b4bd86f21c363d1cdd007354,e707d920,31,DNA,0,1000,1207,True,"GCA_902618345.1 uncultured Alphaproteobacteria bacterium, AG-892-J13",/dev/fd/63
+signatures/a3ac942a8a7855383c701c5e1444cd04.sig.gz,a3ac942a8a7855383c701c5e1444cd04,a3ac942a,31,DNA,0,1000,2955,True,"GCA_903924805.1 uncultured delta proteobacterium, freshwater MAG --- AlinenSedimentsD2_bin-0128",/dev/fd/63
+signatures/e3f250ca8e4fbd593ba6d0086281b85c.sig.gz,e3f250ca8e4fbd593ba6d0086281b85c,e3f250ca,31,DNA,0,1000,7059,True,"GCF_900592285.1 Burkholderia pseudomallei strain=HBPUB10194A, 10156_3#46",/dev/fd/63
+signatures/a35ff45d8ac06d52f6ec33e6aacda059.sig.gz,a35ff45d8ac06d52f6ec33e6aacda059,a35ff45d,31,DNA,0,1000,2223,True,"GCF_016466065.1 Weissella confusa strain=CCUG 36556, ASM1646606v1",/dev/fd/63
+signatures/c709715a5344c61fe8b144fab4ef89bb.sig.gz,c709715a5344c61fe8b144fab4ef89bb,c709715a,31,DNA,0,1000,6634,True,"GCF_003629695.1 Pseudomonas aeruginosa strain=VET-22, ASM362969v1",/dev/fd/63
+signatures/52f760e1142faca9b152d9e2fb54a902.sig.gz,52f760e1142faca9b152d9e2fb54a902,52f760e1,31,DNA,0,1000,2719,True,"GCA_017443265.1 Bacteroidales bacterium, ASM1744326v1",/dev/fd/63
+signatures/41f65c2f072a5444bc6412a2d1db04ba.sig.gz,41f65c2f072a5444bc6412a2d1db04ba,41f65c2f,31,DNA,0,1000,2568,True,"GCF_014041995.1 Arcanobacterium sp. JY-X040 strain=JY-X040, ASM1404199v1",/dev/fd/63
+signatures/efabb598a4527f74399e32d4dac03fa2.sig.gz,efabb598a4527f74399e32d4dac03fa2,efabb598,31,DNA,0,1000,6183,True,"GCF_009391885.1 Pseudomonas sp. MN1F strain=MN1F, ASM939188v1",/dev/fd/63
+signatures/35e44776cd99d1ceefa3c2f58e0b3d3f.sig.gz,35e44776cd99d1ceefa3c2f58e0b3d3f,35e44776,31,DNA,0,1000,3619,True,"GCA_903880725.1 uncultured bacterium, freshwater MAG --- LJ-3-15m_bin-0468",/dev/fd/63
+signatures/85ad9bc86355b84d84ddd962f2d34fe2.sig.gz,85ad9bc86355b84d84ddd962f2d34fe2,85ad9bc8,31,DNA,0,1000,1212,True,"GCA_017631705.1 Clostridia bacterium, ASM1763170v1",/dev/fd/63
+signatures/110653c52fada2dfd48aaab55fe8a2d8.sig.gz,110653c52fada2dfd48aaab55fe8a2d8,110653c5,31,DNA,0,1000,3981,True,"GCF_011603975.1 Cellulomonas sp. IC4_254 strain=IC4_254, ASM1160397v1",/dev/fd/63
+signatures/931179365067b5a0b755e5e0b564866a.sig.gz,931179365067b5a0b755e5e0b564866a,93117936,31,DNA,0,1000,2054,True,"GCA_900754745.1 uncultured Collinsella sp., ERS396508_38",/dev/fd/63
+signatures/a5c33cfd62b79a19dcffb6a116083cee.sig.gz,a5c33cfd62b79a19dcffb6a116083cee,a5c33cfd,31,DNA,0,1000,2874,True,"GCA_017440575.1 Lachnospiraceae bacterium, ASM1744057v1",/dev/fd/63
+signatures/58a0f103683a3fa772c4bf28e3c17213.sig.gz,58a0f103683a3fa772c4bf28e3c17213,58a0f103,31,DNA,0,1000,2186,True,"GCA_013911945.1 Rhizobiales bacterium, ASM1391194v1",/dev/fd/63
+signatures/64165c1070714ba16770d1f40d5073a6.sig.gz,64165c1070714ba16770d1f40d5073a6,64165c10,31,DNA,0,1000,4863,True,"GCF_002486375.1 Escherichia coli strain=MOD1-EC5892, ASM248637v1",/dev/fd/63
+signatures/85afe16ffc7677a5276566ae1cfb1021.sig.gz,85afe16ffc7677a5276566ae1cfb1021,85afe16f,31,DNA,0,1000,6136,True,"GCF_015557995.1 Bacteroides faecis strain=D59t2_181005_E8, ASM1555799v1",/dev/fd/63
+signatures/fd1dac28c51a862ffdd76c14aa52b84e.sig.gz,fd1dac28c51a862ffdd76c14aa52b84e,fd1dac28,31,DNA,0,1000,1743,True,"GCA_905236835.1 uncultured Oscillibacter sp., RUG30387",/dev/fd/63
+signatures/c18605dffe859d36b9d45faf9ffe4441.sig.gz,c18605dffe859d36b9d45faf9ffe4441,c18605df,31,DNA,0,1000,7079,True,"GCF_000447295.1 Fischerella sp. PCC 9431 strain=PCC 9431, ASM44729v1",/dev/fd/63
+signatures/d31c95852b3006d50c8b6d8a275b30fc.sig.gz,d31c95852b3006d50c8b6d8a275b30fc,d31c9585,31,DNA,0,1000,2322,True,"GCA_903896105.1 uncultured Campylobacterales bacterium, freshwater MAG --- MJ120516B_bin-074",/dev/fd/63
+signatures/a509a0a1fa20f65a4e58c6166000ede8.sig.gz,a509a0a1fa20f65a4e58c6166000ede8,a509a0a1,31,DNA,0,1000,4736,True,"GCF_002042755.1 Salmonella enterica subsp. enterica serovar Enteritidis strain=CFSAN057880, ASM204275v1",/dev/fd/63
+signatures/52d51edaf4db6f2e53b8816268d1582b.sig.gz,52d51edaf4db6f2e53b8816268d1582b,52d51eda,31,DNA,0,1000,2108,True,"GCA_018644905.1 Actinobacteria bacterium, ASM1864490v1",/dev/fd/63
+signatures/0da764a469bb8d4d4623b23fe038a6f3.sig.gz,0da764a469bb8d4d4623b23fe038a6f3,0da764a4,31,DNA,0,1000,1301,True,"GCF_006364135.1 Candidatus Methylopumilus universalis strain=MMS-VA-83, ASM636413v1",/dev/fd/63
+signatures/daf9e54f01db2066781a83aa6ae569b1.sig.gz,daf9e54f01db2066781a83aa6ae569b1,daf9e54f,31,DNA,0,1000,4680,True,"GCF_001368215.1 Salmonella enterica subsp. enterica serovar Typhi strain=MDUST206, 10492_1#29",/dev/fd/63
+signatures/5f03f0b58d25f8b1956d4683aa1a4fae.sig.gz,5f03f0b58d25f8b1956d4683aa1a4fae,5f03f0b5,31,DNA,0,1000,1221,True,"GCA_902797865.1 uncultured proteobacterium, Rumen uncultured genome RUG14317",/dev/fd/63
+signatures/d4a3427ed2a23fd467b537793aec38bd.sig.gz,d4a3427ed2a23fd467b537793aec38bd,d4a3427e,31,DNA,0,1000,4875,True,"GCF_903931685.1 Salmonella enterica, 1342_06",/dev/fd/63
+signatures/a5596e76989865be65f0b39d597b3ba2.sig.gz,a5596e76989865be65f0b39d597b3ba2,a5596e76,31,DNA,0,1000,5547,True,"GCF_003944585.1 Pandoraea apista strain=Pa18531, ASM394458v1",/dev/fd/63
+signatures/0a3de7cf8dca1e1c870a03a5dc7e8115.sig.gz,0a3de7cf8dca1e1c870a03a5dc7e8115,0a3de7cf,31,DNA,0,1000,4915,True,"GCF_009678905.1 Lactonifactor sp. BIOML-A6 strain=BIOML-A6, ASM967890v1",/dev/fd/63
+signatures/3a60da216cb5ae9c99bf7a1fd1e72e70.sig.gz,3a60da216cb5ae9c99bf7a1fd1e72e70,3a60da21,31,DNA,0,1000,4756,True,"GCF_002037345.1 Salmonella enterica subsp. enterica serovar 4,12:r:- strain=SAL3274, ASM203734v1",/dev/fd/63
+signatures/8221c1ef1636a48d3e9dd13fc355bc40.sig.gz,8221c1ef1636a48d3e9dd13fc355bc40,8221c1ef,31,DNA,0,1000,2385,True,"GCA_905214635.1 uncultured bacterium, ERR1430463-mag-bin.8",/dev/fd/63
+signatures/38ea109ee7dbaf95d8f640bed5a1d6ad.sig.gz,38ea109ee7dbaf95d8f640bed5a1d6ad,38ea109e,31,DNA,0,1000,2661,True,"GCA_003511205.1 Microbacterium sp., ASM351120v1",/dev/fd/63
+signatures/91d94506610c746641e93989a15e46fb.sig.gz,91d94506610c746641e93989a15e46fb,91d94506,31,DNA,0,1000,7889,True,"GCA_017744695.1 Dyadobacter sp., ASM1774469v1",/dev/fd/63
+signatures/b3b33b24ad53e02cafc71bff81df610d.sig.gz,b3b33b24ad53e02cafc71bff81df610d,b3b33b24,31,DNA,0,1000,5224,True,"GCF_000008865.2 Escherichia coli O157:H7 str. Sakai strain=Sakai substr. RIMD 0509952, ASM886v2",/dev/fd/63
+signatures/1988af50538ef1ed361c0ab2ef1397aa.sig.gz,1988af50538ef1ed361c0ab2ef1397aa,1988af50,31,DNA,0,1000,5324,True,"GCF_011067245.1 Klebsiella aerogenes strain=18-2341, ASM1106724v1",/dev/fd/63
+signatures/7997f3b790f1efc154152b58762ff881.sig.gz,7997f3b790f1efc154152b58762ff881,7997f3b7,31,DNA,0,1000,4186,True,"GCF_003335355.1 Brachybacterium alimentarium strain=738_10, ASM333535v1",/dev/fd/63
+signatures/e50cfd701cb1ca6bc124f4fa0de16641.sig.gz,e50cfd701cb1ca6bc124f4fa0de16641,e50cfd70,31,DNA,0,1000,4999,True,"GCF_013183065.1 Escherichia coli strain=FH121, ASM1318306v1",/dev/fd/63
+signatures/d9459d8e862291b51dc93e6f6b26b611.sig.gz,d9459d8e862291b51dc93e6f6b26b611,d9459d8e,31,DNA,0,1000,5412,True,"GCA_902508035.1 Klebsiella pneumoniae strain=ZKP31, ZKP31",/dev/fd/63
+signatures/7e5db16ac917435abd41af7570933a08.sig.gz,7e5db16ac917435abd41af7570933a08,7e5db16a,31,DNA,0,1000,2483,True,"GCA_018327225.1 Bifidobacteriaceae bacterium MCC01967 strain=MCC01967, ASM1832722v1",/dev/fd/63
+signatures/0e7bf2661d185be45255948f430ec81b.sig.gz,0e7bf2661d185be45255948f430ec81b,0e7bf266,31,DNA,0,1000,4615,True,"GCF_000342105.1 Bacillus sonorensis L12 strain=L12, Draft Genome Sequence of Bacillus sonorensis L12",/dev/fd/63
+signatures/48030a718aca8e74dc9f4e25343208d1.sig.gz,48030a718aca8e74dc9f4e25343208d1,48030a71,31,DNA,0,1000,2091,True,"GCF_001147185.1 Streptococcus pneumoniae strain=34, 9803_7#44",/dev/fd/63
+signatures/753a64ccbc374c1818b49e7a984dd09e.sig.gz,753a64ccbc374c1818b49e7a984dd09e,753a64cc,31,DNA,0,1000,886,True,"GCA_903890345.1 uncultured actinobacterium, freshwater MAG --- Ja2-D4_bin-0899",/dev/fd/63
+signatures/2da51bad9ed079226d164b69f48b2b74.sig.gz,2da51bad9ed079226d164b69f48b2b74,2da51bad,31,DNA,0,1000,4632,True,"GCF_003462805.1 Odoribacter splanchnicus strain=AF16-14, ASM346280v1",/dev/fd/63
+signatures/f864a9a2bd209f966b5e0f581e5eb1b8.sig.gz,f864a9a2bd209f966b5e0f581e5eb1b8,f864a9a2,31,DNA,0,1000,4532,True,"GCF_004022585.1 Sinirhodobacter populi strain=2D-5, ASM402258v1",/dev/fd/63
+signatures/ecb809b318e744b2515a2772c3c4b3ef.sig.gz,ecb809b318e744b2515a2772c3c4b3ef,ecb809b3,31,DNA,0,1000,2087,True,"GCF_001169925.1 Streptococcus pneumoniae strain=15C, 9803_7#29",/dev/fd/63
+signatures/ca545c217be7ea4d0b79e0a5c49d2e1a.sig.gz,ca545c217be7ea4d0b79e0a5c49d2e1a,ca545c21,31,DNA,0,1000,3296,True,"GCF_001582455.1 Legionella pneumophila strain=WD_9_1102a, ASM158245v1",/dev/fd/63
+signatures/8248a3ef15b87863c3074aabe1489dca.sig.gz,8248a3ef15b87863c3074aabe1489dca,8248a3ef,31,DNA,0,1000,1696,True,"GCA_012838845.1 Streptococcus sp., ASM1283884v1",/dev/fd/63
+signatures/e8e02b1d73ec3415b547fbbaed06a9b7.sig.gz,e8e02b1d73ec3415b547fbbaed06a9b7,e8e02b1d,31,DNA,0,1000,3871,True,"GCA_017985655.1 Anaerolineales bacterium, ASM1798565v1",/dev/fd/63
+signatures/65ba7aabb4128a4c29a0ce5f11fff178.sig.gz,65ba7aabb4128a4c29a0ce5f11fff178,65ba7aab,31,DNA,0,1000,4240,True,"GCF_014636335.1 Hyunsoonleella pacifica strain=CGMCC 1.11009, ASM1463633v1",/dev/fd/63
+signatures/abcadbaf542f414951f8bb51cad8d8c0.sig.gz,abcadbaf542f414951f8bb51cad8d8c0,abcadbaf,31,DNA,0,1000,5952,True,"GCF_900598875.1 Pseudomonas viridiflava, p4.H5",/dev/fd/63
+signatures/0be7da498efafe2047ddadac1f31a198.sig.gz,0be7da498efafe2047ddadac1f31a198,0be7da49,31,DNA,0,1000,1321,True,"GCA_017383055.1 Burkholderiaceae bacterium, ASM1738305v1",/dev/fd/63
+signatures/0442f0e2d372395a8a246ef2a3a06016.sig.gz,0442f0e2d372395a8a246ef2a3a06016,0442f0e2,31,DNA,0,1000,4731,True,"GCF_009807485.1 Algibacter wandonensis strain=KCTC 32381, ASM980748v1",/dev/fd/63
+signatures/ff8e05795c59ee470dc30d08d47cf40f.sig.gz,ff8e05795c59ee470dc30d08d47cf40f,ff8e0579,31,DNA,0,1000,1832,True,"GCF_007897175.1 Haemophilus influenzae strain=B, ASM789717v1",/dev/fd/63
+signatures/c39b80a0fca9c0f88b3fa886b5ed759c.sig.gz,c39b80a0fca9c0f88b3fa886b5ed759c,c39b80a0,31,DNA,0,1000,4963,True,"GCF_900479555.1 Escherichia coli strain=VREC0307, 17261_7#64",/dev/fd/63
+signatures/f0c6d5519b8b1ecd8a88680f83cfaf70.sig.gz,f0c6d5519b8b1ecd8a88680f83cfaf70,f0c6d551,31,DNA,0,1000,2836,True,"GCF_900048495.1 Staphylococcus aureus strain=st479, 7414_7#89",/dev/fd/63
+signatures/e95a1fef37d448b42e39f78630cfc37d.sig.gz,e95a1fef37d448b42e39f78630cfc37d,e95a1fef,31,DNA,0,1000,3234,True,"GCA_009843915.1 Acidimicrobiaceae bacterium, ASM984391v1",/dev/fd/63
+signatures/f0009a144062f1ae301904e7226cd11b.sig.gz,f0009a144062f1ae301904e7226cd11b,f0009a14,31,DNA,0,1000,4545,True,"GCF_900099645.1 Pseudomonas peli strain=DSM 17833, IMG-taxon 2671180067 annotated assembly",/dev/fd/63
+signatures/8b9d6045f9ddd1f194d42eb9f7f14f5b.sig.gz,8b9d6045f9ddd1f194d42eb9f7f14f5b,8b9d6045,31,DNA,0,1000,1859,True,"GCA_016781735.1 Rubrobacter sp., ASM1678173v1",/dev/fd/63
+signatures/83d12c94ff243cc652a7de19d715eb76.sig.gz,83d12c94ff243cc652a7de19d715eb76,83d12c94,31,DNA,0,1000,2718,True,"GCA_019120125.1 Candidatus Phocaeicola excrementigallinarum, ASM1912012v1",/dev/fd/63
+signatures/d60b82d24f2fb2a67a9c521ddf2bbbe0.sig.gz,d60b82d24f2fb2a67a9c521ddf2bbbe0,d60b82d2,31,DNA,0,1000,3929,True,"GCF_013403925.1 Winogradskyella sp. Z738 strain=Z738, ASM1340392v1",/dev/fd/63
+signatures/80f5dd4f1de4fbb3a678e001380c9c51.sig.gz,80f5dd4f1de4fbb3a678e001380c9c51,80f5dd4f,31,DNA,0,1000,4288,True,"GCA_015228825.1 Magnetococcales bacterium, ASM1522882v1",/dev/fd/63
+signatures/dd9fea0d4b79fa2f3be4b4f3e0bf9f0b.sig.gz,dd9fea0d4b79fa2f3be4b4f3e0bf9f0b,dd9fea0d,31,DNA,0,1000,4904,True,"GCF_001069685.1 Stenotrophomonas maltophilia strain=1318_SMAL, ASM106968v1",/dev/fd/63
+signatures/2dde079ff5b3eaab8510a0d0e048ebc2.sig.gz,2dde079ff5b3eaab8510a0d0e048ebc2,2dde079f,31,DNA,0,1000,6722,True,"GCF_003857765.1 Burkholderia sp. Bp9016 strain=Bp9016, ASM385776v1",/dev/fd/63
+signatures/77a1ca5293ea065d3b90c7c84577c290.sig.gz,77a1ca5293ea065d3b90c7c84577c290,77a1ca52,31,DNA,0,1000,5384,True,"GCF_004348265.1 Methylobacterium segetis strain=17J42-1, ASM434826v1",/dev/fd/63
+signatures/41df74a0b3c488495f57b90f82688591.sig.gz,41df74a0b3c488495f57b90f82688591,41df74a0,31,DNA,0,1000,3782,True,"GCF_001883255.1 Yersinia ruckeri strain=96/5134-k, ASM188325v1",/dev/fd/63
+signatures/e84dc8dec25968349cab0efa7f4415d3.sig.gz,e84dc8dec25968349cab0efa7f4415d3,e84dc8de,31,DNA,0,1000,2548,True,"GCF_002767605.1 Staphylococcus pseudintermedius strain=2091007021021, ASM276760v1",/dev/fd/63
+signatures/88ab61180084c976d66a5fa52d78b6c4.sig.gz,88ab61180084c976d66a5fa52d78b6c4,88ab6118,31,DNA,0,1000,1075,True,"GCF_000731875.1 Mycoplasma capricolum subsp. capricolum 14232 strain=14232, ASM73187v1",/dev/fd/63
+signatures/c114e1cac726dc39973d388107a7d52b.sig.gz,c114e1cac726dc39973d388107a7d52b,c114e1ca,31,DNA,0,1000,4350,True,"GCA_002790095.1 Elusimicrobia bacterium CG_4_9_14_3_um_filter_62_55, ASM279009v1",/dev/fd/63
+signatures/df9b14dac1289f4ce355b4dfce35d4b1.sig.gz,df9b14dac1289f4ce355b4dfce35d4b1,df9b14da,31,DNA,0,1000,5408,True,"GCF_013303045.1 Citrobacter werkmanii strain=CW_LB-887, ASM1330304v1",/dev/fd/63
+signatures/43f67fb0fe7ba097b245ea7a8692d07e.sig.gz,43f67fb0fe7ba097b245ea7a8692d07e,43f67fb0,31,DNA,0,1000,2117,True,"GCA_002686835.1 Opitutae bacterium, ASM268683v1",/dev/fd/63
+signatures/95b03bccfd1f1051356a35696b76ca28.sig.gz,95b03bccfd1f1051356a35696b76ca28,95b03bcc,31,DNA,0,1000,4323,True,"GCF_001163485.1 Mycobacterium tuberculosis strain=401243, 7414_6#59",/dev/fd/63
+signatures/174b3376308722e7c9a16eb4b5789d79.sig.gz,174b3376308722e7c9a16eb4b5789d79,174b3376,31,DNA,0,1000,2524,True,"GCA_002494215.1 Prevotellaceae bacterium UBA7028, ASM249421v1",/dev/fd/63
+signatures/15091878ac76cb67581f426902c21fd4.sig.gz,15091878ac76cb67581f426902c21fd4,15091878,31,DNA,0,1000,3222,True,"GCF_000701445.1 Brevundimonas bacteroides DSM 4726 strain=DSM 4726, ASM70144v1",/dev/fd/63
+signatures/7a79448b1b582748b8bab719e0e2b873.sig.gz,7a79448b1b582748b8bab719e0e2b873,7a79448b,31,DNA,0,1000,2993,True,"GCF_016114975.1 Enterococcus faecalis strain=10702727, ASM1611497v1",/dev/fd/63
+signatures/11c392f479c0832b69686b7c0ffa1797.sig.gz,11c392f479c0832b69686b7c0ffa1797,11c392f4,31,DNA,0,1000,6490,True,"GCF_003833525.1 Pseudomonas aeruginosa strain=PA-W46, ASM383352v1",/dev/fd/63
+signatures/1aba397f02e57c6e5a80e489e0534417.sig.gz,1aba397f02e57c6e5a80e489e0534417,1aba397f,31,DNA,0,1000,2775,True,"GCF_016612245.1 Listeria monocytogenes strain=MF8033, ASM1661224v1",/dev/fd/63
+signatures/d487e125bddc33ff48e9c6fcfbf068bd.sig.gz,d487e125bddc33ff48e9c6fcfbf068bd,d487e125,31,DNA,0,1000,4504,True,"GCA_001748325.1 Aeromonas veronii strain=Ae52, ASM174832v1",/dev/fd/63
+signatures/963b94367edee10af4791e1bba8de4ee.sig.gz,963b94367edee10af4791e1bba8de4ee,963b9436,31,DNA,0,1000,603,True,"GCF_005083845.1 Buchnera aphidicola (Aphis helianthi) strain=Ahe, ASM508384v1",/dev/fd/63
+signatures/ce85f0afa8f3da15c69f086358164fe2.sig.gz,ce85f0afa8f3da15c69f086358164fe2,ce85f0af,31,DNA,0,1000,4697,True,"GCF_002050675.1 Salmonella enterica subsp. enterica serovar Gaminara strain=07-0467, ASM205067v1",/dev/fd/63
+signatures/c7e76ebfdaf8cbcf58f16c4e57d6a52f.sig.gz,c7e76ebfdaf8cbcf58f16c4e57d6a52f,c7e76ebf,31,DNA,0,1000,4184,True,"GCF_001989715.2 Vibrio anguillarum strain=87-9-117, ASM198971v2",/dev/fd/63
+signatures/fc99e3fabe86e549d1ea5a3869ab86b5.sig.gz,fc99e3fabe86e549d1ea5a3869ab86b5,fc99e3fa,31,DNA,0,1000,2786,True,"GCF_018791605.1 Staphylococcus aureus strain=IR14, ASM1879160v1",/dev/fd/63
+signatures/5c5b22f394b7cb8742f14b4f54f9eec5.sig.gz,5c5b22f394b7cb8742f14b4f54f9eec5,5c5b22f3,31,DNA,0,1000,3170,True,"GCA_009017355.1 Brucella melitensis, ASM901735v1",/dev/fd/63
+signatures/428332e6efbfd00e22bfa2a1a72a0b2c.sig.gz,428332e6efbfd00e22bfa2a1a72a0b2c,428332e6,31,DNA,0,1000,4317,True,"GCF_001387215.1 Mycobacterium tuberculosis strain=0469L, 8987_4#5",/dev/fd/63
+signatures/caed49dd21a35f735494a4901ad7224d.sig.gz,caed49dd21a35f735494a4901ad7224d,caed49dd,31,DNA,0,1000,2465,True,"GCA_001813165.1 Propionibacterium sp. HMSC067A02 strain=HMSC067A02, ASM181316v1",/dev/fd/63
+signatures/d7ca99d07e73a8aaf844f1e4afb8f652.sig.gz,d7ca99d07e73a8aaf844f1e4afb8f652,d7ca99d0,31,DNA,0,1000,2398,True,"GCF_003892335.1 Bibersteinia trehalosi strain=OADDL-BT1, ASM389233v1",/dev/fd/63
+signatures/cf919a9734c5f2e70091de832050b343.sig.gz,cf919a9734c5f2e70091de832050b343,cf919a97,31,DNA,0,1000,2855,True,"GCF_000561345.1 Staphylococcus aureus H27761 strain=H27761, Stap_aure_H27761_V1",/dev/fd/63
+signatures/8fcda7a31cba5e8431a9aba3a230d08f.sig.gz,8fcda7a31cba5e8431a9aba3a230d08f,8fcda7a3,31,DNA,0,1000,2420,True,"GCA_006094415.1 Micrococcus luteus strain=ATCC 4698, ASM609441v1",/dev/fd/63
+signatures/37edaed0d85fd13e0ecf978e92faf45e.sig.gz,37edaed0d85fd13e0ecf978e92faf45e,37edaed0,31,DNA,0,1000,5806,True,"GCF_002934065.1 Pseudomonas orientalis strain=F9, ASM293406v1",/dev/fd/63
+signatures/8e3cb80b6d287bfe0341f8068b5bb490.sig.gz,8e3cb80b6d287bfe0341f8068b5bb490,8e3cb80b,31,DNA,0,1000,1908,True,"GCA_002726415.1 Acidiferrobacteraceae bacterium, ASM272641v1",/dev/fd/63
+signatures/bfb237cf65d9e829c94ec129155fcfd2.sig.gz,bfb237cf65d9e829c94ec129155fcfd2,bfb237cf,31,DNA,0,1000,1773,True,"GCA_905199395.1 Ruminococcaceae bacterium, ERR1600553-mag-bin.16",/dev/fd/63
+signatures/54a79e996fbb29e3370abd6ad9a19ec4.sig.gz,54a79e996fbb29e3370abd6ad9a19ec4,54a79e99,31,DNA,0,1000,6975,True,"GCF_017742155.1 Pseudomonas aeruginosa strain=SK010, ASM1774215v1",/dev/fd/63
+signatures/e45a3f9b59668ba018498e05bf0e530d.sig.gz,e45a3f9b59668ba018498e05bf0e530d,e45a3f9b,31,DNA,0,1000,5397,True,"GCF_900506375.1 Klebsiella pneumoniae strain=EuSCAPE_IE029, 19506_1#126",/dev/fd/63
+signatures/7c90ff672a01ffe1c9d26d4ab8da63c0.sig.gz,7c90ff672a01ffe1c9d26d4ab8da63c0,7c90ff67,31,DNA,0,1000,7548,True,"GCF_014648195.1 Streptomyces purpureus strain=JCM 3172, ASM1464819v1",/dev/fd/63
+signatures/1d672e9fab8d0e9e74bec5b16edcb187.sig.gz,1d672e9fab8d0e9e74bec5b16edcb187,1d672e9f,31,DNA,0,1000,5375,True,"GCF_009207685.1 Klebsiella pneumoniae strain=073D1, ASM920768v1",/dev/fd/63
+signatures/a178113c0f39eb7b1b4e9dcedb4823af.sig.gz,a178113c0f39eb7b1b4e9dcedb4823af,a178113c,31,DNA,0,1000,3207,True,"GCF_009830395.1 Enterococcus gallinarum strain=25-4C, ASM983039v1",/dev/fd/63
+signatures/3320bb34b17db1644f5de3301e905919.sig.gz,3320bb34b17db1644f5de3301e905919,3320bb34,31,DNA,0,1000,1713,True,"GCA_017617065.1 Bacilli bacterium, ASM1761706v1",/dev/fd/63
+signatures/d16d80f4a4721b0c246bf54a064b55a4.sig.gz,d16d80f4a4721b0c246bf54a064b55a4,d16d80f4,31,DNA,0,1000,2109,True,"GCA_902785445.1 uncultured Anaerovibrio sp., Rumen uncultured genome RUG13065",/dev/fd/63
+signatures/facaf8a665afba5da376ef86d6639165.sig.gz,facaf8a665afba5da376ef86d6639165,facaf8a6,31,DNA,0,1000,4273,True,"GCF_001195665.1 Mycobacterium tuberculosis strain=P00401720, 5227_8#6",/dev/fd/63
+signatures/f20aa19975a3a96422228e0abc968e3a.sig.gz,f20aa19975a3a96422228e0abc968e3a,f20aa199,31,DNA,0,1000,1535,True,"GCA_017466695.1 Alphaproteobacteria bacterium, ASM1746669v1",/dev/fd/63
+signatures/88a112e4f641ebd1cfbad7aba4da799b.sig.gz,88a112e4f641ebd1cfbad7aba4da799b,88a112e4,31,DNA,0,1000,2257,True,"GCA_018384055.1 Treponema sp., ASM1838405v1",/dev/fd/63
+signatures/923e54c1349b4a35a4681d1d8f897513.sig.gz,923e54c1349b4a35a4681d1d8f897513,923e54c1,31,DNA,0,1000,3167,True,"GCA_003646045.1 bacterium, ASM364604v1",/dev/fd/63
+signatures/ef439a82bcfc4c240c810045abc10941.sig.gz,ef439a82bcfc4c240c810045abc10941,ef439a82,31,DNA,0,1000,2978,True,"GCF_902715365.1 Staphylococcus aureus strain=S102_N01_C01, 6949_5#48",/dev/fd/63
+signatures/4ed74ebea69097baa394037b9bdb8714.sig.gz,4ed74ebea69097baa394037b9bdb8714,4ed74ebe,31,DNA,0,1000,2825,True,"GCA_018066285.1 Treponema sp., ASM1806628v1",/dev/fd/63
+signatures/dfdf6240634272b4075ade0b91d96b64.sig.gz,dfdf6240634272b4075ade0b91d96b64,dfdf6240,31,DNA,0,1000,4264,True,"GCF_001396275.1 Mycobacterium tuberculosis strain=Bir 68, 6174_2#7",/dev/fd/63
+signatures/e966f9d8dc4cd33a6be253fc38362cd1.sig.gz,e966f9d8dc4cd33a6be253fc38362cd1,e966f9d8,31,DNA,0,1000,1700,True,"GCF_001226985.1 Campylobacter coli strain=OXC6395, 7065_7#49",/dev/fd/63
+signatures/d66ea3fc7df54725e383470c17ae23a8.sig.gz,d66ea3fc7df54725e383470c17ae23a8,d66ea3fc,31,DNA,0,1000,6373,True,"GCA_004017155.1 Mesorhizobium sp., ASM401715v1",/dev/fd/63
+signatures/2cc8ab70c8bba8afac7c186cde99b387.sig.gz,2cc8ab70c8bba8afac7c186cde99b387,2cc8ab70,31,DNA,0,1000,1296,True,"GCA_902532675.1 uncultured SAR86 cluster bacterium, AG-343-L05",/dev/fd/63
+signatures/ccbcdfa9d72a468ce431f15073fef228.sig.gz,ccbcdfa9d72a468ce431f15073fef228,ccbcdfa9,31,DNA,0,1000,1497,True,"GCA_009726025.1 Actinobacteria bacterium, ASM972602v1",/dev/fd/63
+signatures/16429dd000c9ca458c179e361533e2bd.sig.gz,16429dd000c9ca458c179e361533e2bd,16429dd0,31,DNA,0,1000,2096,True,"GCF_900029035.1 Neisseria meningitidis strain=2842STDY5881254, 14324_4#9",/dev/fd/63
+signatures/18f15c0e3872f7c4ac141f712e70befd.sig.gz,18f15c0e3872f7c4ac141f712e70befd,18f15c0e,31,DNA,0,1000,2058,True,"GCF_003843095.1 Neisseria meningitidis strain=INS-Nm1003, INS-Nm1003",/dev/fd/63
+signatures/c688798e3aa3e0c1c873c9d7d0d57aa7.sig.gz,c688798e3aa3e0c1c873c9d7d0d57aa7,c688798e,31,DNA,0,1000,1820,True,"GCF_013394805.1 Mogibacterium timidum strain=W9173, ASM1339480v1",/dev/fd/63
+signatures/c7810d54225c600e1030a19d509f4bb4.sig.gz,c7810d54225c600e1030a19d509f4bb4,c7810d54,31,DNA,0,1000,2459,True,"GCF_001659315.1 Staphylococcus epidermidis strain=ENVH113, ASM165931v1",/dev/fd/63
+signatures/a2c1b7be389c9948cbab73dbc508c4d1.sig.gz,a2c1b7be389c9948cbab73dbc508c4d1,a2c1b7be,31,DNA,0,1000,4993,True,"GCF_000798375.1 Escherichia coli strain=CVM N38826PS, Escherichia coli CVM N38826PS v. 1.0",/dev/fd/63
+signatures/fa2920eeb85b571f704867daceab0dfa.sig.gz,fa2920eeb85b571f704867daceab0dfa,fa2920ee,31,DNA,0,1000,4590,True,"GCF_900158985.1 Shigella sonnei strain=3626STDY6095478, 16703_8#3",/dev/fd/63
+signatures/1bb79186a2a63c04c141756a3a236071.sig.gz,1bb79186a2a63c04c141756a3a236071,1bb79186,31,DNA,0,1000,2096,True,"GCF_001326595.1 Streptococcus pneumoniae strain=35C/2, 5242_3#5",/dev/fd/63
+signatures/665b836d1d21438b2adf8b97cad053b0.sig.gz,665b836d1d21438b2adf8b97cad053b0,665b836d,31,DNA,0,1000,1620,True,"GCA_017501625.1 Alistipes sp., ASM1750162v1",/dev/fd/63
+signatures/f2956d5e7df17670f767b09d0f8ac4e2.sig.gz,f2956d5e7df17670f767b09d0f8ac4e2,f2956d5e,31,DNA,0,1000,2275,True,"GCA_017508635.1 Desulfovibrio sp., ASM1750863v1",/dev/fd/63
+signatures/9906f424f5a98cc9235cba56fa33c3a4.sig.gz,9906f424f5a98cc9235cba56fa33c3a4,9906f424,31,DNA,0,1000,5274,True,"GCA_001897045.1 Sphingomonas sp. 66-10, ASM189704v1",/dev/fd/63
+signatures/762a0b7d6acf84b52a861f016971e670.sig.gz,762a0b7d6acf84b52a861f016971e670,762a0b7d,31,DNA,0,1000,3324,True,"GCA_902168155.1 uncultured Devosia sp., MAG-Devosia_sp_nbed14b33",/dev/fd/63
+signatures/b9934f7b540fa369ae7c586c880ac966.sig.gz,b9934f7b540fa369ae7c586c880ac966,b9934f7b,31,DNA,0,1000,4949,True,"GCF_004215325.1 Vibrio vulnificus strain=VA-WGS-18023, ASM421532v1",/dev/fd/63
+signatures/072bbbda274e125b9c92d80d59b7529c.sig.gz,072bbbda274e125b9c92d80d59b7529c,072bbbda,31,DNA,0,1000,4698,True,"GCF_008370245.1 Pseudoalteromonas fuliginea strain=PS2, ASM837024v1",/dev/fd/63
+signatures/0914c7447e4958b7e99cf7cb5be9b641.sig.gz,0914c7447e4958b7e99cf7cb5be9b641,0914c744,31,DNA,0,1000,5751,True,"GCF_011319905.1 Pseudomonas otitidis strain=38M, ASM1131990v1",/dev/fd/63
+signatures/94cb13f9199d68f7921a09b491f324b7.sig.gz,94cb13f9199d68f7921a09b491f324b7,94cb13f9,31,DNA,0,1000,9897,True,"GCF_000340845.1 Streptomyces hygroscopicus subsp. jinggangensis TL01 strain=TL01, ASM34084v1",/dev/fd/63
+signatures/d76975c15057e3dad8240d4b5bdfca6c.sig.gz,d76975c15057e3dad8240d4b5bdfca6c,d76975c1,31,DNA,0,1000,4167,True,"GCF_003075585.1 Proteus mirabilis strain=AR_0377, ASM307558v1",/dev/fd/63
+signatures/dc18df10ed02fe87633af1140964d387.sig.gz,dc18df10ed02fe87633af1140964d387,dc18df10,31,DNA,0,1000,5328,True,"GCA_018831165.1 Vibrio alginolyticus strain=BW13, ASM1883116v1",/dev/fd/63
+signatures/f90f7cf61aca554f24c2ddbfd18b467f.sig.gz,f90f7cf61aca554f24c2ddbfd18b467f,f90f7cf6,31,DNA,0,1000,2096,True,"GCA_002448265.1 Lachnospiraceae bacterium UBA7020, ASM244826v1",/dev/fd/63
+signatures/2aa650cf4b8cba4ddb8652be8bf77020.sig.gz,2aa650cf4b8cba4ddb8652be8bf77020,2aa650cf,31,DNA,0,1000,5187,True,"GCF_900499895.1 Escherichia coli, 749B",/dev/fd/63
+signatures/0c0206fd97360d8e248db790257d69fa.sig.gz,0c0206fd97360d8e248db790257d69fa,0c0206fd,31,DNA,0,1000,727,True,"GCA_005789325.1 Actinobacteria bacterium, ASM578932v1",/dev/fd/63
+signatures/ddaaff4926dd491ae9e533b14235520a.sig.gz,ddaaff4926dd491ae9e533b14235520a,ddaaff49,31,DNA,0,1000,2434,True,"GCA_017389265.1 Muribaculaceae bacterium, ASM1738926v1",/dev/fd/63
+signatures/d0fcf171bd0e7138852caaa4a1ee7c2d.sig.gz,d0fcf171bd0e7138852caaa4a1ee7c2d,d0fcf171,31,DNA,0,1000,2974,True,"GCF_003470265.1 [Ruminococcus] gnavus strain=AM25-19, ASM347026v1",/dev/fd/63
+signatures/82126474a959f27ccaaa5c233caf7583.sig.gz,82126474a959f27ccaaa5c233caf7583,82126474,31,DNA,0,1000,5443,True,"GCF_003261745.1 Klebsiella pneumoniae strain=WCHKP015658, ASM326174v1",/dev/fd/63
+signatures/348ba4a79c419e961cab7cde3804b5ef.sig.gz,348ba4a79c419e961cab7cde3804b5ef,348ba4a7,31,DNA,0,1000,3713,True,"GCA_016787365.1 Bacteroidia bacterium, ASM1678736v1",/dev/fd/63
+signatures/338a134c59bee8be09be4b555b7d544a.sig.gz,338a134c59bee8be09be4b555b7d544a,338a134c,31,DNA,0,1000,5638,True,"GCF_014840605.1 Klebsiella pneumoniae strain=CFSAN059623, ASM1484060v1",/dev/fd/63
+signatures/7bf7a1e7e31a5dd7350d1e6e6cde0495.sig.gz,7bf7a1e7e31a5dd7350d1e6e6cde0495,7bf7a1e7,31,DNA,0,1000,1997,True,"GCF_018966925.1 Limosilactobacillus reuteri strain=LR1, ASM1896692v1",/dev/fd/63
+signatures/5115833b6b328ff7b38d5da1fed07c9b.sig.gz,5115833b6b328ff7b38d5da1fed07c9b,5115833b,31,DNA,0,1000,5655,True,"GCF_900515145.1 Klebsiella pneumoniae strain=EuSCAPE_IT162, 18174_6#67",/dev/fd/63
+signatures/568b7ed013e6b0ec1e58e8a10a95b658.sig.gz,568b7ed013e6b0ec1e58e8a10a95b658,568b7ed0,31,DNA,0,1000,2828,True,"GCF_001211045.1 Staphylococcus aureus strain=USFL112, 7907_4#18",/dev/fd/63
+signatures/8bb4c84c39f5d53e52bd73e19a446ec2.sig.gz,8bb4c84c39f5d53e52bd73e19a446ec2,8bb4c84c,31,DNA,0,1000,4789,True,"GCF_001284185.1 Escherichia coli strain=201350, 8205_3#69",/dev/fd/63
+signatures/9d10e80e73b49b4fd247eb526c4cfbdb.sig.gz,9d10e80e73b49b4fd247eb526c4cfbdb,9d10e80e,31,DNA,0,1000,2784,True,"GCF_019050035.1 Staphylococcus aureus strain=Saari 14, ASM1905003v1",/dev/fd/63
+signatures/7436075886d379fd501cfa051d12704b.sig.gz,7436075886d379fd501cfa051d12704b,74360758,31,DNA,0,1000,5555,True,"GCF_001050015.1 Mycolicibacterium malmesburyense strain=WCM 7299, Mycobacterium malmesburii WCM 7299",/dev/fd/63
+signatures/3334cc5ebd59b36eb6ad83b7a8ad1e13.sig.gz,3334cc5ebd59b36eb6ad83b7a8ad1e13,3334cc5e,31,DNA,0,1000,2878,True,"GCF_001468565.1 Listeria monocytogenes strain=F4233, F4233",/dev/fd/63
+signatures/13f2240aac64e094df1dd5e81dfc0f4f.sig.gz,13f2240aac64e094df1dd5e81dfc0f4f,13f2240a,31,DNA,0,1000,1989,True,"GCA_902802705.1 uncultured Ruminococcus sp., Rumen uncultured genome RUG14791",/dev/fd/63
+signatures/f83bcc1bd23b423c0ece4449e4058857.sig.gz,f83bcc1bd23b423c0ece4449e4058857,f83bcc1b,31,DNA,0,1000,3492,True,"GCA_903883985.1 uncultured proteobacterium, freshwater MAG --- MJ-time_bin-6278",/dev/fd/63
+signatures/6ac1a6a91b7e58e62f55e55b22c70f30.sig.gz,6ac1a6a91b7e58e62f55e55b22c70f30,6ac1a6a9,31,DNA,0,1000,2488,True,"GCA_001632005.1 Prochlorococcus marinus str. MIT 1312 strain=MIT 1312, ASM163200v1",/dev/fd/63
+signatures/d0b5d9b3d9df4a34a67664710c01d476.sig.gz,d0b5d9b3d9df4a34a67664710c01d476,d0b5d9b3,31,DNA,0,1000,5042,True,"GCF_018458205.1 Vibrio alginolyticus strain=VA103, ASM1845820v1",/dev/fd/63
+signatures/f220548dd06d1bb530484f08c9019cd5.sig.gz,f220548dd06d1bb530484f08c9019cd5,f220548d,31,DNA,0,1000,5272,True,"GCF_900505815.1 Klebsiella pneumoniae strain=EuSCAPE_HR025, 19084_4#42",/dev/fd/63
+signatures/e07cc63a7b8e4958a2a132a28294853d.sig.gz,e07cc63a7b8e4958a2a132a28294853d,e07cc63a,31,DNA,0,1000,5372,True,"GCF_900492865.1 Klebsiella pneumoniae strain=4300STDY6636953, 22036_6#18",/dev/fd/63
+signatures/2188e5c52e85f838e2b944fd84297c5d.sig.gz,2188e5c52e85f838e2b944fd84297c5d,2188e5c5,31,DNA,0,1000,5837,True,"GCA_003223835.1 Acidobacteria bacterium, ASM322383v1",/dev/fd/63
+signatures/5d365688725359d81e29c85661b7fce8.sig.gz,5d365688725359d81e29c85661b7fce8,5d365688,31,DNA,0,1000,6021,True,"GCF_002555945.1 Bacillus wiedmannii strain=AFS004017, ASM255594v1",/dev/fd/63
+signatures/fe894dbe28b8484a6781d5175b7224ff.sig.gz,fe894dbe28b8484a6781d5175b7224ff,fe894dbe,31,DNA,0,1000,1811,True,"GCF_900991815.1 Streptococcus pyogenes strain=NS5496, 7368_7#35",/dev/fd/63
+signatures/cfb7c4fe99fd174880c3415fa7268250.sig.gz,cfb7c4fe99fd174880c3415fa7268250,cfb7c4fe,31,DNA,0,1000,7413,True,"GCF_016652835.1 Azospirillum brasilense strain=D7, ASM1665283v1",/dev/fd/63
+signatures/61b4ab0e0d3a0ac5cce86aa30fc15799.sig.gz,61b4ab0e0d3a0ac5cce86aa30fc15799,61b4ab0e,31,DNA,0,1000,1440,True,"GCA_002723125.1 Chloroflexi bacterium, ASM272312v1",/dev/fd/63
+signatures/62b5bde451ef18a0a63460643fb44aff.sig.gz,62b5bde451ef18a0a63460643fb44aff,62b5bde4,31,DNA,0,1000,4396,True,"GCF_006861795.1 Psychrobacillus lasiicapitis strain=NEAU-3TGS17, ASM686179v1",/dev/fd/63
+signatures/e031ee48d0c23168c61d8df638f62965.sig.gz,e031ee48d0c23168c61d8df638f62965,e031ee48,31,DNA,0,1000,3196,True,"GCA_003538845.1 Alteromonas macleodii, ASM353884v1",/dev/fd/63
+signatures/b47173d7823c2e9bac9f03ce787af2d8.sig.gz,b47173d7823c2e9bac9f03ce787af2d8,b47173d7,31,DNA,0,1000,1677,True,"GCF_001237585.1 Campylobacter jejuni strain=OXC6441, 7065_7#92",/dev/fd/63
+signatures/245ae2964c2e7c546c720f9754a768af.sig.gz,245ae2964c2e7c546c720f9754a768af,245ae296,31,DNA,0,1000,3683,True,"GCF_003812065.1 Acinetobacter baumannii strain=FDAARGOS_540, ASM381206v1",/dev/fd/63
+signatures/3fb49e672beed4a25bc34b183d5317ce.sig.gz,3fb49e672beed4a25bc34b183d5317ce,3fb49e67,31,DNA,0,1000,3938,True,"GCF_000283275.1 Marinobacter sp. BSs20148 strain=BSs20148, ASM28327v1",/dev/fd/63
+signatures/cbf6672501ad24b3f8e092abee245125.sig.gz,cbf6672501ad24b3f8e092abee245125,cbf66725,31,DNA,0,1000,2511,True,"GCF_007672495.1 Staphylococcus capitis strain=DE0423, ASM767249v1",/dev/fd/63
+signatures/a000abfef81efc9b40ba693665cbd3b9.sig.gz,a000abfef81efc9b40ba693665cbd3b9,a000abfe,31,DNA,0,1000,2349,True,"GCA_017555085.1 Muribaculaceae bacterium, ASM1755508v1",/dev/fd/63
+signatures/6e02eef491cf5ed312240d9698d3c093.sig.gz,6e02eef491cf5ed312240d9698d3c093,6e02eef4,31,DNA,0,1000,1673,True,"GCF_001499135.1 Campylobacter coli strain=n/a, p495c",/dev/fd/63
+signatures/2f6f5a4e2491cca2b09dfe4095185c8e.sig.gz,2f6f5a4e2491cca2b09dfe4095185c8e,2f6f5a4e,31,DNA,0,1000,3740,True,"GCA_903835745.1 uncultured Opitutaceae bacterium, freshwater MAG --- Umea3p2_bin-0665",/dev/fd/63
+signatures/2935db84777777ef544ee09ca9787870.sig.gz,2935db84777777ef544ee09ca9787870,2935db84,31,DNA,0,1000,5977,True,"GCF_002174085.1 Klebsiella variicola strain=H39, ASM217408v1",/dev/fd/63
+signatures/15aaa72fe4812d2f9e59d00f444ab2b9.sig.gz,15aaa72fe4812d2f9e59d00f444ab2b9,15aaa72f,31,DNA,0,1000,4337,True,"GCF_002129925.1 Mycobacterium tuberculosis strain=98-20044, ASM212992v1",/dev/fd/63
+signatures/290a3612b1edf2398175e725482bf328.sig.gz,290a3612b1edf2398175e725482bf328,290a3612,31,DNA,0,1000,1441,True,"GCA_902585605.1 uncultured Alphaproteobacteria bacterium, AG-913-B05",/dev/fd/63
+signatures/49b553adfbb198a910497ce075788b00.sig.gz,49b553adfbb198a910497ce075788b00,49b553ad,31,DNA,0,1000,6697,True,"GCF_001554705.1 Pseudomonas aeruginosa strain=AU10272, ASM155470v1",/dev/fd/63
+signatures/7642e61ba3af80aa785e5fa8955e2ecb.sig.gz,7642e61ba3af80aa785e5fa8955e2ecb,7642e61b,31,DNA,0,1000,2767,True,"GCA_018363695.1 Firmicutes bacterium, ASM1836369v1",/dev/fd/63
+signatures/af19cd668f460567b34f08ab8d54b13e.sig.gz,af19cd668f460567b34f08ab8d54b13e,af19cd66,31,DNA,0,1000,4924,True,"GCA_001355495.1 Salmonella enterica subsp. enterica serovar Typhi strain=Ke479, 8525_3#58",/dev/fd/63
+signatures/70abf375a35efa06e359316162421b2e.sig.gz,70abf375a35efa06e359316162421b2e,70abf375,31,DNA,0,1000,806,True,"GCA_012518455.1 Erysipelotrichaceae bacterium, ASM1251845v1",/dev/fd/63
+signatures/50f4e886e947d7fe816af74802711cbd.sig.gz,50f4e886e947d7fe816af74802711cbd,50f4e886,31,DNA,0,1000,3145,True,"GCA_003138525.1 Acidimicrobiaceae bacterium, 20110800_S3D",/dev/fd/63
+signatures/6c7985cd3d8053f4ff76a73f0f10c570.sig.gz,6c7985cd3d8053f4ff76a73f0f10c570,6c7985cd,31,DNA,0,1000,7355,True,"GCF_001523505.1 Burkholderia ubonensis strain=MSMB1191, ASM152350v1",/dev/fd/63
+signatures/374d29ce346e2aa18c139af33a0c53d0.sig.gz,374d29ce346e2aa18c139af33a0c53d0,374d29ce,31,DNA,0,1000,3849,True,"GCF_002103875.1 Clostridium botulinum strain=Man216, ASM210387v1",/dev/fd/63
+signatures/f1b3bf2ef1c45daeb7c4ec2b65524106.sig.gz,f1b3bf2ef1c45daeb7c4ec2b65524106,f1b3bf2e,31,DNA,0,1000,2806,True,"GCF_003418345.1 Staphylococcus aureus strain=M1C071, ASM341834v1",/dev/fd/63
+signatures/a2c948d2ac29225f503ae6663ac37a7d.sig.gz,a2c948d2ac29225f503ae6663ac37a7d,a2c948d2,31,DNA,0,1000,4062,True,"GCA_013817345.1 Methylibium sp., ASM1381734v1",/dev/fd/63
+signatures/5b73c2d050191cfe98afdcaca124400e.sig.gz,5b73c2d050191cfe98afdcaca124400e,5b73c2d0,31,DNA,0,1000,3757,True,"GCF_002909405.1 Cryobacterium zongtaii strain=TMN-39-1, ASM290940v1",/dev/fd/63
+signatures/0ff23cc3ab2723449622c7b95ad09a08.sig.gz,0ff23cc3ab2723449622c7b95ad09a08,0ff23cc3,31,DNA,0,1000,3463,True,"GCA_902780025.1 uncultured Prevotellaceae bacterium, Rumen uncultured genome RUG12526",/dev/fd/63
+signatures/0a9e25bde7c122a7c3cf76e080b1c380.sig.gz,0a9e25bde7c122a7c3cf76e080b1c380,0a9e25bd,31,DNA,0,1000,1147,True,"GCA_016288635.1 Bacillales bacterium, ASM1628863v1",/dev/fd/63
+signatures/a4b645fd1adf784767090d666b19b08c.sig.gz,a4b645fd1adf784767090d666b19b08c,a4b645fd,31,DNA,0,1000,5069,True,"GCF_001540605.1 Serratia marcescens strain=2880STDY5682879, 12082_2#83",/dev/fd/63
+signatures/dfed16671e02fd23ca0cf957b6df925f.sig.gz,dfed16671e02fd23ca0cf957b6df925f,dfed1667,31,DNA,0,1000,3765,True,"GCF_017877315.1 Acinetobacter calcoaceticus strain=CC170, ASM1787731v1",/dev/fd/63
+signatures/8e540257daf893612f13bcc050bd41b1.sig.gz,8e540257daf893612f13bcc050bd41b1,8e540257,31,DNA,0,1000,2927,True,"GCF_003350905.1 Enterococcus faecium strain=IHC129, ASM335090v1",/dev/fd/63
+signatures/9f9d506b06e5b7581fb7065a06243f1e.sig.gz,9f9d506b06e5b7581fb7065a06243f1e,9f9d506b,31,DNA,0,1000,4874,True,"GCF_900242265.1 Salmonella enterica, STY35",/dev/fd/63
+signatures/bbf6be2514a52cf4a2406481da5efa3f.sig.gz,bbf6be2514a52cf4a2406481da5efa3f,bbf6be25,31,DNA,0,1000,3093,True,"GCF_000157235.1 Enterococcus faecalis DS5 strain=DS5, ASM15723v1",/dev/fd/63
+signatures/bf40c330ff6ed0062a8e6c04a4729278.sig.gz,bf40c330ff6ed0062a8e6c04a4729278,bf40c330,31,DNA,0,1000,5076,True,"GCF_900478335.1 Escherichia coli strain=VREC0067, 17261_7#3",/dev/fd/63
+signatures/8de41951a0c79bf139b0ebc072bf231e.sig.gz,8de41951a0c79bf139b0ebc072bf231e,8de41951,31,DNA,0,1000,2358,True,"GCA_905182535.1 uncultured Planktomarina sp., FRAM18_bin318",/dev/fd/63
+signatures/97a4a845dd0d5400167c8af4e9a295f4.sig.gz,97a4a845dd0d5400167c8af4e9a295f4,97a4a845,31,DNA,0,1000,5097,True,"GCF_000633795.1 Enterobacter sp. BWH 27 strain=BWH 27, Ente_cloa_complex_BWH_27_V1",/dev/fd/63
+signatures/f292583f7c8d7b0586b2045685e19b69.sig.gz,f292583f7c8d7b0586b2045685e19b69,f292583f,31,DNA,0,1000,1597,True,"GCA_002299385.1 Lactobacillus ruminis, ASM229938v1",/dev/fd/63
+signatures/75a8d3053e856ffb3f20cffc43c32f60.sig.gz,75a8d3053e856ffb3f20cffc43c32f60,75a8d305,31,DNA,0,1000,2954,True,"GCF_003609155.1 Listeria monocytogenes strain=CFSAN022991, ASM360915v1",/dev/fd/63
+signatures/ba3a00a4fb222579efa95121867e76fb.sig.gz,ba3a00a4fb222579efa95121867e76fb,ba3a00a4,31,DNA,0,1000,2948,True,"GCF_003796865.1 Enterococcus faecium strain=P3 C A35, ASM379686v1",/dev/fd/63
+signatures/44351448c681b08da42e871aca0f8fa1.sig.gz,44351448c681b08da42e871aca0f8fa1,44351448,31,DNA,0,1000,2819,True,"GCF_001227085.1 Staphylococcus aureus strain=M1229, 5139_7#4",/dev/fd/63
+signatures/d06fb4ce046ceb8deb04f7ca73d4a6c6.sig.gz,d06fb4ce046ceb8deb04f7ca73d4a6c6,d06fb4ce,31,DNA,0,1000,1808,True,"GCA_003452555.1 Porphyromonadaceae bacterium, ASM345255v1",/dev/fd/63
+signatures/09843c2e815b8f41da2b29b568936227.sig.gz,09843c2e815b8f41da2b29b568936227,09843c2e,31,DNA,0,1000,5637,True,"GCF_002751325.1 Klebsiella pneumoniae strain=TR231-m, ASM275132v1",/dev/fd/63
+signatures/cf7d5f8516081de890274c6647f41c48.sig.gz,cf7d5f8516081de890274c6647f41c48,cf7d5f85,31,DNA,0,1000,2542,True,"GCA_014377145.1 Glaciimonas sp., ASM1437714v1",/dev/fd/63
+signatures/7d11383c9e7c866446f67d35b6648c2c.sig.gz_1,7d11383c9e7c866446f67d35b6648c2c,7d11383c,31,DNA,0,1000,1555,True,"GCF_011463175.1 Helicobacter pylori strain=8A3, ASM1146317v1",/dev/fd/63
+signatures/e2f21c9afed556efcf2f1c2728d7eb64.sig.gz,e2f21c9afed556efcf2f1c2728d7eb64,e2f21c9a,31,DNA,0,1000,7254,True,"GCF_003050715.1 Paraburkholderia sp. GV072 strain=GV072, ASM305071v1",/dev/fd/63
+signatures/a915f7abbc2fff4d8c3232fc575ce012.sig.gz,a915f7abbc2fff4d8c3232fc575ce012,a915f7ab,31,DNA,0,1000,2860,True,"GCF_000594385.1 Staphylococcus aureus H51158 strain=H51158, Stap_aure_H51158_V1",/dev/fd/63
+signatures/43b778a49cdefa3dad45401230098916.sig.gz,43b778a49cdefa3dad45401230098916,43b778a4,31,DNA,0,1000,4563,True,"GCF_000189195.1 Salmonella enterica subsp. enterica serovar Montevideo str. IA_2010008284 strain=IA_2010008284, ASM18919v2",/dev/fd/63
+signatures/e8635582642d3176fa2819c7a66f7c80.sig.gz,e8635582642d3176fa2819c7a66f7c80,e8635582,31,DNA,0,1000,992,True,"GCA_002255025.1 Candidatus Bathyarchaeota archaeon ex4484_135, ASM225502v1",/dev/fd/63
+signatures/54cc31a84420012e49f49d4162a4d56f.sig.gz,54cc31a84420012e49f49d4162a4d56f,54cc31a8,31,DNA,0,1000,2302,True,"GCA_900541095.1 uncultured Collinsella sp., UMGS320",/dev/fd/63
+signatures/3bafa165edb3106cf4e3ee91e441ff3f.sig.gz,3bafa165edb3106cf4e3ee91e441ff3f,3bafa165,31,DNA,0,1000,1091,True,"GCF_000493885.1 Chlamydia suis MD56 strain=MD56, suis",/dev/fd/63
+signatures/670253947bb0d475ffad2c08a9a5105c.sig.gz,670253947bb0d475ffad2c08a9a5105c,67025394,31,DNA,0,1000,2228,True,"GCA_002310155.1 Mageeibacillus sp. UBA1193, ASM231015v1",/dev/fd/63
+signatures/fe210c2f04e5cad62c44e1c74afb671e.sig.gz,fe210c2f04e5cad62c44e1c74afb671e,fe210c2f,31,DNA,0,1000,4403,True,"GCF_900158545.1 Shigella sonnei strain=2090STDY5461871, 9803_4#53",/dev/fd/63
+signatures/00c11e671f2c6f6702e1f9cfb2e79c88.sig.gz,00c11e671f2c6f6702e1f9cfb2e79c88,00c11e67,31,DNA,0,1000,3285,True,"GCA_903875275.1 uncultured beta proteobacterium, freshwater MAG --- Ja_bin-5366",/dev/fd/63
+signatures/b5c0d25843c44b2902355f48ad5b674f.sig.gz,b5c0d25843c44b2902355f48ad5b674f,b5c0d258,31,DNA,0,1000,642,True,"GCA_002381485.1 Candidatus Saccharibacteria bacterium UBA4215, ASM238148v1",/dev/fd/63
+signatures/85a2ecb02d4a1345bdb3b2934a5b6a5e.sig.gz,85a2ecb02d4a1345bdb3b2934a5b6a5e,85a2ecb0,31,DNA,0,1000,4649,True,"GCF_003475305.1 Parabacteroides merdae strain=AF33-34, ASM347530v1",/dev/fd/63
+signatures/adb12e75a11f50882a4dc5d894fe8c82.sig.gz,adb12e75a11f50882a4dc5d894fe8c82,adb12e75,31,DNA,0,1000,5134,True,"GCF_015208465.1 Escherichia coli strain=U117_10, ASM1520846v1",/dev/fd/63
+signatures/c14497452b1204d039f53050973e2430.sig.gz,c14497452b1204d039f53050973e2430,c1449745,31,DNA,0,1000,5729,True,"GCA_003247575.1 Proteobacteria bacterium, ASM324757v1",/dev/fd/63
+signatures/9e25953ab8e0b8ffe2a5ad525bdfdb3f.sig.gz,9e25953ab8e0b8ffe2a5ad525bdfdb3f,9e25953a,31,DNA,0,1000,1618,True,"GCF_001762555.1 Campylobacter jejuni strain=BCW_6451, ASM176255v1",/dev/fd/63
+signatures/4c2873ee49ba94c916e14cbec83e35bc.sig.gz,4c2873ee49ba94c916e14cbec83e35bc,4c2873ee,31,DNA,0,1000,2838,True,"GCA_019058055.1 Candidatus Lokiarchaeota archaeon, ASM1905805v1",/dev/fd/63
+signatures/ecd9383f7e4fd3c5b36f4b8679757419.sig.gz,ecd9383f7e4fd3c5b36f4b8679757419,ecd9383f,31,DNA,0,1000,1024,True,"GCA_000213395.2 gamma proteobacterium SCGC AAA007-O20 strain=SCGC AAA007-O20, ASM21339v2",/dev/fd/63
+signatures/a1a22c4be3931ccd4d18ec83c7ee44ae.sig.gz,a1a22c4be3931ccd4d18ec83c7ee44ae,a1a22c4b,31,DNA,0,1000,1707,True,"GCF_003960095.1 Campylobacter jejuni strain=SO-29, ASM396009v1",/dev/fd/63
+signatures/57c335a46b8089ac75299b2cce77205a.sig.gz,57c335a46b8089ac75299b2cce77205a,57c335a4,31,DNA,0,1000,3857,True,"GCF_002137445.1 Acinetobacter baumannii strain=PR321, ASM213744v1",/dev/fd/63
+signatures/e1037ba407866c9b363f5e7f39e02937.sig.gz,e1037ba407866c9b363f5e7f39e02937,e1037ba4,31,DNA,0,1000,7257,True,"GCF_004341315.1 Paraburkholderia sp. GV060 strain=GV060, ASM434131v1",/dev/fd/63
+signatures/9f2c95b6790e8b497bb1797adefb6835.sig.gz,9f2c95b6790e8b497bb1797adefb6835,9f2c95b6,31,DNA,0,1000,2657,True,"GCF_900610345.1 Flavobacterium psychrophilum, 79-SE570_S16_R1.fastq.gz",/dev/fd/63
+signatures/cd6dc755ac9bdbf53e3cabc02c577bb1.sig.gz,cd6dc755ac9bdbf53e3cabc02c577bb1,cd6dc755,31,DNA,0,1000,4322,True,"GCF_000659265.1 Mycobacterium tuberculosis TKK_02_0008 strain=TKK_02_0008, Myco_tube_TKK_02_0008_V1",/dev/fd/63
+signatures/8ecd6019d25997eefa1106295287b060.sig.gz,8ecd6019d25997eefa1106295287b060,8ecd6019,31,DNA,0,1000,4860,True,"GCA_002909275.1 Escherichia coli strain=F32_3, ASM290927v1",/dev/fd/63
+signatures/f93e8f681f6787b4e469600604fb7716.sig.gz,f93e8f681f6787b4e469600604fb7716,f93e8f68,31,DNA,0,1000,6078,True,"GCF_900587255.1 Pseudomonas viridiflava, p25.A3",/dev/fd/63
+signatures/f3613c090b37db84d9aad357138aa102.sig.gz,f3613c090b37db84d9aad357138aa102,f3613c09,31,DNA,0,1000,4764,True,"GCF_900075935.1 Enterobacter ludwigii strain=e1617, 12082_4#63",/dev/fd/63
+signatures/478f18a00e91576a3880f1dcd4e0f8f8.sig.gz,478f18a00e91576a3880f1dcd4e0f8f8,478f18a0,31,DNA,0,1000,2612,True,"GCF_015594445.1 Staphylococcus sp. 18_1_E_LY strain=18_1_E_LY, ASM1559444v1",/dev/fd/63
+signatures/bcd5e86f2cb9cb163b366d6faed540c5.sig.gz,bcd5e86f2cb9cb163b366d6faed540c5,bcd5e86f,31,DNA,0,1000,1225,True,"GCA_001787535.1 Candidatus Peribacteria bacterium RIFCSPHIGHO2_01_FULL_51_35, ASM178753v1",/dev/fd/63
+signatures/9073ee46f8d01b66274aba65e431c891.sig.gz,9073ee46f8d01b66274aba65e431c891,9073ee46,31,DNA,0,1000,911,True,"GCA_001782525.1 Candidatus Levybacteria bacterium RIFCSPLOWO2_01_FULL_39_24, ASM178252v1",/dev/fd/63
+signatures/ce6cf352d260b14906f0a832c5013fe0.sig.gz,ce6cf352d260b14906f0a832c5013fe0,ce6cf352,31,DNA,0,1000,2558,True,"GCA_004297225.1 Xanthomonadaceae bacterium, ASM429722v1",/dev/fd/63
+signatures/3196bdf6b2ad18c4a0929ff2050f9098.sig.gz,3196bdf6b2ad18c4a0929ff2050f9098,3196bdf6,31,DNA,0,1000,4294,True,"GCA_003166015.1 Granulicella sp., 20110700_S3M",/dev/fd/63
+signatures/0ff0b02f0fbd8e50509f4daa29fa70d3.sig.gz,0ff0b02f0fbd8e50509f4daa29fa70d3,0ff0b02f,31,DNA,0,1000,5500,True,"GCF_003261795.1 Klebsiella pneumoniae strain=WCHKP015643, ASM326179v1",/dev/fd/63
+signatures/04ed4d5873a8ca276e01ddd565041280.sig.gz,04ed4d5873a8ca276e01ddd565041280,04ed4d58,31,DNA,0,1000,2404,True,"GCA_902364745.1 Erysipelotrichaceae bacterium, MGYG-HGUT-00244",/dev/fd/63
+signatures/3173ff9492e326476710e5f8c036853d.sig.gz,3173ff9492e326476710e5f8c036853d,3173ff94,31,DNA,0,1000,793,True,"GCA_002169155.2 Flavobacteriaceae bacterium TMED220, ASM216915v2",/dev/fd/63
+signatures/d26fe8a1f1609355fcceb73903e5c019.sig.gz,d26fe8a1f1609355fcceb73903e5c019,d26fe8a1,31,DNA,0,1000,2433,True,"GCA_900540465.1 uncultured Clostridium sp., UMGS249",/dev/fd/63
+signatures/d57632c82fc4895ad0f13005adaaebdb.sig.gz,d57632c82fc4895ad0f13005adaaebdb,d57632c8,31,DNA,0,1000,809,True,"GCA_018649845.1 Nitrosopumilus sp., ASM1864984v1",/dev/fd/63
+signatures/6b5069b8eb9dec5bd58430bdc2267313.sig.gz,6b5069b8eb9dec5bd58430bdc2267313,6b5069b8,31,DNA,0,1000,2863,True,"GCF_003013635.1 Clostridium tetani strain=Mfbjulcb2, ASM301363v1",/dev/fd/63
+signatures/2e00d8a9b81d3cb9492df55f0035a0ce.sig.gz,2e00d8a9b81d3cb9492df55f0035a0ce,2e00d8a9,31,DNA,0,1000,2841,True,"GCF_900044985.1 Staphylococcus aureus strain=st621, 7414_8#43",/dev/fd/63
+signatures/b1820d0782ac1abee04bd5327fdeb79a.sig.gz,b1820d0782ac1abee04bd5327fdeb79a,b1820d07,31,DNA,0,1000,5387,True,"GCF_001476435.1 Pseudomonas psychrotolerans strain=RSA46, ASM147643v1",/dev/fd/63
+signatures/826e76b9cb9fdff2c72b41b5ad0f4ca1.sig.gz,826e76b9cb9fdff2c72b41b5ad0f4ca1,826e76b9,31,DNA,0,1000,3838,True,"GCA_014385425.1 Flavobacterium lindanitolerans strain=DSM 21886, ASM1438542v1",/dev/fd/63
+signatures/32512751c02bc3b265c818173f6f961c.sig.gz_2,32512751c02bc3b265c818173f6f961c,32512751,31,DNA,0,1000,4588,True,"GCF_002809565.1 Salmonella enterica strain=HZ073, HZ073",/dev/fd/63
+signatures/f54159b3563c335c69ac8c52273bab8d.sig.gz,f54159b3563c335c69ac8c52273bab8d,f54159b3,31,DNA,0,1000,1611,True,"GCF_011175295.1 Helicobacter pylori strain=Nic38-A, ASM1117529v1",/dev/fd/63
+signatures/13ccb4a666741f6ffe53b79b96d08230.sig.gz,13ccb4a666741f6ffe53b79b96d08230,13ccb4a6,31,DNA,0,1000,2100,True,"GCF_900033155.1 Neisseria meningitidis strain=2842STDY5881497, 14555_6#60",/dev/fd/63
+signatures/4cb01da02ac2bf9a795154d7fbfcd401.sig.gz,4cb01da02ac2bf9a795154d7fbfcd401,4cb01da0,31,DNA,0,1000,6245,True,"GCF_003957085.1 Pseudomonas aeruginosa PAO1 strain=PAO1, ASM395708v1",/dev/fd/63
+signatures/365f08d5d1fd946c89bac5ced640486b.sig.gz,365f08d5d1fd946c89bac5ced640486b,365f08d5,31,DNA,0,1000,2172,True,"GCF_001145845.1 Streptococcus pneumoniae strain=SMRU2431, 6949_2#7",/dev/fd/63
+signatures/32f16395f88e635ab99075fb99d6cba3.sig.gz,32f16395f88e635ab99075fb99d6cba3,32f16395,31,DNA,0,1000,2002,True,"GCF_016653535.1 Streptococcus pneumoniae strain=MDR-MM-0720-0522, ASM1665353v1",/dev/fd/63
+signatures/0aa18085f36fffcce21cf01fa55a76f4.sig.gz,0aa18085f36fffcce21cf01fa55a76f4,0aa18085,31,DNA,0,1000,1329,True,"GCA_903878925.1 uncultured actinobacterium, freshwater MAG --- Ki2-D3_bin-1385",/dev/fd/63
+signatures/02e93f6c76f2641016687b91a34e9280.sig.gz,02e93f6c76f2641016687b91a34e9280,02e93f6c,31,DNA,0,1000,4955,True,"GCF_002056925.1 Salmonella enterica subsp. enterica serovar Agona strain=BCW_4367, ASM205692v1",/dev/fd/63
+signatures/28239064e9bd8815e82f455605a67e48.sig.gz,28239064e9bd8815e82f455605a67e48,28239064,31,DNA,0,1000,4637,True,"GCF_002048865.1 Salmonella enterica subsp. enterica serovar Adelaide strain=01-0361, ASM204886v1",/dev/fd/63
+signatures/4fb6007303a4203e5fa78a795ce741ca.sig.gz,4fb6007303a4203e5fa78a795ce741ca,4fb60073,31,DNA,0,1000,4473,True,"GCF_001675205.1 Clostridium coskatii strain=PTA-10522, ASM167520v1",/dev/fd/63
+signatures/097b7a00b5a02d495d02d7e7e59d2cc2.sig.gz,097b7a00b5a02d495d02d7e7e59d2cc2,097b7a00,31,DNA,0,1000,3993,True,"GCF_016814095.1 Sulfitobacter mediterraneus strain=SC5-43, ASM1681409v1",/dev/fd/63
+signatures/4f1fe30905bfac254e1816206ef10efe.sig.gz_1,4f1fe30905bfac254e1816206ef10efe,4f1fe309,31,DNA,0,1000,2300,True,"GCF_002838605.1 Bifidobacterium breve strain=NRBB18, ASM283860v1",/dev/fd/63
+signatures/dfee09c734c7e5cbba9c67c4a76290db.sig.gz,dfee09c734c7e5cbba9c67c4a76290db,dfee09c7,31,DNA,0,1000,5514,True,"GCF_010588175.1 Klebsiella pneumoniae strain=AS012492, ASM1058817v1",/dev/fd/63
+signatures/525eb3ee4a321c7a9b1703f3e7e91ec6.sig.gz,525eb3ee4a321c7a9b1703f3e7e91ec6,525eb3ee,31,DNA,0,1000,4322,True,"GCF_001945845.1 Mycobacterium tuberculosis strain=C0000604-0, ASM194584v1",/dev/fd/63
+signatures/803c64c8576d75f81dd68bd4cb08f225.sig.gz,803c64c8576d75f81dd68bd4cb08f225,803c64c8,31,DNA,0,1000,2011,True,"GCF_905115085.1 Aerococcus urinae, Au-49-B14",/dev/fd/63
+signatures/e4516981031add99ba5bc97fd9f77288.sig.gz,e4516981031add99ba5bc97fd9f77288,e4516981,31,DNA,0,1000,3497,True,"GCA_905216195.1 uncultured bacterium, SRR5580395-mag-bin.24",/dev/fd/63
+signatures/2cc4bf4adebd8f0b06a68ea5324b5c77.sig.gz,2cc4bf4adebd8f0b06a68ea5324b5c77,2cc4bf4a,31,DNA,0,1000,3022,True,"GCA_005887825.1 Verrucomicrobia bacterium, ASM588782v1",/dev/fd/63
+signatures/3d356220ffa69475246b7f7c61b26be8.sig.gz,3d356220ffa69475246b7f7c61b26be8,3d356220,31,DNA,0,1000,5619,True,"GCF_002927165.1 Pseudomonas aeruginosa strain=T36994, ASM292716v1",/dev/fd/63
+signatures/cf12cbacb68656f7fe0ae70f9c200d56.sig.gz_0,cf12cbacb68656f7fe0ae70f9c200d56,cf12cbac,31,DNA,0,1000,1592,True,"GCA_900320895.1 uncultured Clostridiales bacterium, Rumen uncultured genome RUG642",/dev/fd/63
+signatures/d19a78f0c36f64e62914ffd04fc846be.sig.gz,d19a78f0c36f64e62914ffd04fc846be,d19a78f0,31,DNA,0,1000,5249,True,"GCA_900499665.1 Escherichia coli, 1162A",/dev/fd/63
+signatures/03873f0cd29c1a3aed5802965fc0a055.sig.gz,03873f0cd29c1a3aed5802965fc0a055,03873f0c,31,DNA,0,1000,1112,True,"GCA_903832265.1 uncultured Micrococcales bacterium, freshwater MAG --- MJ-2014-D1_bin-0063",/dev/fd/63
+signatures/237bcee4ceaef9d23e008616cc40ba46.sig.gz,237bcee4ceaef9d23e008616cc40ba46,237bcee4,31,DNA,0,1000,2298,True,"GCA_900318615.1 uncultured Clostridiales bacterium, Rumen uncultured genome RUG409",/dev/fd/63
+signatures/5b0c2239feca040bd977b7dff9b9544d.sig.gz,5b0c2239feca040bd977b7dff9b9544d,5b0c2239,31,DNA,0,1000,2037,True,"GCF_002866205.1 Streptococcus pneumoniae strain=NTPn 90, ASM286620v1",/dev/fd/63
+signatures/9f8ee440e15d203543396b77b2bae2e7.sig.gz,9f8ee440e15d203543396b77b2bae2e7,9f8ee440,31,DNA,0,1000,4326,True,"GCF_003477525.1 Ruminococcus sp. AF41-9 strain=AF41-9, ASM347752v1",/dev/fd/63
+signatures/9f77bcf6ad3d3b0537020c40fdb1f0c8.sig.gz,9f77bcf6ad3d3b0537020c40fdb1f0c8,9f77bcf6,31,DNA,0,1000,6459,True,"GCF_003256275.1 Burkholderia multivorans strain=Bmul_CF170.5g, ASM325627v1",/dev/fd/63
+signatures/a59a404f79307a18f35f96e436542488.sig.gz,a59a404f79307a18f35f96e436542488,a59a404f,31,DNA,0,1000,5386,True,"GCF_902155985.1 Klebsiella pneumoniae strain=EuSCAPE_IE008, 19506_1#105",/dev/fd/63
+signatures/047d90eb3db9567a07cf10a6899ef08e.sig.gz,047d90eb3db9567a07cf10a6899ef08e,047d90eb,31,DNA,0,1000,3314,True,"GCF_010119615.1 Pseudoxanthomonas gei strain=KCTC 32298, ASM1011961v1",/dev/fd/63
+signatures/c7bc442426e14bc28735fb647a36e9b1.sig.gz,c7bc442426e14bc28735fb647a36e9b1,c7bc4424,31,DNA,0,1000,6639,True,"GCF_007679615.1 Paenibacillus ihbetae strain=DE0082, ASM767961v1",/dev/fd/63
+signatures/22cec0bf3fa1efa7e42f0c4038800dff.sig.gz,22cec0bf3fa1efa7e42f0c4038800dff,22cec0bf,31,DNA,0,1000,2012,True,"GCA_900543615.1 uncultured Collinsella sp., UMGS588",/dev/fd/63
+signatures/8d4e504d325198ce86158e0240251486.sig.gz,8d4e504d325198ce86158e0240251486,8d4e504d,31,DNA,0,1000,2315,True,"GCA_002480815.1 Prevotella sp. UBA7787, ASM248081v1",/dev/fd/63
+signatures/b1d876c79f616f38999d5bbd7d3e66df.sig.gz,b1d876c79f616f38999d5bbd7d3e66df,b1d876c7,31,DNA,0,1000,4595,True,"GCF_007094015.1 Salmonella enterica subsp. enterica serovar Panama strain=Sal-3739, ASM709401v1",/dev/fd/63
+signatures/cd1cd6bdd94e582c66641be6752915ee.sig.gz,cd1cd6bdd94e582c66641be6752915ee,cd1cd6bd,31,DNA,0,1000,3173,True,"GCF_014636455.1 Mycetocola zhadangensis strain=CGMCC 1.12042, ASM1463645v1",/dev/fd/63
+signatures/3cb82a6c81068f0a174f2074b363434d.sig.gz_1,3cb82a6c81068f0a174f2074b363434d,3cb82a6c,31,DNA,0,1000,3352,True,"GCF_900060755.1 Legionella pneumophila strain=2532STDY5467495, 10625_2#22",/dev/fd/63
+signatures/c1692ce637d77d626409d2aacd0323cd.sig.gz,c1692ce637d77d626409d2aacd0323cd,c1692ce6,31,DNA,0,1000,1492,True,"GCF_018328585.1 Helicobacter pylori strain=JP0085, ASM1832858v1",/dev/fd/63
+signatures/b94f93b81fc03cf275e656a02f0819f9.sig.gz,b94f93b81fc03cf275e656a02f0819f9,b94f93b8,31,DNA,0,1000,4077,True,"GCF_011603015.1 Proteus mirabilis strain=XH1552, ASM1160301v1",/dev/fd/63
+signatures/62f0f718e89a076536f84b86571a67a0.sig.gz,62f0f718e89a076536f84b86571a67a0,62f0f718,31,DNA,0,1000,2159,True,"GCF_003571465.1 Neisseria gonorrhoeae strain=RIVM0640, ASM357146v1",/dev/fd/63
+signatures/c1eb09faebcacec14b37a38c50b798f7.sig.gz,c1eb09faebcacec14b37a38c50b798f7,c1eb09fa,31,DNA,0,1000,3752,True,"GCA_018673335.1 Candidatus Marinimicrobia bacterium, ASM1867333v1",/dev/fd/63
+signatures/2a676ee23c1771cd898febcfc028cc3c.sig.gz,2a676ee23c1771cd898febcfc028cc3c,2a676ee2,31,DNA,0,1000,5071,True,"GCF_001832775.1 Salmonella enterica subsp. diarizonae serovar 60:r:e,n,x,z15 strain=CFSAN045004, ASM183277v1",/dev/fd/63
+signatures/aab7144d8bb1e81bd13df713d52dd083.sig.gz,aab7144d8bb1e81bd13df713d52dd083,aab7144d,31,DNA,0,1000,1672,True,"GCF_003636225.1 Helicobacter pylori strain=HPJ050, ASM363622v1",/dev/fd/63
+signatures/13f76d5b5cf2e9425bf309fa39df9a7a.sig.gz,13f76d5b5cf2e9425bf309fa39df9a7a,13f76d5b,31,DNA,0,1000,2489,True,"GCA_001443445.1 Candidatus Dadabacteria bacterium CSP1-2, ASM144344v1",/dev/fd/63
+signatures/519263551e3e0b2c68b269e288816d4a.sig.gz,519263551e3e0b2c68b269e288816d4a,51926355,31,DNA,0,1000,4826,True,"GCF_005397225.1 Escherichia coli strain=SI-P060, ASM539722v1",/dev/fd/63
+signatures/548a89e07932d648412b049064c7f83c.sig.gz,548a89e07932d648412b049064c7f83c,548a89e0,31,DNA,0,1000,2205,True,"GCF_900573965.1 Campylobacter showae, 129_VTPP",/dev/fd/63
+signatures/23c530c4967e61ebcd7e1691976ef24f.sig.gz,23c530c4967e61ebcd7e1691976ef24f,23c530c4,31,DNA,0,1000,5999,True,"GCF_003701705.1 Pseudomonas savastanoi strain=ICMP 9421, ASM370170v1",/dev/fd/63
+signatures/493d1ad3e84a3eb2e1c79f8d23c307ea.sig.gz,493d1ad3e84a3eb2e1c79f8d23c307ea,493d1ad3,31,DNA,0,1000,5764,True,"GCA_019192705.1 Bacillus thuringiensis strain=JRO03, ASM1919270v1",/dev/fd/63
+signatures/fdb51787e958a9163dde75d2ee625433.sig.gz,fdb51787e958a9163dde75d2ee625433,fdb51787,31,DNA,0,1000,4973,True,"GCF_003318655.1 Escherichia coli strain=AVC58, ASM331865v1",/dev/fd/63
+signatures/c8845f2e95aa2888d3031bb923247db8.sig.gz,c8845f2e95aa2888d3031bb923247db8,c8845f2e,31,DNA,0,1000,700,True,"GCA_015257495.1 Candidatus Nanosynbacter sp., ASM1525749v1",/dev/fd/63
+signatures/b57431d84eeccb077692f1f481ff2bc7.sig.gz,b57431d84eeccb077692f1f481ff2bc7,b57431d8,31,DNA,0,1000,1425,True,"GCA_002321395.1 Bacillales bacterium UBA1624, ASM232139v1",/dev/fd/63
+signatures/419ee82e1abe4739711aae0d266c8e8f.sig.gz,419ee82e1abe4739711aae0d266c8e8f,419ee82e,31,DNA,0,1000,2754,True,"GCF_000360585.1 Staphylococcus aureus M0252 strain=M0252, Stap_aure_M0252_V1",/dev/fd/63
+signatures/6330ddd9a1becf489f6ae800cddf1790.sig.gz,6330ddd9a1becf489f6ae800cddf1790,6330ddd9,31,DNA,0,1000,4295,True,"GCF_001840935.1 Mycobacterium tuberculosis strain=02-R0898, ASM184093v1",/dev/fd/63
+signatures/0c461916e305f27d8e0a780cdd9ec033.sig.gz,0c461916e305f27d8e0a780cdd9ec033,0c461916,31,DNA,0,1000,1994,True,"GCF_900059435.1 Streptococcus suis strain=SS1024, 7054_7#29",/dev/fd/63
+signatures/e6d9e5dc8287830e8b4f17199fe14208.sig.gz,e6d9e5dc8287830e8b4f17199fe14208,e6d9e5dc,31,DNA,0,1000,4956,True,"GCF_003409335.1 Salmonella enterica strain=AR-20D, ASM340933v1",/dev/fd/63
+signatures/7c5df83ff1d8246eebe96590d1e0d4af.sig.gz,7c5df83ff1d8246eebe96590d1e0d4af,7c5df83f,31,DNA,0,1000,1135,True,"GCA_018830865.1 Patescibacteria group bacterium, ASM1883086v1",/dev/fd/63
+signatures/4f3b5dddd7b2292cddfe627cca171eb2.sig.gz,4f3b5dddd7b2292cddfe627cca171eb2,4f3b5ddd,31,DNA,0,1000,2143,True,"GCF_013016045.1 Neisseria gonorrhoeae strain=TUM15770, ASM1301604v1",/dev/fd/63
+signatures/45d631f28cd80b0aa5ede04d7088ec8e.sig.gz,45d631f28cd80b0aa5ede04d7088ec8e,45d631f2,31,DNA,0,1000,5138,True,"GCF_000877555.1 Vibrio parahaemolyticus EN9701173 strain=EN9701173, ASM87755v1",/dev/fd/63
+signatures/e072a7e708d300b61e69ee0c1daea7e3.sig.gz,e072a7e708d300b61e69ee0c1daea7e3,e072a7e7,31,DNA,0,1000,2319,True,"GCF_001812735.1 Neisseria sp. HMSC069H12 strain=HMSC069H12, ASM181273v1",/dev/fd/63
+signatures/eba3d1437446f2217d61bce06c68e9a8.sig.gz,eba3d1437446f2217d61bce06c68e9a8,eba3d143,31,DNA,0,1000,4815,True,"GCF_002032395.1 Salmonella enterica subsp. enterica serovar 4,[5],12:r:- strain=BCW_2029, ASM203239v1",/dev/fd/63
+signatures/81844d6878667d4c65776b5805eb4747.sig.gz,81844d6878667d4c65776b5805eb4747,81844d68,31,DNA,0,1000,4331,True,"GCF_900127595.1 Mycobacterium tuberculosis strain=2926STDY5723810, 14893_2#92",/dev/fd/63
+signatures/fe7cd091c38a77e2d6d691967ca85249.sig.gz,fe7cd091c38a77e2d6d691967ca85249,fe7cd091,31,DNA,0,1000,1080,True,"GCA_903862775.1 uncultured bacterium, freshwater MAG --- MJ_bin-0712",/dev/fd/63
+signatures/ca2c52ce8853ab8d1f6f0703e7796fa1.sig.gz,ca2c52ce8853ab8d1f6f0703e7796fa1,ca2c52ce,31,DNA,0,1000,4341,True,"GCF_900485975.1 Shigella flexneri strain=4028STDY6275037, 18787_5#28",/dev/fd/63
+signatures/8da1c5430e6bce305ba778fc8f9dd309.sig.gz,8da1c5430e6bce305ba778fc8f9dd309,8da1c543,31,DNA,0,1000,3761,True,"GCF_004360215.1 Acinetobacter sp. KU 011TH strain=KU 011TH, ASM436021v1",/dev/fd/63
+signatures/39e7088140abcfe0853d25fd03d97182.sig.gz,39e7088140abcfe0853d25fd03d97182,39e70881,31,DNA,0,1000,4344,True,"GCF_018067865.1 Providencia rettgeri strain=2020EL-00088, ASM1806786v1",/dev/fd/63
+signatures/3866b26e030a4ac2e274d0f890eb1a6b.sig.gz,3866b26e030a4ac2e274d0f890eb1a6b,3866b26e,31,DNA,0,1000,2144,True,"GCF_002963865.1 Streptococcus suis strain=191, ASM296386v1",/dev/fd/63
+signatures/6283b2d05707d15c8313e952b34dd736.sig.gz,6283b2d05707d15c8313e952b34dd736,6283b2d0,31,DNA,0,1000,4299,True,"GCF_900127465.1 Mycobacterium tuberculosis strain=2926STDY5723885, 14722_8#90",/dev/fd/63
+signatures/478825759a9016b4b0fe3be646c3c9df.sig.gz,478825759a9016b4b0fe3be646c3c9df,47882575,31,DNA,0,1000,4690,True,"GCF_002063165.1 Salmonella enterica subsp. enterica serovar London strain=BCW_2866, ASM206316v1",/dev/fd/63
+signatures/a5b8481a1cf7666b8b02c336f75c1678.sig.gz,a5b8481a1cf7666b8b02c336f75c1678,a5b8481a,31,DNA,0,1000,2096,True,"GCA_017449215.1 Acholeplasmatales bacterium, ASM1744921v1",/dev/fd/63
+signatures/0d980d906529d877ac02371eb170ac8f.sig.gz,0d980d906529d877ac02371eb170ac8f,0d980d90,31,DNA,0,1000,1190,True,"GCA_905236945.1 Bacillales bacterium UBA1261, RUG30376",/dev/fd/63
+signatures/8b2f7fb46761b5e7b5c5ac23669c0d0b.sig.gz,8b2f7fb46761b5e7b5c5ac23669c0d0b,8b2f7fb4,31,DNA,0,1000,2067,True,"GCF_001339375.1 Streptococcus pneumoniae strain=SMRU962, 6680_7#2",/dev/fd/63
+signatures/3db9ce9803b24a400ca14fc3a0dd9837.sig.gz,3db9ce9803b24a400ca14fc3a0dd9837,3db9ce98,31,DNA,0,1000,5253,True,"GCF_900493165.1 Klebsiella pneumoniae strain=4300STDY6636973, 22036_6#36",/dev/fd/63
+signatures/bf1738aff8c679534f68529c44d29203.sig.gz,bf1738aff8c679534f68529c44d29203,bf1738af,31,DNA,0,1000,2545,True,"GCA_018436005.1 Tepidanaerobacter syntrophicus, R1",/dev/fd/63
+signatures/0ce59c3dfea154f4526157d61d027f34.sig.gz,0ce59c3dfea154f4526157d61d027f34,0ce59c3d,31,DNA,0,1000,4318,True,"GCF_001085125.1 Mycobacterium tuberculosis strain=402495, 7414_6#62",/dev/fd/63
+signatures/19a6dede81e0fe7d6348018d95f9c2ea.sig.gz,19a6dede81e0fe7d6348018d95f9c2ea,19a6dede,31,DNA,0,1000,2842,True,"GCF_000528355.1 Staphylococcus aureus M0680 strain=M0680, Stap_aure_M0680_V1",/dev/fd/63
+signatures/eb5ea5ed3e4f55f1d7b07bb2bb5e44fe.sig.gz,eb5ea5ed3e4f55f1d7b07bb2bb5e44fe,eb5ea5ed,31,DNA,0,1000,4909,True,"GCF_900241655.1 Salmonella enterica, STY151",/dev/fd/63
+signatures/d74dd1b36aacbddf03dc10f627a3469d.sig.gz,d74dd1b36aacbddf03dc10f627a3469d,d74dd1b3,31,DNA,0,1000,3373,True,"GCA_011051825.1 Desulfobulbus sp., ASM1105182v1",/dev/fd/63
+signatures/9c2aa4f7e01b085d23a0d56b3334b791.sig.gz,9c2aa4f7e01b085d23a0d56b3334b791,9c2aa4f7,31,DNA,0,1000,2396,True,"GCA_900547455.1 uncultured Ruminococcaceae bacterium, UMGS991",/dev/fd/63
+signatures/32198f120ad2dcbef667b481ab191484.sig.gz,32198f120ad2dcbef667b481ab191484,32198f12,31,DNA,0,1000,2060,True,"GCA_902774505.1 uncultured Methanobrevibacter sp., Rumen uncultured genome RUG11980",/dev/fd/63
+signatures/697f74180f0d0af392d9ae3de32ea89a.sig.gz,697f74180f0d0af392d9ae3de32ea89a,697f7418,31,DNA,0,1000,8416,True,"GCF_003984905.1 Streptomyces sp. WAC05458 strain=WAC05458, ASM398490v1",/dev/fd/63
+signatures/4b8a7bea1e443523dca17295b9ac75b1.sig.gz,4b8a7bea1e443523dca17295b9ac75b1,4b8a7bea,31,DNA,0,1000,3774,True,"GCF_001402415.1 Vibrio cholerae strain=YB2G05, ASM140241v1",/dev/fd/63
+signatures/91552ded9d93029940d5d13d21f7fe42.sig.gz,91552ded9d93029940d5d13d21f7fe42,91552ded,31,DNA,0,1000,6461,True,"GCF_014137995.1 Promicromonospora sukumoe strain=DSM 44121, ASM1413799v1",/dev/fd/63
+signatures/fece4559ebac321aa7c68ae1196ea30f.sig.gz,fece4559ebac321aa7c68ae1196ea30f,fece4559,31,DNA,0,1000,4905,True,"GCF_002983505.1 Pectobacterium versatile strain=Ecc71, ASM298350v1",/dev/fd/63
+signatures/66eefbe7d0a3577a16df059ef177d956.sig.gz,66eefbe7d0a3577a16df059ef177d956,66eefbe7,31,DNA,0,1000,4900,True,"GCF_002090615.1 Salmonella enterica subsp. enterica serovar Newport strain=R8_2947_R1, ASM209061v1",/dev/fd/63
+signatures/e25c6e8b8cc81b17792b108c325203ce.sig.gz,e25c6e8b8cc81b17792b108c325203ce,e25c6e8b,31,DNA,0,1000,5135,True,"GCF_001607555.1 Escherichia coli strain=STEC 2573, ASM160755v1",/dev/fd/63
+signatures/19e2833531fea4c9d0bc3165669bc379.sig.gz,19e2833531fea4c9d0bc3165669bc379,19e28335,31,DNA,0,1000,2907,True,"GCF_000787895.1 Listeria monocytogenes strain=MOD1_LS884, LS884",/dev/fd/63
+signatures/b52332dde3d84e7c066b3784485b1313.sig.gz,b52332dde3d84e7c066b3784485b1313,b52332dd,31,DNA,0,1000,2348,True,"GCA_016342455.1 Tenericutes bacterium, ASM1634245v1",/dev/fd/63
+signatures/491b5fe8cb56a4829713090e761b5c08.sig.gz,491b5fe8cb56a4829713090e761b5c08,491b5fe8,31,DNA,0,1000,3746,True,"GCF_000963115.1 Xanthomonas albilineans strain=REU174, Xal-REU174-G1",/dev/fd/63
+signatures/aabf0067e52ca9c98413e9e86a41d309.sig.gz,aabf0067e52ca9c98413e9e86a41d309,aabf0067,31,DNA,0,1000,3793,True,"GCA_018382335.1 Dysgonomonas mossii, ASM1838233v1",/dev/fd/63
+signatures/9dc9e076b0ad2d5f16b1ea8b649b7e12.sig.gz,9dc9e076b0ad2d5f16b1ea8b649b7e12,9dc9e076,31,DNA,0,1000,4757,True,"GCF_017837935.1 Yersinia pestis subsp. pestis strain=157, Y. pestis_157",/dev/fd/63
+signatures/d3e44b3fa2b32c9dcdffffd820f82be9.sig.gz,d3e44b3fa2b32c9dcdffffd820f82be9,d3e44b3f,31,DNA,0,1000,3281,True,"GCA_902770285.1 Fibrobacter succinogenes, Rumen uncultured genome RUG11549",/dev/fd/63
+signatures/177be42a55695e5992e175dd1ff77d43.sig.gz,177be42a55695e5992e175dd1ff77d43,177be42a,31,DNA,0,1000,2811,True,"GCF_900251175.1 Staphylococcus aureus strain=M3089, M3089",/dev/fd/63
+signatures/19d62cad9c4850df46bf653453f76ec7.sig.gz,19d62cad9c4850df46bf653453f76ec7,19d62cad,31,DNA,0,1000,5584,True,"GCA_016212935.1 Desulfomonile tiedjei, ASM1621293v1",/dev/fd/63
+signatures/d5e3cd03fd1be5234f57ba373697540d.sig.gz,d5e3cd03fd1be5234f57ba373697540d,d5e3cd03,31,DNA,0,1000,2331,True,"GCA_902631395.1 Halieaceae bacterium, AH-326-F22",/dev/fd/63
+signatures/75935f3a08d89a27e287665b29c37da7.sig.gz,75935f3a08d89a27e287665b29c37da7,75935f3a,31,DNA,0,1000,2844,True,"GCF_000578255.1 Staphylococcus aureus F66778 strain=F66778, Stap_aure_F66778_V1",/dev/fd/63
+signatures/3b95b6198fa2f30335a437bff031a7b9.sig.gz,3b95b6198fa2f30335a437bff031a7b9,3b95b619,31,DNA,0,1000,3008,True,"GCA_902772995.1 uncultured Clostridiales bacterium, Rumen uncultured genome RUG11819",/dev/fd/63
+signatures/6d960665d425e6f56f3937c515abdf2b.sig.gz,6d960665d425e6f56f3937c515abdf2b,6d960665,31,DNA,0,1000,4511,True,"GCF_013108505.1 Roseobacter sp. HKCCD8435 strain=HKCCD8435, ASM1310850v1",/dev/fd/63
+signatures/aa60619ed76dc324f1810d419e9bb22a.sig.gz,aa60619ed76dc324f1810d419e9bb22a,aa60619e,31,DNA,0,1000,4836,True,"GCF_011368495.1 Salmonella enterica subsp. enterica strain=288_13, ASM1136849v1",/dev/fd/63
+signatures/5130e571b4bba1a3277442c7c0497b10.sig.gz,5130e571b4bba1a3277442c7c0497b10,5130e571,31,DNA,0,1000,2742,True,"GCF_000603225.1 Staphylococcus aureus W25799 strain=W25799, Stap_aure_W25799_V1",/dev/fd/63
+signatures/43e368d2804d2990a16d48f7648f78c5.sig.gz,43e368d2804d2990a16d48f7648f78c5,43e368d2,31,DNA,0,1000,2102,True,"GCF_002845535.1 Neisseria meningitidis strain=PMB5028, ASM284553v1",/dev/fd/63
+signatures/4e2f8c370a0878f5c8cb44777287a701.sig.gz,4e2f8c370a0878f5c8cb44777287a701,4e2f8c37,31,DNA,0,1000,4794,True,"GCF_001266275.1 Escherichia coli strain=303139, 303139",/dev/fd/63
+signatures/cef4f19d1726638676f555645c998358.sig.gz,cef4f19d1726638676f555645c998358,cef4f19d,31,DNA,0,1000,1446,True,"GCA_003585625.1 Bifidobacteriaceae bacterium WP012 strain=WP012, ASM358562v1",/dev/fd/63
+signatures/a079df1a7e2d7b8750acdf4289c67881.sig.gz,a079df1a7e2d7b8750acdf4289c67881,a079df1a,31,DNA,0,1000,2166,True,"GCF_900052615.1 Streptococcus pneumoniae strain=D26316X, 3850_2#12",/dev/fd/63
+signatures/ceb92070fb0f670e6b8ac424c5107614.sig.gz,ceb92070fb0f670e6b8ac424c5107614,ceb92070,31,DNA,0,1000,4395,True,"GCF_001546115.1 Paracoccus aminovorans strain=HPD-2, ASM154611v1",/dev/fd/63
+signatures/bac186cf99c919a1743b7979ff9ac3df.sig.gz,bac186cf99c919a1743b7979ff9ac3df,bac186cf,31,DNA,0,1000,4772,True,"GCA_002050375.1 Chitinophagales bacterium 62-2, ASM205037v1",/dev/fd/63
+signatures/31062f3ebb1dc3ae7726bb3ca524ca1a.sig.gz,31062f3ebb1dc3ae7726bb3ca524ca1a,31062f3e,31,DNA,0,1000,2035,True,"GCF_000322845.1 Streptococcus agalactiae MRI Z1-218 strain=MRI Z1-218, ASM32284v1",/dev/fd/63
+signatures/df7c0894d7ce5254b597d67c31dafb12.sig.gz,df7c0894d7ce5254b597d67c31dafb12,df7c0894,31,DNA,0,1000,2356,True,"GCA_002781725.1 Sulfurimonas sp. CG15_BIG_FIL_POST_REV_8_21_14_020_36_339, ASM278172v1",/dev/fd/63
+signatures/cc53eb6feb54bbc5d8d98976297c6534.sig.gz,cc53eb6feb54bbc5d8d98976297c6534,cc53eb6f,31,DNA,0,1000,5801,True,"GCA_017305285.1 Rhodospirillales bacterium, ASM1730528v1",/dev/fd/63
+signatures/969f908901acfb6a32446afad2fbe654.sig.gz,969f908901acfb6a32446afad2fbe654,969f9089,31,DNA,0,1000,4058,True,"GCF_009676665.1 Bacillus subtilis strain=MSP5, ASM967666v1",/dev/fd/63
+signatures/02806a2aed3abe78e14198dfd9864daa.sig.gz,02806a2aed3abe78e14198dfd9864daa,02806a2a,31,DNA,0,1000,8412,True,"GCF_012044595.1 Streptomyces antibioticus strain=DSM 41481, ASM1204459v1",/dev/fd/63
+signatures/6462a83551b1becb51d0b45a358698d2.sig.gz,6462a83551b1becb51d0b45a358698d2,6462a835,31,DNA,0,1000,4506,True,"GCA_000983895.1 Salmonella enterica subsp. enterica serovar Paratyphi A, PA062",/dev/fd/63
+signatures/222194a42ce6ad33181377d563291c6a.sig.gz,222194a42ce6ad33181377d563291c6a,222194a4,31,DNA,0,1000,2327,True,"GCA_016649775.1 Spirochaetaceae bacterium, ASM1664977v1",/dev/fd/63
+signatures/04639471b2f33afffac3fde8c2267ce7.sig.gz,04639471b2f33afffac3fde8c2267ce7,04639471,31,DNA,0,1000,4625,True,"GCF_004283315.1 Escherichia coli strain=EC_22, ASM428331v1",/dev/fd/63
+signatures/caba01100b713346c105496b11804f27.sig.gz,caba01100b713346c105496b11804f27,caba0110,31,DNA,0,1000,1071,True,"GCA_002457605.1 Marine Group II euryarchaeote MED-G34, ASM245760v1",/dev/fd/63
+signatures/282aae4e3b507fc2832737a7ddaf6cd8.sig.gz,282aae4e3b507fc2832737a7ddaf6cd8,282aae4e,31,DNA,0,1000,8014,True,"GCF_900177255.1 Streptomyces sp. Amel2xC10 strain=Amel2xC10, IMG-taxon 2524614730 annotated assembly",/dev/fd/63
+signatures/afb6ddb721587147a19816cac7d89ba6.sig.gz,afb6ddb721587147a19816cac7d89ba6,afb6ddb7,31,DNA,0,1000,5611,True,"GCF_003009265.1 Escherichia coli strain=GZC12-13, ASM300926v1",/dev/fd/63
+signatures/6693af2bcf8168a62cfd5888f104d1ca.sig.gz,6693af2bcf8168a62cfd5888f104d1ca,6693af2b,31,DNA,0,1000,1197,True,"GCA_902617785.1 uncultured Alphaproteobacteria bacterium, AG-892-G14",/dev/fd/63
+signatures/1c2067b8f918a8a9267df31fe1c62076.sig.gz,1c2067b8f918a8a9267df31fe1c62076,1c2067b8,31,DNA,0,1000,6606,True,"GCA_000705615.1 Rhizobium leguminosarum bv. phaseoli CCGM1 strain=CCGM1, CCGM1.1",/dev/fd/63
+signatures/585e615738fda59834c8874fb2beeab9.sig.gz,585e615738fda59834c8874fb2beeab9,585e6157,31,DNA,0,1000,4856,True,"GCF_001890525.1 Vibrio vulnificus strain=ORL-1506, ASM189052v1",/dev/fd/63
+signatures/a782025237fef6df96bee991155a5e56.sig.gz,a782025237fef6df96bee991155a5e56,a7820252,31,DNA,0,1000,2774,True,"GCF_015276455.1 Listeria welshimeri strain=FSL W9-0579, ASM1527645v1",/dev/fd/63
+signatures/fc6cba507076798d30d9adf675e2a40c.sig.gz,fc6cba507076798d30d9adf675e2a40c,fc6cba50,31,DNA,0,1000,2867,True,"GCF_900048695.1 Staphylococcus aureus strain=st927, 7414_8#72",/dev/fd/63
+signatures/5552b4fd7300bf48da2c4b5ce72487b5.sig.gz,5552b4fd7300bf48da2c4b5ce72487b5,5552b4fd,31,DNA,0,1000,2056,True,"GCF_002993045.1 Arcobacter cryaerophilus strain=LMG 10229, ASM299304v1",/dev/fd/63
+signatures/7b04852f4d67b90bb910b1367652620e.sig.gz,7b04852f4d67b90bb910b1367652620e,7b04852f,31,DNA,0,1000,4894,True,"GCF_010667575.1 Sulfitobacter sp. JBTF-M27 strain=JBTF-M27, ASM1066757v1",/dev/fd/63
+signatures/c1ab2e5d3f209c73df68aab2ec66bfaa.sig.gz,c1ab2e5d3f209c73df68aab2ec66bfaa,c1ab2e5d,31,DNA,0,1000,1549,True,"GCF_006347375.1 Campylobacter jejuni strain=PHL120, ASM634737v1",/dev/fd/63
+signatures/543228434e85ed0f86219a563ed4ab59.sig.gz,543228434e85ed0f86219a563ed4ab59,54322843,31,DNA,0,1000,4764,True,"GCF_016810115.1 Escherichia coli strain=QU-31, ASM1681011v1",/dev/fd/63
+signatures/68279b73c4a9172060a8ce909420712a.sig.gz,68279b73c4a9172060a8ce909420712a,68279b73,31,DNA,0,1000,4192,True,"GCF_001927505.1 Xanthomonas oryzae pv. oryzae strain=BXO432, ASM192750v1",/dev/fd/63
+signatures/537e895f308f0750d0ab76d2bd7414ce.sig.gz,537e895f308f0750d0ab76d2bd7414ce,537e895f,31,DNA,0,1000,1455,True,"GCA_017413025.1 Acetobacter sp., ASM1741302v1",/dev/fd/63
+signatures/28412f37389f317b8732c8e7969dad1a.sig.gz,28412f37389f317b8732c8e7969dad1a,28412f37,31,DNA,0,1000,4360,True,"GCF_002976855.1 Cronobacter sakazakii strain=cro1813C3, ASM297685v1",/dev/fd/63
+signatures/ddde96ce4489489e05ec51b158dce508.sig.gz,ddde96ce4489489e05ec51b158dce508,ddde96ce,31,DNA,0,1000,1741,True,"GCA_018692055.1 Euryarchaeota archaeon, ASM1869205v1",/dev/fd/63
+signatures/f322e6df90c3419ac9364752dae9b6b9.sig.gz,f322e6df90c3419ac9364752dae9b6b9,f322e6df,31,DNA,0,1000,4707,True,"GCF_004282785.1 Escherichia coli strain=EC_97, ASM428278v1",/dev/fd/63
+signatures/91954afe15762b8f297c8757c24a0c68.sig.gz,91954afe15762b8f297c8757c24a0c68,91954afe,31,DNA,0,1000,2820,True,"GCF_001289005.1 Staphylococcus aureus strain=2588STDY5627600, 11641_1#86",/dev/fd/63
+signatures/d17b5122ad43d5dc2c26e8797b0c3a15.sig.gz,d17b5122ad43d5dc2c26e8797b0c3a15,d17b5122,31,DNA,0,1000,477,True,"GCA_000990415.1 Candidatus Nomurabacteria bacterium GW2011_GWF2_35_12, ASM99041v1",/dev/fd/63
+signatures/588c8ec9044251bcc90d055b8f2215d1.sig.gz,588c8ec9044251bcc90d055b8f2215d1,588c8ec9,31,DNA,0,1000,2807,True,"GCF_005234905.1 Enterococcus faecium strain=ARL08-983, ASM523490v1",/dev/fd/63
+signatures/d1e2aaa4e2799e0022fa032590dfe836.sig.gz,d1e2aaa4e2799e0022fa032590dfe836,d1e2aaa4,31,DNA,0,1000,2324,True,"GCA_018266715.1 Bacteroidetes bacterium, ASM1826671v1",/dev/fd/63
+signatures/29df1196cb894c1e43a98b9915a98ea8.sig.gz,29df1196cb894c1e43a98b9915a98ea8,29df1196,31,DNA,0,1000,2921,True,"GCF_014645235.1 Agrococcus terreus strain=CGMCC 1.6960, ASM1464523v1",/dev/fd/63
+signatures/1ae3966c37c3877b75377372c8bf2407.sig.gz,1ae3966c37c3877b75377372c8bf2407,1ae3966c,31,DNA,0,1000,4860,True,"GCF_003965295.1 Enterobacter hormaechei strain=WCHEH090020, ASM396529v1",/dev/fd/63
+signatures/f6926f78b3c1c4c0c6cde7bcf751a988.sig.gz,f6926f78b3c1c4c0c6cde7bcf751a988,f6926f78,31,DNA,0,1000,5139,True,"GCF_003859315.1 Escherichia coli strain=GBGD36, ASM385931v1",/dev/fd/63
+signatures/0ec2173afb8cb15bb89195746d131567.sig.gz,0ec2173afb8cb15bb89195746d131567,0ec2173a,31,DNA,0,1000,2342,True,"GCF_003174945.1 Lactobacillus reuteri strain=LR13, ASM317494v1",/dev/fd/63
+signatures/08393b18e69a4663e8b1785c4020b30c.sig.gz,08393b18e69a4663e8b1785c4020b30c,08393b18,31,DNA,0,1000,3244,True,"GCA_011389355.1 Desulfobacca acetoxidans, ASM1138935v1",/dev/fd/63
+signatures/b6177900a02d3d2300f55a9441419265.sig.gz,b6177900a02d3d2300f55a9441419265,b6177900,31,DNA,0,1000,2778,True,"GCF_017891675.1 Staphylococcus sp. GDY8P218P strain=GDY8P218P, ASM1789167v1",/dev/fd/63
+signatures/5fb30c2ade86432ce05d84708c2771ed.sig.gz,5fb30c2ade86432ce05d84708c2771ed,5fb30c2a,31,DNA,0,1000,2170,True,"GCF_001175805.1 Streptococcus equi subsp. equi strain=EQUI0090, 6903_3#41",/dev/fd/63
+signatures/e017d6761f37117969688f057dc4a48b.sig.gz,e017d6761f37117969688f057dc4a48b,e017d676,31,DNA,0,1000,6915,True,"GCF_016092175.1 Burkholderia vietnamiensis strain=184D, ASM1609217v1",/dev/fd/63
+signatures/3085880e97e12aa2fc49a6352d986343.sig.gz,3085880e97e12aa2fc49a6352d986343,3085880e,31,DNA,0,1000,5051,True,"GCF_013394145.1 Shewanella sp. Scap07 strain=Scap07, ASM1339414v1",/dev/fd/63
+signatures/9ac1ae36d43f9393d29c10a4a450d41f.sig.gz,9ac1ae36d43f9393d29c10a4a450d41f,9ac1ae36,31,DNA,0,1000,4870,True,"GCF_016774955.1 Escherichia coli strain=1556m1, 1556m1",/dev/fd/63
+signatures/4ae530d6f05525e845f2654f30d42620.sig.gz,4ae530d6f05525e845f2654f30d42620,4ae530d6,31,DNA,0,1000,4735,True,"GCF_002978905.1 Cronobacter dublinensis strain=cro964A1, ASM297890v1",/dev/fd/63
+signatures/f6c62f62d6f8519a73edd668a5be6c60.sig.gz,f6c62f62d6f8519a73edd668a5be6c60,f6c62f62,31,DNA,0,1000,4932,True,"GCF_001284885.1 Escherichia coli strain=504180, 8205_3#19",/dev/fd/63
+signatures/371b9115cafadd3e2434530932ad766b.sig.gz,371b9115cafadd3e2434530932ad766b,371b9115,31,DNA,0,1000,3756,True,"GCA_017999135.1 Burkholderiaceae bacterium, ASM1799913v1",/dev/fd/63
+signatures/7c279e34eb1def6bc8ddcc94b74cdfb2.sig.gz_2,7c279e34eb1def6bc8ddcc94b74cdfb2,7c279e34,31,DNA,0,1000,3723,True,"GCF_013284725.1 Bacillus velezensis strain=HD3.1B, ASM1328472v1",/dev/fd/63
+signatures/520c76b77b2af49317765df15f9e6ab0.sig.gz,520c76b77b2af49317765df15f9e6ab0,520c76b7,31,DNA,0,1000,4915,True,"GCA_001362715.1 Salmonella enterica subsp. enterica serovar Typhi strain=dn56, 10540_1#28",/dev/fd/63
+signatures/a785a90ff202d48ca5abe30a848ef2b1.sig.gz,a785a90ff202d48ca5abe30a848ef2b1,a785a90f,31,DNA,0,1000,1829,True,"GCA_017450685.1 Paludibacteraceae bacterium, ASM1745068v1",/dev/fd/63
+signatures/78a7143f7a45ecbaa944a5e996b4f337.sig.gz,78a7143f7a45ecbaa944a5e996b4f337,78a7143f,31,DNA,0,1000,4671,True,"GCF_013376895.1 Escherichia coli strain=357900, ASM1337689v1",/dev/fd/63
+signatures/7773e149cb023b222e6fe13d411505fa.sig.gz,7773e149cb023b222e6fe13d411505fa,7773e149,31,DNA,0,1000,5078,True,"GCF_016008155.1 Serratia sp. JKS000199 strain=SER00065, ASM1600815v1",/dev/fd/63
+signatures/3f4560066289f09f4bdd321ed2ef1906.sig.gz,3f4560066289f09f4bdd321ed2ef1906,3f456006,31,DNA,0,1000,5158,True,"GCF_018390605.1 Ancylobacter defluvii strain=VKM B-2789, ASM1839060v1",/dev/fd/63
+signatures/130daf355cc5c6f126484d7cad1f5c5e.sig.gz,130daf355cc5c6f126484d7cad1f5c5e,130daf35,31,DNA,0,1000,6945,True,"GCF_002981095.1 Burkholderia multivorans strain=AU13919, ASM298109v1",/dev/fd/63
+signatures/116a4af40dd20e6b6946b2f3a5c4613d.sig.gz,116a4af40dd20e6b6946b2f3a5c4613d,116a4af4,31,DNA,0,1000,3917,True,"GCF_900455135.1 Providencia alcalifaciens strain=NCTC6344, 52363_F02",/dev/fd/63
+signatures/628490f8dfcadf10bc32eeabf5948fb4.sig.gz,628490f8dfcadf10bc32eeabf5948fb4,628490f8,31,DNA,0,1000,3453,True,"GCA_002711845.1 Gammaproteobacteria bacterium, ASM271184v1",/dev/fd/63
+signatures/fbe081a0e9b0037ff09c02c1cbed717f.sig.gz,fbe081a0e9b0037ff09c02c1cbed717f,fbe081a0,31,DNA,0,1000,2216,True,"GCF_001205155.1 Streptococcus pneumoniae strain=SMRU851, 6775_2#11",/dev/fd/63
+signatures/5eeca23712a7c844f04ccc4ab78026d4.sig.gz,5eeca23712a7c844f04ccc4ab78026d4,5eeca237,31,DNA,0,1000,2154,True,"GCA_902800155.1 Ruminococcaceae bacterium, Rumen uncultured genome RUG14543",/dev/fd/63
+signatures/06c3638dff5944361abf17929c4bc05f.sig.gz,06c3638dff5944361abf17929c4bc05f,06c3638d,31,DNA,0,1000,5185,True,"GCA_901420185.1 Klebsiella pneumoniae strain=NCTC11692, 36340_E02",/dev/fd/63
+signatures/65de4c09903daa084ed66b88d8741439.sig.gz,65de4c09903daa084ed66b88d8741439,65de4c09,31,DNA,0,1000,5912,True,"GCF_001400875.1 Pseudomonas amygdali pv. mellea strain=ICMP5711, PmeICMP5711",/dev/fd/63
+signatures/7052ba6cf1fe034561a0b227fa6b88de.sig.gz,7052ba6cf1fe034561a0b227fa6b88de,7052ba6c,31,DNA,0,1000,664,True,"GCF_004151455.1 Candidatus Saccharibacteria bacterium TM7_CMJM_G6_1_HOT_870 strain=TM7_CMJM_G6_1_HOT_870, ASM415145v1",/dev/fd/63
+signatures/c190b338b55a4fe98c717502558284d3.sig.gz,c190b338b55a4fe98c717502558284d3,c190b338,31,DNA,0,1000,3384,True,"GCF_002752515.1 Leucobacter sp. OAMSW11 strain=OAMSW11, ASM275251v1",/dev/fd/63
+signatures/af25215d9e696bf4dce1ba7f5009c6d7.sig.gz,af25215d9e696bf4dce1ba7f5009c6d7,af25215d,31,DNA,0,1000,2966,True,"GCF_000727125.1 Listeria monocytogenes strain=FSL R8-5854, ASM72712v1",/dev/fd/63
+signatures/7ca2c759383f11eb15fc55852ccf9794.sig.gz,7ca2c759383f11eb15fc55852ccf9794,7ca2c759,31,DNA,0,1000,3728,True,"GCF_003057775.1 Vibrio cholerae strain=A3_296, ASM305777v1",/dev/fd/63
+signatures/2d05f6499c9e730f383986381ef6dff9.sig.gz,2d05f6499c9e730f383986381ef6dff9,2d05f649,31,DNA,0,1000,5602,True,"GCF_000399545.1 Bacillus cereus VD140 strain=VD140, Baci_cere_VD140_V1",/dev/fd/63
+signatures/5529cf6bc01089ff3ad3dd450e18fc8f.sig.gz,5529cf6bc01089ff3ad3dd450e18fc8f,5529cf6b,31,DNA,0,1000,2271,True,"GCF_001541385.1 Lactobacillus crispatus strain=VMC3, ASM154138v1",/dev/fd/63
+signatures/a9ee294304d5d31c46abdd8cd77d4cfb.sig.gz,a9ee294304d5d31c46abdd8cd77d4cfb,a9ee2943,31,DNA,0,1000,4370,True,"GCF_014653295.1 Deinococcus indicus strain=CGMCC 1.18440, ASM1465329v1",/dev/fd/63
+signatures/1a59730406edaa15a347ed478a213bc0.sig.gz,1a59730406edaa15a347ed478a213bc0,1a597304,31,DNA,0,1000,5299,True,"GCF_000267325.1 Escherichia coli EC4402 strain=EC4402, ASM26732v1",/dev/fd/63
+signatures/7c76d4a586242023d466da0b258f1842.sig.gz,7c76d4a586242023d466da0b258f1842,7c76d4a5,31,DNA,0,1000,7087,True,"GCF_009727425.1 Pseudomonas aeruginosa strain=PA181, ASM972742v1",/dev/fd/63
+signatures/4ad8d5c8d3744c8718ccce7b42c5db62.sig.gz,4ad8d5c8d3744c8718ccce7b42c5db62,4ad8d5c8,31,DNA,0,1000,1987,True,"GCF_016837545.1 Streptococcus uberis strain=GCPRG110, ASM1683754v1",/dev/fd/63
+signatures/4394f0698c90b503d1b0a562a31d0562.sig.gz,4394f0698c90b503d1b0a562a31d0562,4394f069,31,DNA,0,1000,2085,True,"GCF_900062115.1 Streptococcus suis strain=FX22, 8337_6#85",/dev/fd/63
+signatures/11ce9ad61c1f7d0093c9e08cce5a7900.sig.gz,11ce9ad61c1f7d0093c9e08cce5a7900,11ce9ad6,31,DNA,0,1000,3769,True,"GCF_011759385.1 Oleiagrimonas sp. C23AA strain=C23AA, ASM1175938v1",/dev/fd/63
+signatures/870c7f25661dd939ed8d85586afe3cfc.sig.gz,870c7f25661dd939ed8d85586afe3cfc,870c7f25,31,DNA,0,1000,2153,True,"GCF_003789495.1 Neisseria gonorrhoeae strain=WUSM_Ng_57, ASM378949v1",/dev/fd/63
+signatures/e0f60ff3c6a7456701cfae6ccda81505.sig.gz,e0f60ff3c6a7456701cfae6ccda81505,e0f60ff3,31,DNA,0,1000,2416,True,"GCA_900143575.1 Streptococcus suis strain=LS9N, LS9N",/dev/fd/63
+signatures/6366236485cd90ce27a06807fd75675d.sig.gz,6366236485cd90ce27a06807fd75675d,63662364,31,DNA,0,1000,2336,True,"GCA_002350665.1 Prevotella sp. UBA2859, ASM235066v1",/dev/fd/63
+signatures/e780324095d7928079d1d65ee4866a8b.sig.gz,e780324095d7928079d1d65ee4866a8b,e7803240,31,DNA,0,1000,4884,True,"GCF_017896665.1 Escherichia coli strain=IVRI65, ASM1789666v1",/dev/fd/63
+signatures/70a49ebc91293cf2539e1928a9c83a6b.sig.gz,70a49ebc91293cf2539e1928a9c83a6b,70a49ebc,31,DNA,0,1000,2890,True,"GCA_017540105.1 Lachnospiraceae bacterium, ASM1754010v1",/dev/fd/63
+signatures/537cb01a9d61fd05b371deebae295472.sig.gz,537cb01a9d61fd05b371deebae295472,537cb01a,31,DNA,0,1000,2601,True,"GCA_017615325.1 Clostridiales bacterium, ASM1761532v1",/dev/fd/63
+signatures/078c296c3f749bc75cb977a2a41931e6.sig.gz,078c296c3f749bc75cb977a2a41931e6,078c296c,31,DNA,0,1000,3874,True,"GCF_014531045.1 Acinetobacter baumannii strain=A43, ASM1453104v1",/dev/fd/63
+signatures/0cc901278e8f31fc19f38a8f01018aa8.sig.gz,0cc901278e8f31fc19f38a8f01018aa8,0cc90127,31,DNA,0,1000,4518,True,"GCF_015731445.1 Escherichia coli strain=HS10-1, ASM1573144v1",/dev/fd/63
+signatures/e4831df76d40666d152fdce7a639d897.sig.gz,e4831df76d40666d152fdce7a639d897,e4831df7,31,DNA,0,1000,2580,True,"GCF_014041915.1 Chryseobacterium sp. cx-624 strain=cx-624, ASM1404191v1",/dev/fd/63
+signatures/90c26db9723ee04aa8566be591d4b266.sig.gz,90c26db9723ee04aa8566be591d4b266,90c26db9,31,DNA,0,1000,5151,True,"GCA_018780805.1 Rubrivivax sp., ASM1878080v1",/dev/fd/63
+signatures/4fddbf6d494a718186f27aa02efb641e.sig.gz,4fddbf6d494a718186f27aa02efb641e,4fddbf6d,31,DNA,0,1000,2871,True,"GCF_001205195.1 Staphylococcus aureus strain=USFL070, 7748_4#72",/dev/fd/63
+signatures/03bf710753e6c69228a56870198aeb13.sig.gz,03bf710753e6c69228a56870198aeb13,03bf7107,31,DNA,0,1000,6420,True,"GCF_900406935.1 Pseudomonas aeruginosa strain=KCRI-377, De novo assembly of KCRI isolate R0007_377",/dev/fd/63
+signatures/9c483162e37b123655e763e17f78de18.sig.gz,9c483162e37b123655e763e17f78de18,9c483162,31,DNA,0,1000,2079,True,"GCF_001138125.1 Streptococcus pneumoniae strain=SMRU926, 6680_5#14",/dev/fd/63
+signatures/5c116765552f97c255d1e45352cacb98.sig.gz,5c116765552f97c255d1e45352cacb98,5c116765,31,DNA,0,1000,3410,True,"GCA_018238215.1 Candidatus Thorarchaeota archaeon, ASM1823821v1",/dev/fd/63
+signatures/8bc1966e1af89a781cfd8630907fdc7c.sig.gz,8bc1966e1af89a781cfd8630907fdc7c,8bc1966e,31,DNA,0,1000,5169,True,"GCF_017916635.1 Vibrio crassostreae strain=GV1685, ASM1791663v1",/dev/fd/63
+signatures/6271660b8d597a0e5fe395c0b551775d.sig.gz,6271660b8d597a0e5fe395c0b551775d,6271660b,31,DNA,0,1000,2347,True,"GCF_010745745.1 Lactobacillus murinus strain=VM1F2, ASM1074574v1",/dev/fd/63
+signatures/17cfe225a05d14b4e22ec3788608c8cc.sig.gz,17cfe225a05d14b4e22ec3788608c8cc,17cfe225,31,DNA,0,1000,2372,True,"GCA_016788115.1 Chthonomonas sp., ASM1678811v1",/dev/fd/63
+signatures/c232bcafafde4dc7b0e9cf274eac4dd4.sig.gz,c232bcafafde4dc7b0e9cf274eac4dd4,c232bcaf,31,DNA,0,1000,1076,True,"GCA_003210235.1 Prochlorococcus sp. AG-686-O05, ASM321023v1",/dev/fd/63
+signatures/a312dc4afda951c33a66c3705743d691.sig.gz,a312dc4afda951c33a66c3705743d691,a312dc4a,31,DNA,0,1000,2840,True,"GCF_004115515.1 Clostridium tetani strain=1337, ASM411551v1",/dev/fd/63
+signatures/3428f27c92cf46ffe1433a83373c84ed.sig.gz,3428f27c92cf46ffe1433a83373c84ed,3428f27c,31,DNA,0,1000,1843,True,"GCA_018883825.1 Candidatus Desulfovibrio faecigallinarum, ASM1888382v1",/dev/fd/63
+signatures/0e5df3bd463fcc8a441da3312bae8885.sig.gz,0e5df3bd463fcc8a441da3312bae8885,0e5df3bd,31,DNA,0,1000,4857,True,"GCA_006379665.2 Salmonella enterica subsp. enterica serovar Anatum strain=HIY0183, ASM637966v2",/dev/fd/63
+signatures/2a0e44e5f8e050ca9bf63b1b5ddf479d.sig.gz,2a0e44e5f8e050ca9bf63b1b5ddf479d,2a0e44e5,31,DNA,0,1000,2006,True,"GCF_016127735.1 Streptococcus oralis strain=FDAARGOS_1075, ASM1612773v1",/dev/fd/63
+signatures/af26bcd96ce72ff5e6564e924cf76348.sig.gz,af26bcd96ce72ff5e6564e924cf76348,af26bcd9,31,DNA,0,1000,3797,True,"GCF_001617365.1 Rhodanobacter sp. FW104-R8 strain=FW104-R8, ASM161736v1",/dev/fd/63
+signatures/8d9ac0acbe4a62d8316f2f536f499b5f.sig.gz,8d9ac0acbe4a62d8316f2f536f499b5f,8d9ac0ac,31,DNA,0,1000,3218,True,"GCF_008690765.1 Acetobacter sp. DmW_125130 strain=DmW_125130, ASM869076v1",/dev/fd/63
+signatures/b1cf6d6dd37ab16e54d628da42e3d5dc.sig.gz,b1cf6d6dd37ab16e54d628da42e3d5dc,b1cf6d6d,31,DNA,0,1000,4446,True,"GCF_014268065.1 Escherichia coli strain=UPMP2130, ASM1426806v1",/dev/fd/63
+signatures/51789f4c79efd2fdbd1414661fcd1bef.sig.gz,51789f4c79efd2fdbd1414661fcd1bef,51789f4c,31,DNA,0,1000,2248,True,"GCF_001263945.1 Bifidobacterium animalis subsp. animalis MCC 0483 strain=MCC 0483, ASM126394v1",/dev/fd/63
+signatures/d39dbed44d290c5d1206971a392b2018.sig.gz,d39dbed44d290c5d1206971a392b2018,d39dbed4,31,DNA,0,1000,5140,True,"GCF_000692695.1 Escherichia coli CHS 68 strain=CHS 68, Esch_coli_CHS_68_V1",/dev/fd/63
+signatures/f19319f03b6ab8f2dadf943c46cf57af.sig.gz,f19319f03b6ab8f2dadf943c46cf57af,f19319f0,31,DNA,0,1000,5246,True,"GCF_003568845.1 Indioceanicola profundi strain=SCSIO 08040, ASM356884v1",/dev/fd/63
+signatures/5dbefe99202abb858d55aceeee9633e7.sig.gz,5dbefe99202abb858d55aceeee9633e7,5dbefe99,31,DNA,0,1000,4459,True,"GCF_001568885.1 Leptospira interrogans strain=56660, ASM156888v1",/dev/fd/63
+signatures/1cffebb1a4a61daa1fb1487e8b200772.sig.gz,1cffebb1a4a61daa1fb1487e8b200772,1cffebb1,31,DNA,0,1000,2375,True,"GCA_002371315.1 Bacteroidales bacterium UBA3724, ASM237131v1",/dev/fd/63
+signatures/320fc73745ef0560cf1811d16708523b.sig.gz,320fc73745ef0560cf1811d16708523b,320fc737,31,DNA,0,1000,2210,True,"GCA_002344825.1 Candidatus Omnitrophica bacterium UBA2337, ASM234482v1",/dev/fd/63
+signatures/38b6a04ed58b2ff575c4107f0a22457b.sig.gz,38b6a04ed58b2ff575c4107f0a22457b,38b6a04e,31,DNA,0,1000,1587,True,"GCA_014534205.1 Jiangellaceae bacterium, ASM1453420v1",/dev/fd/63
+signatures/8b2afad71a700aa28da72997bfb849f7.sig.gz,8b2afad71a700aa28da72997bfb849f7,8b2afad7,31,DNA,0,1000,1721,True,"GCF_003171595.1 Streptococcus pyogenes strain=SS1574, ASM317159v1",/dev/fd/63
+signatures/44726e4803043daff9ebe85b2c8b5262.sig.gz,44726e4803043daff9ebe85b2c8b5262,44726e48,31,DNA,0,1000,6360,True,"GCF_002558015.1 Bacillus thuringiensis strain=AFS013213, ASM255801v1",/dev/fd/63
+signatures/14bc7862b38326838c65a69c01d1c5c3.sig.gz_0,14bc7862b38326838c65a69c01d1c5c3,14bc7862,31,DNA,0,1000,4538,True,"GCF_000612845.1 Clostridium ihumii AP5 strain=AP5, AP5T",/dev/fd/63
+signatures/efd9b48ad20d1a141cc9ad224d0ae6ae.sig.gz,efd9b48ad20d1a141cc9ad224d0ae6ae,efd9b48a,31,DNA,0,1000,5914,True,"GCF_900602735.1 Pseudomonas viridiflava, p9.F2",/dev/fd/63
+signatures/239f2e4d190e67f57d677d4e0dade0c3.sig.gz,239f2e4d190e67f57d677d4e0dade0c3,239f2e4d,31,DNA,0,1000,3024,True,"GCA_017551005.1 Prevotella sp., ASM1755100v1",/dev/fd/63
+signatures/3fef63515431287d73403bef5d72c5e7.sig.gz,3fef63515431287d73403bef5d72c5e7,3fef6351,31,DNA,0,1000,5329,True,"GCF_001539025.1 Serratia marcescens strain=2880STDY5682818, 12082_2#27",/dev/fd/63
+signatures/f8a9de6886ee220d9da4d84f87eaa30f.sig.gz,f8a9de6886ee220d9da4d84f87eaa30f,f8a9de68,31,DNA,0,1000,2384,True,"GCA_905373715.1 Candidatus [Bacteroides] periocalifornicus, SRR9217487-mag-bin.6",/dev/fd/63
+signatures/b117a0f5acbe7d5149193ea6dc9c30e2.sig.gz,b117a0f5acbe7d5149193ea6dc9c30e2,b117a0f5,31,DNA,0,1000,3926,True,"GCF_000252125.1 Flavobacterium frigoris PS1 strain=PS1, ASM25212v2",/dev/fd/63
+signatures/025e67fdbdc699be8ec7d076ce351447.sig.gz,025e67fdbdc699be8ec7d076ce351447,025e67fd,31,DNA,0,1000,6389,True,"GCF_002981485.1 Burkholderia multivorans strain=AU30050, ASM298148v1",/dev/fd/63
+signatures/1708d4e7e8965a1c2f6c58d3e64d5f65.sig.gz,1708d4e7e8965a1c2f6c58d3e64d5f65,1708d4e7,31,DNA,0,1000,4167,True,"GCF_004348885.1 Bacillus sp. CBEL-1 strain=CBEL-1, ASM434888v1",/dev/fd/63
+signatures/886a7bde9934a53a6b8c02dca22472d7.sig.gz,886a7bde9934a53a6b8c02dca22472d7,886a7bde,31,DNA,0,1000,4045,True,"GCA_002163135.1 Alphaproteobacteria bacterium 46_93_T64, ASM216313v1",/dev/fd/63
+signatures/636c784efffbbfe85a864670994423ad.sig.gz,636c784efffbbfe85a864670994423ad,636c784e,31,DNA,0,1000,4903,True,"GCA_001112705.1 Salmonella enterica subsp. enterica serovar Typhi strain=MDUST233, 10562_2#28",/dev/fd/63
+signatures/39f4de8f66bbded3fe5d06207a66a1e9.sig.gz,39f4de8f66bbded3fe5d06207a66a1e9,39f4de8f,31,DNA,0,1000,5518,True,"GCF_002785845.1 Enterobacter hormaechei strain=ECC904, ASM278584v1",/dev/fd/63
+signatures/6f3074d9e97c48517044b6fff13c30fa.sig.gz,6f3074d9e97c48517044b6fff13c30fa,6f3074d9,31,DNA,0,1000,6901,True,"GCF_001017795.1 Delftia lacustris strain=LZ-C, ASM101779v1",/dev/fd/63
+signatures/e84f919db349f22195b43a880328b442.sig.gz,e84f919db349f22195b43a880328b442,e84f919d,31,DNA,0,1000,4964,True,"GCF_002226535.1 Escherichia coli strain=MOD1-EC5682, ASM222653v1",/dev/fd/63
+signatures/0b2b2a35128e3a04e0c20c7b4fafb514.sig.gz,0b2b2a35128e3a04e0c20c7b4fafb514,0b2b2a35,31,DNA,0,1000,3128,True,"GCA_000466845.1 Lactobacillus plantarum 2165 strain=2165, ASM46684v1",/dev/fd/63
+signatures/d26ec04a9b89c307205af22309c0c9b3.sig.gz,d26ec04a9b89c307205af22309c0c9b3,d26ec04a,31,DNA,0,1000,3326,True,"GCA_003221805.1 Gemmatimonadetes bacterium, ASM322180v1",/dev/fd/63
+signatures/ae6ba7cbe8ed0d94b6b43ac0441a4772.sig.gz,ae6ba7cbe8ed0d94b6b43ac0441a4772,ae6ba7cb,31,DNA,0,1000,4330,True,"GCF_001852705.1 Mycobacterium tuberculosis strain=99-R665, ASM185270v1",/dev/fd/63
+signatures/26c1dfe92a0529c5f7d4230eb004b8d3.sig.gz,26c1dfe92a0529c5f7d4230eb004b8d3,26c1dfe9,31,DNA,0,1000,2462,True,"GCA_015261725.1 Prevotella pallens, ASM1526172v1",/dev/fd/63
+signatures/37977efb43318a871755452f2cd13516.sig.gz,37977efb43318a871755452f2cd13516,37977efb,31,DNA,0,1000,1875,True,"GCA_002687435.1 Desulfobacter sp., ASM268743v1",/dev/fd/63
+signatures/3274c543b80844ef69c44eb7d92733b0.sig.gz,3274c543b80844ef69c44eb7d92733b0,3274c543,31,DNA,0,1000,1166,True,"GCA_902803795.1 uncultured Erysipelotrichaceae bacterium, Rumen uncultured genome RUG14903",/dev/fd/63
+signatures/312461869fa3db6e4141cd6f23d9f7b0.sig.gz,312461869fa3db6e4141cd6f23d9f7b0,31246186,31,DNA,0,1000,2147,True,"GCF_001810035.1 Neisseria sp. HMSC058F07 strain=HMSC058F07, ASM181003v1",/dev/fd/63
+signatures/3c11c0489be46eefe3c46d0e9bf6453e.sig.gz,3c11c0489be46eefe3c46d0e9bf6453e,3c11c048,31,DNA,0,1000,2997,True,"GCA_910573745.1 Muribaculaceae bacterium, MGBC000032",/dev/fd/63
+signatures/0cbd66b793ff6898c68c4c885910043d.sig.gz,0cbd66b793ff6898c68c4c885910043d,0cbd66b7,31,DNA,0,1000,4530,True,"GCF_010609205.1 Stenotrophomonas maltophilia strain=AS012575, ASM1060920v1",/dev/fd/63
+signatures/af4a88ee6766fe1035d8e3b6400d6dcd.sig.gz,af4a88ee6766fe1035d8e3b6400d6dcd,af4a88ee,31,DNA,0,1000,2892,True,"GCF_003588885.1 Listeria monocytogenes strain=N12-0367, ASM358888v1",/dev/fd/63
+signatures/1bdc25714c976e261cdc0c2e19284950.sig.gz,1bdc25714c976e261cdc0c2e19284950,1bdc2571,31,DNA,0,1000,5338,True,"GCF_900195685.1 Escherichia coli, F1_30E",/dev/fd/63
+signatures/f7f7f28b57194c9315b7ca1a969c1eff.sig.gz,f7f7f28b57194c9315b7ca1a969c1eff,f7f7f28b,31,DNA,0,1000,4940,True,"GCF_009763225.1 Vibrio furnissii strain=2013V-1001, ASM976322v1",/dev/fd/63
+signatures/8c6d5dc992087b6a79a9cebac9b609c3.sig.gz,8c6d5dc992087b6a79a9cebac9b609c3,8c6d5dc9,31,DNA,0,1000,6362,True,"GCF_902497935.1 Pseudomonas fluorescens, PS708",/dev/fd/63
+signatures/bbccf4a27b5c8f5d3daf4877a059e365.sig.gz,bbccf4a27b5c8f5d3daf4877a059e365,bbccf4a2,31,DNA,0,1000,2650,True,"GCF_014890335.1 Anoxybacillus flavithermus strain=WS5284, ASM1489033v1",/dev/fd/63
+signatures/e58b0cf6ca12122360ce47aa973b97c2.sig.gz,e58b0cf6ca12122360ce47aa973b97c2,e58b0cf6,31,DNA,0,1000,5777,True,"GCF_003290365.1 Pseudomonas putida strain=NX-1, ASM329036v1",/dev/fd/63
+signatures/4adc6431d1c4c676be30418c3178b384.sig.gz,4adc6431d1c4c676be30418c3178b384,4adc6431,31,DNA,0,1000,5935,True,"GCF_009743975.1 Agrobacterium vitis strain=CG1103, ASM974397v1",/dev/fd/63
+signatures/5e2a64fc13f0ca43a6b4825285b8672e.sig.gz,5e2a64fc13f0ca43a6b4825285b8672e,5e2a64fc,31,DNA,0,1000,3932,True,"GCF_002992705.1 Acinetobacter baumannii strain=KUFAR67, ASM299270v1",/dev/fd/63
+signatures/a522a85d215e1918b4865e6a397e3edd.sig.gz,a522a85d215e1918b4865e6a397e3edd,a522a85d,31,DNA,0,1000,6550,True,"GCF_003976865.1 Pseudomonas aeruginosa strain=AUS110, ASM397686v1",/dev/fd/63
+signatures/260cb6999d1e4d279b670c34f8091ccd.sig.gz,260cb6999d1e4d279b670c34f8091ccd,260cb699,31,DNA,0,1000,2724,True,"GCF_900125665.1 Staphylococcus aureus strain=3688STDY6124850, 17175_1#66",/dev/fd/63
+signatures/b8ceefa3f2ae3b9f04a4e5045c201e5a.sig.gz,b8ceefa3f2ae3b9f04a4e5045c201e5a,b8ceefa3,31,DNA,0,1000,3655,True,"GCA_007126245.1 Planctomycetales bacterium, ASM712624v1",/dev/fd/63
+signatures/73000410d7eb1c42cacce9c2a0242d40.sig.gz,73000410d7eb1c42cacce9c2a0242d40,73000410,31,DNA,0,1000,5311,True,"GCF_017833775.1 Phyllobacterium sp. 586 strain=586, ASM1783377v1",/dev/fd/63
+signatures/5356e435f83e45e3305f8371d44be247.sig.gz,5356e435f83e45e3305f8371d44be247,5356e435,31,DNA,0,1000,2857,True,"GCF_002267985.1 Staphylococcus aureus strain=UMX772, ASM226798v1",/dev/fd/63
+signatures/f739d7eaddf3077aaa728d6016bae811.sig.gz,f739d7eaddf3077aaa728d6016bae811,f739d7ea,31,DNA,0,1000,7333,True,"GCF_000774965.1 Burkholderia pseudomallei ABCPW 1 strain=ABCPW 1, BCW_23",/dev/fd/63
+signatures/a87a7b4693ba6d0f716cd26e25dfecf9.sig.gz,a87a7b4693ba6d0f716cd26e25dfecf9,a87a7b46,31,DNA,0,1000,4769,True,"GCF_000330365.1 Salmonella enterica subsp. enterica serovar Enteritidis str. 543463 42-20 strain=543463 42-20, ASM33036v1",/dev/fd/63
+signatures/d494e3319b88506efda3e7350187d58d.sig.gz,d494e3319b88506efda3e7350187d58d,d494e331,31,DNA,0,1000,871,True,"GCA_016199685.1 Candidatus Saccharibacteria bacterium, ASM1619968v1",/dev/fd/63
+signatures/f67f71c550462aa062a6d90041567aaa.sig.gz,f67f71c550462aa062a6d90041567aaa,f67f71c5,31,DNA,0,1000,5332,True,"GCF_017598625.1 Escherichia coli strain=18-47-24, ASM1759862v1",/dev/fd/63
+signatures/9222582c6001bc87a0aee36b8c344291.sig.gz,9222582c6001bc87a0aee36b8c344291,9222582c,31,DNA,0,1000,2096,True,"GCF_900190955.1 Streptococcus pneumoniae strain=UoS3068, 6512_1#20",/dev/fd/63
+signatures/76f9cfcfd63a2a0924bf01e3cb9aec71.sig.gz,76f9cfcfd63a2a0924bf01e3cb9aec71,76f9cfcf,31,DNA,0,1000,7029,True,"GCF_001446125.1 Burkholderia pseudomallei RNS3Bp1 strain=RNS3Bp1, ASM144612v1",/dev/fd/63
+signatures/d9581cc8ea13cf99408c3fa042c34b32.sig.gz,d9581cc8ea13cf99408c3fa042c34b32,d9581cc8,31,DNA,0,1000,3980,True,"GCF_002098495.1 Vibrio cholerae strain=CISM_152, ASM209849v1",/dev/fd/63
+signatures/97b695986278764202a863dbd9976fda.sig.gz_0,97b695986278764202a863dbd9976fda,97b69598,31,DNA,0,1000,1568,True,"GCA_902758185.1 Ruminococcaceae bacterium, Rumen uncultured genome RUG10337",/dev/fd/63
+signatures/f0eda2b1803f3641eea3b10c11d884d0.sig.gz,f0eda2b1803f3641eea3b10c11d884d0,f0eda2b1,31,DNA,0,1000,2985,True,"GCF_013370205.1 Altererythrobacter sp. HHU K3-1 strain=HHU K3-1, ASM1337020v1",/dev/fd/63
+signatures/3191d836b0758434f38c00b04e102d02.sig.gz,3191d836b0758434f38c00b04e102d02,3191d836,31,DNA,0,1000,4391,True,"GCF_001753645.1 Stenotrophomonas sp. BIIR7 strain=BIIR7, ASM175364v1",/dev/fd/63
+signatures/8cebaf173c3714b3d0094e9d0909abed.sig.gz,8cebaf173c3714b3d0094e9d0909abed,8cebaf17,31,DNA,0,1000,3945,True,"GCF_007682335.1 Bacillus fortis strain=DE0025, ASM768233v1",/dev/fd/63
+signatures/fb0d4774b455aea2b455b5930e9e2383.sig.gz,fb0d4774b455aea2b455b5930e9e2383,fb0d4774,31,DNA,0,1000,3054,True,"GCA_903830725.1 uncultured Burkholderiales bacterium, freshwater MAG --- MJ1_bin-0510",/dev/fd/63
+signatures/01277c6102d98e2a02ba5e7031261b1c.sig.gz,01277c6102d98e2a02ba5e7031261b1c,01277c61,31,DNA,0,1000,2784,True,"GCF_000573345.1 Staphylococcus aureus M1318 strain=M1318, Stap_aure_M1318_V1",/dev/fd/63
+signatures/7d2d43d4eb30f165e02a8becd5c67524.sig.gz,7d2d43d4eb30f165e02a8becd5c67524,7d2d43d4,31,DNA,0,1000,5056,True,"GCA_001216105.1 Mycobacteroides abscessus strain=PAP152, 7520_7#32",/dev/fd/63
+signatures/a9b22a2af01ede39b30b20ea6025588a.sig.gz,a9b22a2af01ede39b30b20ea6025588a,a9b22a2a,31,DNA,0,1000,4926,True,"GCF_000704585.1 Escherichia coli 2-474-04_S3_C1 strain=2-474-04_S3_C1, ASM70458v1",/dev/fd/63
+signatures/6838064a78fa7c0d5529bef474943093.sig.gz,6838064a78fa7c0d5529bef474943093,6838064a,31,DNA,0,1000,4119,True,"GCF_012030395.1 Bacillus subtilis strain=CH311, ASM1203039v1",/dev/fd/63
+signatures/9faaf9fa6a9caff1cdadac261a22004f.sig.gz,9faaf9fa6a9caff1cdadac261a22004f,9faaf9fa,31,DNA,0,1000,1560,True,"GCA_903877425.1 uncultured Verrucomicrobia bacterium, freshwater MAG --- UppL7s_bin-1421",/dev/fd/63
+signatures/c6673cba96992977b96f3b0f956202ca.sig.gz,c6673cba96992977b96f3b0f956202ca,c6673cba,31,DNA,0,1000,1668,True,"GCA_903926915.1 uncultured actinobacterium, freshwater MAG --- Kiruna2_bin-3236",/dev/fd/63
+signatures/12011f3423a753b3934ffbe77d8bd4d4.sig.gz,12011f3423a753b3934ffbe77d8bd4d4,12011f34,31,DNA,0,1000,2763,True,"GCF_003720015.1 Staphylococcus aureus strain=CFBR-150, ASM372001v1",/dev/fd/63
+signatures/84eb0a018ab13c085ae0127ca9997a65.sig.gz,84eb0a018ab13c085ae0127ca9997a65,84eb0a01,31,DNA,0,1000,1565,True,"GCF_016748085.1 Helicobacter pylori strain=ASHA-002, ASM1674808v1",/dev/fd/63
+signatures/f6cec6866b0825a67fa54f53056fa82a.sig.gz,f6cec6866b0825a67fa54f53056fa82a,f6cec686,31,DNA,0,1000,8397,True,"GCA_002789955.1 Deltaproteobacteria bacterium CG_4_9_14_3_um_filter_63_12, ASM278995v1",/dev/fd/63
+signatures/8d730f96c349df47fcc471a84673d551.sig.gz,8d730f96c349df47fcc471a84673d551,8d730f96,31,DNA,0,1000,2889,True,"GCF_003478795.1 Clostridium sp. AF21-20LB strain=AF21-20LB, ASM347879v1",/dev/fd/63
+signatures/beb89f8f9690d550ba75eaf6137ca486.sig.gz,beb89f8f9690d550ba75eaf6137ca486,beb89f8f,31,DNA,0,1000,3480,True,"GCA_015655335.1 Xanthomonadales bacterium, ASM1565533v1",/dev/fd/63
+signatures/2c50361a7cbf7209531f14fbc3646585.sig.gz,2c50361a7cbf7209531f14fbc3646585,2c50361a,31,DNA,0,1000,1868,True,"GCA_003530255.1 Clostridiales bacterium, ASM353025v1",/dev/fd/63
+signatures/50418fa1e696f5c7dc76705c32832a36.sig.gz,50418fa1e696f5c7dc76705c32832a36,50418fa1,31,DNA,0,1000,7346,True,"GCF_012844325.1 Flammeovirga yaeyamensis strain=NBRC 100898, ASM1284432v1",/dev/fd/63
+signatures/a2bb4741fc1139ecef06e9da04c01696.sig.gz,a2bb4741fc1139ecef06e9da04c01696,a2bb4741,31,DNA,0,1000,9028,True,"GCF_016595335.1 Burkholderia contaminans strain=HI4959, ASM1659533v1",/dev/fd/63
+signatures/13754f4fa80e741b57b09a43fa896ed0.sig.gz,13754f4fa80e741b57b09a43fa896ed0,13754f4f,31,DNA,0,1000,6280,True,"GCF_008829805.1 Bacillus thuringiensis strain=PT18, ASM882980v1",/dev/fd/63
+signatures/3ae8c3a389ecfb42778081ac53895603.sig.gz,3ae8c3a389ecfb42778081ac53895603,3ae8c3a3,31,DNA,0,1000,2122,True,"GCF_900194495.1 Streptococcus pneumoniae strain=3063STDY5801729, 13682_2#68",/dev/fd/63
+signatures/82d681054afd607a12e0659ac3e7a278.sig.gz,82d681054afd607a12e0659ac3e7a278,82d68105,31,DNA,0,1000,1511,True,"GCA_003023485.1 Halobacteriales archaeon SW_10_68_16, ASM302348v1",/dev/fd/63
+signatures/6a8612fbcb8fbad797acedf5da8f6c32.sig.gz,6a8612fbcb8fbad797acedf5da8f6c32,6a8612fb,31,DNA,0,1000,2871,True,"GCF_009906445.1 Enterococcus hirae strain=2017YL45, ASM990644v1",/dev/fd/63
+signatures/88aba3dea41d880d4f4c8a3b56080dab.sig.gz,88aba3dea41d880d4f4c8a3b56080dab,88aba3de,31,DNA,0,1000,3401,True,"GCA_902761575.1 uncultured bacterium, Rumen uncultured genome RUG10674",/dev/fd/63
+signatures/2c4c5fb5151e96123c939d0c820b838c.sig.gz,2c4c5fb5151e96123c939d0c820b838c,2c4c5fb5,31,DNA,0,1000,5566,True,"GCF_003197135.1 Klebsiella variicola strain=WUSM_KV_33, ASM319713v1",/dev/fd/63
+signatures/fa96ad04c117c05e28a2651cd1160031.sig.gz,fa96ad04c117c05e28a2651cd1160031,fa96ad04,31,DNA,0,1000,760,True,"GCA_903946795.1 uncultured Candidatus Saccharibacteria bacterium, freshwater MAG --- Loc090907-4m_bin-620",/dev/fd/63
+signatures/b346cfae3387b5004f69be498072bf40.sig.gz,b346cfae3387b5004f69be498072bf40,b346cfae,31,DNA,0,1000,5096,True,"GCF_001539785.1 Serratia marcescens strain=2880STDY5682827, 12082_2#36",/dev/fd/63
+signatures/ae665bfb3d76a50953ca2a0af517d8de.sig.gz,ae665bfb3d76a50953ca2a0af517d8de,ae665bfb,31,DNA,0,1000,2905,True,"GCF_014636415.1 Marinicauda pacifica strain=CGMCC 1.11031, ASM1463641v1",/dev/fd/63
+signatures/87f5f568432c348ee0b36fb3b1c4f122.sig.gz,87f5f568432c348ee0b36fb3b1c4f122,87f5f568,31,DNA,0,1000,2601,True,"GCF_016908635.1 Sporohalobacter salinus strain=DSM 26781, ASM1690863v1",/dev/fd/63
+signatures/b25a786ed3900437ff0f395afe722305.sig.gz,b25a786ed3900437ff0f395afe722305,b25a786e,31,DNA,0,1000,2158,True,"GCF_001109425.1 Neisseria gonorrhoeae strain=GCGS196, 8727_5#46",/dev/fd/63
+signatures/e1c89cb5b34209f7068a257643a6479c.sig.gz,e1c89cb5b34209f7068a257643a6479c,e1c89cb5,31,DNA,0,1000,5020,True,"GCF_013851115.1 Escherichia coli strain=GCPRC1, ASM1385111v1",/dev/fd/63
+signatures/2181f74c49c5d5f945ee805c305783ad.sig.gz,2181f74c49c5d5f945ee805c305783ad,2181f74c,31,DNA,0,1000,2823,True,"GCF_000543745.1 Staphylococcus aureus M0791 strain=M0791, Stap_aure_M0791_V1",/dev/fd/63
+signatures/7ee40bff9e5df93bf83f02ce037698c0.sig.gz,7ee40bff9e5df93bf83f02ce037698c0,7ee40bff,31,DNA,0,1000,5137,True,"GCF_014878955.1 Escherichia coli strain=UoL_15, ASM1487895v1",/dev/fd/63
+signatures/fbdf7ff427a12f21a4893ed695bbd6e7.sig.gz,fbdf7ff427a12f21a4893ed695bbd6e7,fbdf7ff4,31,DNA,0,1000,4009,True,"GCF_002024825.1 Elizabethkingia anophelis strain=F3543, ASM202482v1",/dev/fd/63
+signatures/96dcd78f2c59fb2fef815967fdc04bc6.sig.gz,96dcd78f2c59fb2fef815967fdc04bc6,96dcd78f,31,DNA,0,1000,5082,True,"GCF_003058055.1 Acidovorax sp. 107 strain=107, ASM305805v1",/dev/fd/63
+signatures/99eb64f1274c9f6835210e530b82bb25.sig.gz,99eb64f1274c9f6835210e530b82bb25,99eb64f1,31,DNA,0,1000,1843,True,"GCA_018362815.1 Carnobacteriaceae bacterium zg-ZUI78 strain=zg-ZUI78, ASM1836281v1",/dev/fd/63
+signatures/919fd94feb931018f91291bbcf9b3651.sig.gz,919fd94feb931018f91291bbcf9b3651,919fd94f,31,DNA,0,1000,7376,True,"GCF_001692155.1 Agrobacterium sp. B131/95 strain=B131/95, ASM169215v1",/dev/fd/63
+signatures/2472b15aa713e66ca4d857705907aff3.sig.gz,2472b15aa713e66ca4d857705907aff3,2472b15a,31,DNA,0,1000,1352,True,"GCA_009885355.1 Candidatus Berkelbacteria bacterium, ASM988535v1",/dev/fd/63
+signatures/209e66f839bbb4ee77c48afb80248995.sig.gz,209e66f839bbb4ee77c48afb80248995,209e66f8,31,DNA,0,1000,5333,True,"GCF_009177025.1 Enterobacter hormaechei strain=AUH-ENM28, ASM917702v1",/dev/fd/63
+signatures/2249f9ec0de7596e928b44353a9b9f9b.sig.gz,2249f9ec0de7596e928b44353a9b9f9b,2249f9ec,31,DNA,0,1000,5737,True,"GCF_002574415.1 Bacillus cereus strain=AFS056025, ASM257441v1",/dev/fd/63
+signatures/38fc24e4d570221006b94839df6a20ee.sig.gz,38fc24e4d570221006b94839df6a20ee,38fc24e4,31,DNA,0,1000,3020,True,"GCA_017458655.1 Ruminiclostridium sp., ASM1745865v1",/dev/fd/63
+signatures/66c2c1e2c10872d77cf97c8303222119.sig.gz,66c2c1e2c10872d77cf97c8303222119,66c2c1e2,31,DNA,0,1000,6883,True,"GCF_016919365.1 Sphingobacterium siyangense strain=PDNC006, ASM1691936v1",/dev/fd/63
+signatures/efc1e047a7a5e34d96e3296f56ee9095.sig.gz,efc1e047a7a5e34d96e3296f56ee9095,efc1e047,31,DNA,0,1000,5323,True,"GCF_900115225.1 Cohaesibacter marisflavi strain=CGMCC 1.9157, IMG-taxon 2617270874 annotated assembly",/dev/fd/63
+signatures/4963c6ebff588fb94607b05a9d480c98.sig.gz,4963c6ebff588fb94607b05a9d480c98,4963c6eb,31,DNA,0,1000,2810,True,"GCA_902771325.1 uncultured Bacteroidales bacterium, Rumen uncultured genome RUG11658",/dev/fd/63
+signatures/dd3f726ef34909e286b134345252883c.sig.gz,dd3f726ef34909e286b134345252883c,dd3f726e,31,DNA,0,1000,2958,True,"GCF_900639365.1 Enterococcus faecium, E7171_hybrid_assembly",/dev/fd/63
+signatures/3953e9bd8999b061e3f1277db8082d70.sig.gz,3953e9bd8999b061e3f1277db8082d70,3953e9bd,31,DNA,0,1000,7811,True,"GCF_902832165.1 Burkholderia gladioli strain=BCC1800, ASM90283216v1",/dev/fd/63
+signatures/4f2e4896de78ee4795c871dab7f76436.sig.gz,4f2e4896de78ee4795c871dab7f76436,4f2e4896,31,DNA,0,1000,3755,True,"GCF_014046475.1 Bacillus velezensis strain=G26.1, ASM1404647v1",/dev/fd/63
+signatures/84db9aaf5e253dfc357a153cbb99e0b2.sig.gz,84db9aaf5e253dfc357a153cbb99e0b2,84db9aaf,31,DNA,0,1000,2552,True,"GCF_003459845.1 Coprobacillus sp. AF18-40 strain=AF18-40, ASM345984v1",/dev/fd/63
+signatures/d2832891835e59c6176add0134fe94fb.sig.gz,d2832891835e59c6176add0134fe94fb,d2832891,31,DNA,0,1000,2749,True,"GCF_003421425.1 Staphylococcus aureus strain=M6K032, ASM342142v1",/dev/fd/63
+signatures/cc61e4ace73413a65a3dca5d7b9c96c6.sig.gz,cc61e4ace73413a65a3dca5d7b9c96c6,cc61e4ac,31,DNA,0,1000,3963,True,"GCA_017303755.1 Flavobacteriales bacterium, ASM1730375v1",/dev/fd/63
+signatures/8f899d0b7fc8da3d86fb01db8e0cedd5.sig.gz,8f899d0b7fc8da3d86fb01db8e0cedd5,8f899d0b,31,DNA,0,1000,3655,True,"GCF_004102695.1 Chromohalobacter salexigens strain=ANJ 207, ASM410269v1",/dev/fd/63
+signatures/cf1b2ace2b1b394244c273e9930fbd65.sig.gz,cf1b2ace2b1b394244c273e9930fbd65,cf1b2ace,31,DNA,0,1000,3575,True,"GCA_903917735.1 uncultured Elusimicrobia bacterium, freshwater MAG --- AlinenLipids_bin-3311",/dev/fd/63
+signatures/f649cb0138c8662e0036a64371744ce6.sig.gz,f649cb0138c8662e0036a64371744ce6,f649cb01,31,DNA,0,1000,4922,True,"GCF_012271935.1 Salmonella enterica subsp. enterica serovar Infantis strain=inss16, ASM1227193v1",/dev/fd/63
+signatures/921e8a8c9d51e6b015c082f3c1df3651.sig.gz,921e8a8c9d51e6b015c082f3c1df3651,921e8a8c,31,DNA,0,1000,1919,True,"GCF_000761135.1 Lactobacillus sp. wkB8 strain=wkB8, ASM76113v1",/dev/fd/63
+signatures/ba01e3434edc6a2810c88fff7b6ca399.sig.gz,ba01e3434edc6a2810c88fff7b6ca399,ba01e343,31,DNA,0,1000,1682,True,"GCF_001506205.1 Campylobacter jejuni strain=CJ677CC002, ASM150620v1",/dev/fd/63
+signatures/91e172217131bbdb4e5a1e64a45eca55.sig.gz,91e172217131bbdb4e5a1e64a45eca55,91e17221,31,DNA,0,1000,2754,True,"GCA_015057665.1 Lachnospiraceae bacterium, ASM1505766v1",/dev/fd/63
+signatures/55529da76f4a9d3e92d1b1822bfafdfe.sig.gz,55529da76f4a9d3e92d1b1822bfafdfe,55529da7,31,DNA,0,1000,2034,True,"GCF_000334815.1 Streptococcus pneumoniae PNI0360 strain=PNI0360, ASM33481v1",/dev/fd/63
+signatures/acaee68b3b6aa7ae82a3244454c3f5f2.sig.gz,acaee68b3b6aa7ae82a3244454c3f5f2,acaee68b,31,DNA,0,1000,4929,True,"GCF_001218585.1 Salmonella enterica subsp. enterica serovar Typhimurium str. DT104 strain=H35, 5388_1#11",/dev/fd/63
+signatures/a500d238c1d4b006b18abfda6c815a03.sig.gz,a500d238c1d4b006b18abfda6c815a03,a500d238,31,DNA,0,1000,4999,True,"GCF_900481305.1 Escherichia coli strain=VRES0531, 17870_4#76",/dev/fd/63
+signatures/dd31e511cd91137186f80a4ecf5233e4.sig.gz,dd31e511cd91137186f80a4ecf5233e4,dd31e511,31,DNA,0,1000,1612,True,"GCA_905214275.1 uncultured bacterium, ERR1600659-mag-bin.13",/dev/fd/63
+signatures/bbb5e74b9263e4843605e68a9961b7dd.sig.gz,bbb5e74b9263e4843605e68a9961b7dd,bbb5e74b,31,DNA,0,1000,1196,True,"GCA_003702545.1 Nitrosopumilus sp., ASM370254v1",/dev/fd/63
+signatures/5327838e74e1f7d0c2810b1016f20532.sig.gz,5327838e74e1f7d0c2810b1016f20532,5327838e,31,DNA,0,1000,1936,True,"GCA_012270355.1 Psychrobacter sp., ASM1227035v1",/dev/fd/63
+signatures/2893b72571bff69665012220d32bfa4b.sig.gz,2893b72571bff69665012220d32bfa4b,2893b725,31,DNA,0,1000,3163,True,"GCA_011370345.1 Spirochaetales bacterium, ASM1137034v1",/dev/fd/63
+signatures/d92956994717849b3473afac51bf0c12.sig.gz,d92956994717849b3473afac51bf0c12,d9295699,31,DNA,0,1000,3970,True,"GCF_016907535.1 Microlunatus panaciterrae strain=DSM 18662, ASM1690753v1",/dev/fd/63
+signatures/65a3b1cdce679d00d6405dd7662f1c6d.sig.gz,65a3b1cdce679d00d6405dd7662f1c6d,65a3b1cd,31,DNA,0,1000,6425,True,"GCF_004054065.1 Pseudomonas aeruginosa strain=Pae21, ASM405406v1",/dev/fd/63
+signatures/ae5878cced076576c40983592f04640d.sig.gz,ae5878cced076576c40983592f04640d,ae5878cc,31,DNA,0,1000,5540,True,"GCF_017638945.1 Klebsiella variicola strain=F2R9, ASM1763894v1",/dev/fd/63
+signatures/c793b2624ef7156767dd329d82c9d7dc.sig.gz,c793b2624ef7156767dd329d82c9d7dc,c793b262,31,DNA,0,1000,5582,True,"GCA_003434445.1 Parabacteroides sp. AM18-12LB strain=AM18-12LB, ASM343444v1",/dev/fd/63
+signatures/8a861863fe4ee42cffd5fd48c4b089e6.sig.gz,8a861863fe4ee42cffd5fd48c4b089e6,8a861863,31,DNA,0,1000,5053,True,"GCF_900042795.1 Escherichia coli, F1L3",/dev/fd/63
+signatures/c508ea835f568130a850f4e65b39d6c4.sig.gz,c508ea835f568130a850f4e65b39d6c4,c508ea83,31,DNA,0,1000,2723,True,"GCA_009873335.1 Staphylococcus aureus strain=6538P, ASM987333v1",/dev/fd/63
+signatures/9d15f9fa96e080b09a1717b1e3abd4ee.sig.gz,9d15f9fa96e080b09a1717b1e3abd4ee,9d15f9fa,31,DNA,0,1000,5426,True,"GCF_900011745.1 Bacillus anthracis, ANSES_94",/dev/fd/63
+signatures/4daa845035f190f600475c3034588b63.sig.gz,4daa845035f190f600475c3034588b63,4daa8450,31,DNA,0,1000,5359,True,"GCF_003933735.1 Aquabacterium sp. SJQ9 strain=SJQ9, ASM393373v1",/dev/fd/63
+signatures/35bc67cab71a38491338fe40e02639d5.sig.gz,35bc67cab71a38491338fe40e02639d5,35bc67ca,31,DNA,0,1000,2861,True,"GCF_001229525.1 Staphylococcus aureus strain=07-03351, 4351_6#11",/dev/fd/63
+signatures/b14a5c76b13fdc1bab066a428b15dd7d.sig.gz,b14a5c76b13fdc1bab066a428b15dd7d,b14a5c76,31,DNA,0,1000,1105,True,"GCF_900149365.1 Chlamydia suis, 3-29b",/dev/fd/63
+signatures/1d39469a1bfd092188d5d794dd77c751.sig.gz,1d39469a1bfd092188d5d794dd77c751,1d39469a,31,DNA,0,1000,5930,True,"GCF_000161415.1 Bacillus pseudomycoides strain=Rock1-4, ASM16141v1",/dev/fd/63
+signatures/6a29b7676516a679ce1f45b53400c1f5.sig.gz,6a29b7676516a679ce1f45b53400c1f5,6a29b767,31,DNA,0,1000,5234,True,"GCF_001306845.1 Vibrio alginolyticus strain=UCD-53C, ASM130684v1",/dev/fd/63
+signatures/a4d19efa38b331e6a5f04a7ab1e2329a.sig.gz,a4d19efa38b331e6a5f04a7ab1e2329a,a4d19efa,31,DNA,0,1000,4775,True,"GCA_900557755.1 Enterobacter hormaechei strain=2485STDY5438400, 9776_7#15",/dev/fd/63
+signatures/90cb3ce0df9787e2a32163ddc51dc124.sig.gz,90cb3ce0df9787e2a32163ddc51dc124,90cb3ce0,31,DNA,0,1000,2455,True,"GCA_001298115.1 Staphylococcus epidermidis strain=ST14, ASM129811v1",/dev/fd/63
+signatures/637ccff2f2a7f8bfaa4168d040ff6403.sig.gz,637ccff2f2a7f8bfaa4168d040ff6403,637ccff2,31,DNA,0,1000,4294,True,"GCF_001445315.1 Mycobacterium tuberculosis strain=H_13559, ASM144531v1",/dev/fd/63
+signatures/bd084c41f9360543f9c9b6e0d096e851.sig.gz,bd084c41f9360543f9c9b6e0d096e851,bd084c41,31,DNA,0,1000,4916,True,"GCF_002242565.1 Salmonella enterica subsp. enterica serovar Enteritidis str. SHSE003 strain=SHSE003, ASM224256v1",/dev/fd/63
+signatures/719da67450b85f37fc2924edfbe26ad4.sig.gz,719da67450b85f37fc2924edfbe26ad4,719da674,31,DNA,0,1000,4321,True,"GCF_000656435.1 Mycobacterium tuberculosis UT0006 strain=UT0006, Myco_tube_UT0006_V1",/dev/fd/63
+signatures/1d000e64219c3221cd01a6e90b5a8e78.sig.gz,1d000e64219c3221cd01a6e90b5a8e78,1d000e64,31,DNA,0,1000,4725,True,"GCF_001620665.1 Salmonella enterica subsp. enterica serovar Tennessee strain=MOD1_SALC_26, ASM162066v1",/dev/fd/63
+signatures/c105d9c1892fa3e1a1b8a41a8d5b1900.sig.gz,c105d9c1892fa3e1a1b8a41a8d5b1900,c105d9c1,31,DNA,0,1000,2076,True,"GCF_000290175.1 Streptococcus agalactiae GB00543 strain=GB00543, ASM29017v1",/dev/fd/63
+signatures/619b0b42d3972d622b1fb9bf8ce63503.sig.gz,619b0b42d3972d622b1fb9bf8ce63503,619b0b42,31,DNA,0,1000,2280,True,"GCA_003645395.1 Gammaproteobacteria bacterium, ASM364539v1",/dev/fd/63
+signatures/83f920731d96ff6ae8a7941ce853872d.sig.gz,83f920731d96ff6ae8a7941ce853872d,83f92073,31,DNA,0,1000,1197,True,"GCA_902640665.1 uncultured Wolbachia sp., WOLB0412",/dev/fd/63
+signatures/0df0a6e5a6ae60395132870669a0c4f2.sig.gz,0df0a6e5a6ae60395132870669a0c4f2,0df0a6e5,31,DNA,0,1000,4482,True,"GCA_001768485.1 Bacteroidetes bacterium GWE2_41_25, ASM176848v1",/dev/fd/63
+signatures/3d95fe48a647f887f1dacb30fd810318.sig.gz,3d95fe48a647f887f1dacb30fd810318,3d95fe48,31,DNA,0,1000,1069,True,"GCA_017551465.1 Bacilli bacterium, ASM1755146v1",/dev/fd/63
+signatures/214429bf897aa6d2498678b37353c7e4.sig.gz,214429bf897aa6d2498678b37353c7e4,214429bf,31,DNA,0,1000,6517,True,"GCF_002933455.1 Nocardia cyriacigeorgica strain=MDA3732, ASM293345v1",/dev/fd/63
+signatures/2b216f97bcc9c9dc8e2451a36e8c6666.sig.gz,2b216f97bcc9c9dc8e2451a36e8c6666,2b216f97,31,DNA,0,1000,2907,True,"GCA_902769075.1 uncultured Bacteroidales bacterium, Rumen uncultured genome RUG11442",/dev/fd/63
+signatures/52c78d582f6fe1631f7988db40b96612.sig.gz,52c78d582f6fe1631f7988db40b96612,52c78d58,31,DNA,0,1000,3872,True,"GCA_014378415.1 Massilia sp., ASM1437841v1",/dev/fd/63
+signatures/c9dfc7ffb2625ed4452f6492ba715ba7.sig.gz,c9dfc7ffb2625ed4452f6492ba715ba7,c9dfc7ff,31,DNA,0,1000,4601,True,"GCA_016712165.1 Nitrospira sp., ASM1671216v1",/dev/fd/63
+signatures/c0327ab4e8c96137f360a67f61029a20.sig.gz,c0327ab4e8c96137f360a67f61029a20,c0327ab4,31,DNA,0,1000,4659,True,"GCF_014220265.1 Chryseobacterium indologenes strain=CI2, ASM1422026v1",/dev/fd/63
+signatures/8cb49c2f39300da73d0aa7a053d4d183.sig.gz,8cb49c2f39300da73d0aa7a053d4d183,8cb49c2f,31,DNA,0,1000,1728,True,"GCF_000636055.1 Haemophilus influenzae strain=411, NTHi411v1",/dev/fd/63
+signatures/9ce278865ed5297fae8aa222773707e9.sig.gz,9ce278865ed5297fae8aa222773707e9,9ce27886,31,DNA,0,1000,3842,True,"GCF_013111915.1 Vibrio cholerae strain=M1, ASM1311191v1",/dev/fd/63
+signatures/7fd3d37a331dab2915d4e02f80074b1d.sig.gz_0,7fd3d37a331dab2915d4e02f80074b1d,7fd3d37a,31,DNA,0,1000,6365,True,"GCF_002116905.1 Rhizobacter gummiphilus strain=NS21, ASM211690v1",/dev/fd/63
+signatures/a91eb09882daf0e7654023a9f0833591.sig.gz,a91eb09882daf0e7654023a9f0833591,a91eb098,31,DNA,0,1000,3147,True,"GCF_012370815.1 Acinetobacter indicus strain=AI35, ASM1237081v1",/dev/fd/63
+signatures/66cede36faab593ad86e75445951cdfa.sig.gz,66cede36faab593ad86e75445951cdfa,66cede36,31,DNA,0,1000,1448,True,"GCA_902626585.1 uncultured Bacteroidetes bacterium, AH-321-D14",/dev/fd/63
+signatures/305a459d4caf222836cbd007ece54385.sig.gz,305a459d4caf222836cbd007ece54385,305a459d,31,DNA,0,1000,469,True,"GCA_001786095.1 Candidatus Nomurabacteria bacterium RIFCSPLOWO2_02_FULL_42_17, ASM178609v1",/dev/fd/63
+signatures/6468ee177f05d0c79d1d37fd798da806.sig.gz,6468ee177f05d0c79d1d37fd798da806,6468ee17,31,DNA,0,1000,4329,True,"GCF_900487135.1 Shigella flexneri strain=4028STDY6275039, 18787_5#30",/dev/fd/63
+signatures/7bd9f1e4d48e753e74ef72c3a016d5d5.sig.gz,7bd9f1e4d48e753e74ef72c3a016d5d5,7bd9f1e4,31,DNA,0,1000,6986,True,"GCF_900598615.1 Burkholderia pseudomallei strain=C-320-05-2-05, 10208_8#45",/dev/fd/63
+signatures/a7a690ad54f27e6d6631f92a9d6d4dda.sig.gz,a7a690ad54f27e6d6631f92a9d6d4dda,a7a690ad,31,DNA,0,1000,5920,True,"GCF_003413175.1 Pseudomonas savastanoi pv. phaseolicola strain=511, ASM341317v1",/dev/fd/63
+signatures/f5ed05b954f95aaee8139428738d54c6.sig.gz,f5ed05b954f95aaee8139428738d54c6,f5ed05b9,31,DNA,0,1000,5080,True,"GCF_002531395.1 Escherichia coli strain=OLC1330, ASM253139v1",/dev/fd/63
+signatures/20cb40cb8b24fd0b26c5916135e2d5a9.sig.gz,20cb40cb8b24fd0b26c5916135e2d5a9,20cb40cb,31,DNA,0,1000,5428,True,"GCF_009729775.1 Escherichia coli strain=IBS12, ASM972977v1",/dev/fd/63
+signatures/6c61a83fc2e47eb53a55c1766ce624a4.sig.gz,6c61a83fc2e47eb53a55c1766ce624a4,6c61a83f,31,DNA,0,1000,1806,True,"GCA_007118075.1 Halobacteriales archaeon, ASM711807v1",/dev/fd/63
+signatures/cd086f6607e63743d378f443112890d8.sig.gz,cd086f6607e63743d378f443112890d8,cd086f66,31,DNA,0,1000,2051,True,"GCA_000143435.1 Lactobacillus salivarius CECT 5713 strain=CECT 5713, ASM14343v1",/dev/fd/63
+signatures/cc39b4c26c13a14c85a6183bd863c9d4.sig.gz,cc39b4c26c13a14c85a6183bd863c9d4,cc39b4c2,31,DNA,0,1000,1232,True,"GCA_016291895.1 Bacillales bacterium, ASM1629189v1",/dev/fd/63
+signatures/32911f1ce4372fd6e5a47a7e67a5c3c5.sig.gz,32911f1ce4372fd6e5a47a7e67a5c3c5,32911f1c,31,DNA,0,1000,732,True,"GCA_001577135.1 Cloacimonetes bacterium TCS60, ASM157713v1",/dev/fd/63
+signatures/afe9208af25b9de90cb21b78d96a233f.sig.gz,afe9208af25b9de90cb21b78d96a233f,afe9208a,31,DNA,0,1000,2798,True,"GCF_002125315.1 Staphylococcus aureus strain=CFSA078, ASM212531v1",/dev/fd/63
+signatures/94f455317b53e9851cb590a814de3c5d.sig.gz,94f455317b53e9851cb590a814de3c5d,94f45531,31,DNA,0,1000,1702,True,"GCF_018727265.1 Campylobacter coli strain=2019/0773, ASM1872726v1",/dev/fd/63
+signatures/fdccaba4b25468e2515ca0a63ada0d9b.sig.gz,fdccaba4b25468e2515ca0a63ada0d9b,fdccaba4,31,DNA,0,1000,2863,True,"GCA_902763715.1 uncultured Bacteroidales bacterium, Rumen uncultured genome RUG10895",/dev/fd/63
+signatures/3e6bb98d2c264d71a37fb92299c4386a.sig.gz,3e6bb98d2c264d71a37fb92299c4386a,3e6bb98d,31,DNA,0,1000,3258,True,"GCA_904376915.1 uncultured Lachnospiraceae bacterium, Chicken_15_mag_111",/dev/fd/63
+signatures/8cb4d9510ab8e94c7d6e758d9f7f81c0.sig.gz,8cb4d9510ab8e94c7d6e758d9f7f81c0,8cb4d951,31,DNA,0,1000,3546,True,"GCA_016711085.1 Phyllobacteriaceae bacterium, ASM1671108v1",/dev/fd/63
+signatures/4311240f76291c8bef299f99ee7b5609.sig.gz,4311240f76291c8bef299f99ee7b5609,4311240f,31,DNA,0,1000,4675,True,"GCF_016102675.1 Yersinia pestis subsp. pestis strain=378, ASM1610267v1",/dev/fd/63
+signatures/5b7cf01c21b832853185e57ee509aaa9.sig.gz_0,5b7cf01c21b832853185e57ee509aaa9,5b7cf01c,31,DNA,0,1000,2683,True,"GCF_004328335.1 Staphylococcus aureus strain=SCPM-O-B-8473, ASM432833v1",/dev/fd/63
+signatures/bbb2a590567825e6ca09b86613204a8d.sig.gz,bbb2a590567825e6ca09b86613204a8d,bbb2a590,31,DNA,0,1000,2444,True,"GCA_002399035.1 Proteiniphilum sp. UBA4892, ASM239903v1",/dev/fd/63
+signatures/f3a0b49208743dd272901b58c2828dab.sig.gz,f3a0b49208743dd272901b58c2828dab,f3a0b492,31,DNA,0,1000,3845,True,"GCF_000580995.1 Acinetobacter baumannii 466760 strain=466760, ASM58099v1",/dev/fd/63
+signatures/8b43556a90ade0e39ec3b17fc831c4ff.sig.gz,8b43556a90ade0e39ec3b17fc831c4ff,8b43556a,31,DNA,0,1000,4231,True,"GCA_002320825.1 Pseudomonadaceae bacterium UBA1659, ASM232082v1",/dev/fd/63
+signatures/8759b6e917cb40e75f8a11f215598958.sig.gz,8759b6e917cb40e75f8a11f215598958,8759b6e9,31,DNA,0,1000,6517,True,"GCF_000790865.1 Pseudomonas aeruginosa strain=AZPAE14891, AZPAE14891",/dev/fd/63
+signatures/99094a844517ad9320b1240d54ab061a.sig.gz,99094a844517ad9320b1240d54ab061a,99094a84,31,DNA,0,1000,3659,True,"GCF_000253115.1 Thiomonas arsenitoxydans strain=3As, ASM25311v1",/dev/fd/63
+signatures/4125526cc4c44f9db0f692f82015acdc.sig.gz,4125526cc4c44f9db0f692f82015acdc,4125526c,31,DNA,0,1000,2701,True,"GCA_902785155.1 uncultured Lachnospiraceae bacterium, Rumen uncultured genome RUG13042",/dev/fd/63
+signatures/c1e16c8b4cbbdc4193beb11361d9bf55.sig.gz,c1e16c8b4cbbdc4193beb11361d9bf55,c1e16c8b,31,DNA,0,1000,5335,True,"GCF_014863215.1 Escherichia coli strain=197C10, ASM1486321v1",/dev/fd/63
+signatures/0467fdc43775ad22bc2fd7ed3b1f8193.sig.gz,0467fdc43775ad22bc2fd7ed3b1f8193,0467fdc4,31,DNA,0,1000,2068,True,"GCF_000311165.1 Streptococcus agalactiae CCUG 91 strain=CCUG 91, ASM31116v1",/dev/fd/63
+signatures/3f5c44cba5499e8638992c659741d490.sig.gz,3f5c44cba5499e8638992c659741d490,3f5c44cb,31,DNA,0,1000,5359,True,"GCF_902500165.1 Escherichia coli, BB1443_assembly_illumina",/dev/fd/63
+signatures/bb33a13f94c63630604168a13c722378.sig.gz,bb33a13f94c63630604168a13c722378,bb33a13f,31,DNA,0,1000,6902,True,"GCF_900597555.1 Burkholderia pseudomallei strain=B-296-02-1-10, 10156_8#58",/dev/fd/63
+signatures/3ad94c13da9ef217b79c5130d7a14830.sig.gz,3ad94c13da9ef217b79c5130d7a14830,3ad94c13,31,DNA,0,1000,1362,True,"GCA_903838725.1 uncultured actinobacterium, freshwater MAG --- MJ120620A_bin-340",/dev/fd/63
+signatures/7e491592387baca610b4192d2aadaf5d.sig.gz,7e491592387baca610b4192d2aadaf5d,7e491592,31,DNA,0,1000,10176,True,"GCF_001279775.1 Streptomyces sp. MMG1533 strain=MMG1533, ASM127977v1",/dev/fd/63
+signatures/32388e8c18cfd0dc6c7427b8927d0657.sig.gz,32388e8c18cfd0dc6c7427b8927d0657,32388e8c,31,DNA,0,1000,5911,True,"GCF_013317795.1 Agrobacterium tumefaciens strain=LMG 267, ASM1331779v1",/dev/fd/63
+signatures/d70115659df0b250701f9886cead6189.sig.gz,d70115659df0b250701f9886cead6189,d7011565,31,DNA,0,1000,1842,True,"GCA_017993575.1 Anaerolineaceae bacterium, ASM1799357v1",/dev/fd/63
+signatures/618e487efceaee70aacc370f0eecfef7.sig.gz,618e487efceaee70aacc370f0eecfef7,618e487e,31,DNA,0,1000,4816,True,"GCF_000531455.1 Xenorhabdus szentirmaii DSM 16338 strain=DSM 16338, XENSZ_2115_PRJEB4925",/dev/fd/63
+signatures/56737a1129595b150961e7b71ef3a73c.sig.gz,56737a1129595b150961e7b71ef3a73c,56737a11,31,DNA,0,1000,4953,True,"GCF_000782515.1 Escherichia coli strain=blood-08-1462, ASM78251v1",/dev/fd/63
+signatures/31818fdc333f971052dd80d7be3a1d1d.sig.gz,31818fdc333f971052dd80d7be3a1d1d,31818fdc,31,DNA,0,1000,4402,True,"GCF_001252415.1 Shigella sonnei strain=H112960373, 12971_8#47",/dev/fd/63
+signatures/3edff5ba4cd8532d63abafc0a5d0cc66.sig.gz,3edff5ba4cd8532d63abafc0a5d0cc66,3edff5ba,31,DNA,0,1000,1900,True,"GCA_902797435.1 uncultured Bacteroidia bacterium, Rumen uncultured genome RUG14270",/dev/fd/63
+signatures/e73808995bcb1a40b401b0b738ef6e17.sig.gz,e73808995bcb1a40b401b0b738ef6e17,e7380899,31,DNA,0,1000,1781,True,"GCF_000835345.1 Campylobacter jejuni subsp. jejuni strain=01-1512, ASM83534v1",/dev/fd/63
+signatures/87531c0f7601211f9d18cc520efcf607.sig.gz,87531c0f7601211f9d18cc520efcf607,87531c0f,31,DNA,0,1000,4100,True,"GCF_004209295.1 Acinetobacter pittii strain=WCHAP100022, ASM420929v1",/dev/fd/63
+signatures/2a25567d64eaa7442fbf0b4e48421516.sig.gz,2a25567d64eaa7442fbf0b4e48421516,2a25567d,31,DNA,0,1000,4845,True,"GCF_900137035.1 Mycobacteroides abscessus subsp. abscessus strain=833, 11861_7#93",/dev/fd/63
+signatures/fe4a85d8797814b64e6d1bb38cfff857.sig.gz,fe4a85d8797814b64e6d1bb38cfff857,fe4a85d8,31,DNA,0,1000,4037,True,"GCF_018278845.1 Bacillus velezensis strain=JK19, ASM1827884v1",/dev/fd/63
+signatures/288a0406d7d58bc713353620b443c8ab.sig.gz,288a0406d7d58bc713353620b443c8ab,288a0406,31,DNA,0,1000,2098,True,"GCA_012840725.1 Firmicutes bacterium, ASM1284072v1",/dev/fd/63
+signatures/0352ff366752af6dc3bbd757c19f91c1.sig.gz,0352ff366752af6dc3bbd757c19f91c1,0352ff36,31,DNA,0,1000,2220,True,"GCF_007713825.1 Corynebacterium sanguinis strain=56948, ASM771382v1",/dev/fd/63
+signatures/a7fba2a8aabd07ee6a77578dad40ed35.sig.gz,a7fba2a8aabd07ee6a77578dad40ed35,a7fba2a8,31,DNA,0,1000,4935,True,"GCF_000779495.1 Escherichia coli strain=blood-11-0041, ASM77949v1",/dev/fd/63
+signatures/5fbde63e516f662dca69949b92506d7d.sig.gz,5fbde63e516f662dca69949b92506d7d,5fbde63e,31,DNA,0,1000,4819,True,"GCF_008631735.1 Pantoea sp. FN_2b strain=FN_2b, ASM863173v1",/dev/fd/63
+signatures/b612a65a3cf3daaf3f84453878e28a24.sig.gz,b612a65a3cf3daaf3f84453878e28a24,b612a65a,31,DNA,0,1000,2420,True,"GCA_016649855.1 Actinobacteria bacterium, ASM1664985v1",/dev/fd/63
+signatures/1d8d9adc46fae8668a7bc7703fb16067.sig.gz,1d8d9adc46fae8668a7bc7703fb16067,1d8d9adc,31,DNA,0,1000,4153,True,"GCF_002592025.1 Bacillus halotolerans strain=RSCu-8D, ASM259202v1",/dev/fd/63
+signatures/b1ac40556b73fd6b4e39538151d1e53c.sig.gz,b1ac40556b73fd6b4e39538151d1e53c,b1ac4055,31,DNA,0,1000,1290,True,"GCA_903932655.1 uncultured Methylophilaceae bacterium, freshwater MAG --- A-1_bin-433",/dev/fd/63
