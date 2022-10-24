@@ -8,6 +8,7 @@ def main():
     p = argparse.ArgumentParser()
     p.add_argument('filesize_output')
     p.add_argument('catalog')
+    p.add_argument('-o', '--output', help="save filtered catalog")
     args = p.parse_args()
 
     metagenomes = set()
@@ -44,6 +45,16 @@ def main():
     sizes.sort()
     median = sizes[len(sizes) // 2]
     print(f"median file size: {median}")
+
+    if args.output:
+        with open(args.output, 'wt') as outfp:
+            with open(args.catalog, 'rt') as fp:
+                for line in fp:
+                    acc = os.path.basename(line.strip())
+                    acc = os.path.splitext(acc)[0]
+
+                    outfp.write(f"{acc_sizes[acc]} {line}")
+        print(f"rewrote filtered catalog to {args.output}")
 
 
 if __name__ == '__main__':
