@@ -7,6 +7,7 @@ rule all:
         "outputs/output_a_vs_largest_10k.csv",
         expand("benchmarks/a_{n}_vs_a.txt", n=range(100, 1000, 100)),
         expand("benchmarks/a_vs_a_{n}.txt", n=range(1000, 10000, 1000)),
+        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16])
 
 rule a_vs_a:
     input:
@@ -130,6 +131,57 @@ rule a_vs_largest:
     benchmark:
         "benchmarks/a_vs_largest_10k.txt"
     threads: 32
+    shell: """
+        export RAYON_NUM_THREADS={threads}
+        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against}
+    """
+
+rule a_vs_a_sub_t4:
+    input:
+        bin=sra_search_bin,
+        queries="data/gtdb-list-a.sigs.txt",
+        against="data/wort-list-a-{n}.txt",
+    output:
+        csv="outputs/output_a_vs_a_{n}_t4.csv",
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t4.txt"
+    threads: 4
+    shell: """
+        export RAYON_NUM_THREADS={threads}
+        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against}
+    """
+
+
+rule a_vs_a_sub_t8:
+    input:
+        bin=sra_search_bin,
+        queries="data/gtdb-list-a.sigs.txt",
+        against="data/wort-list-a-{n}.txt",
+    output:
+        csv="outputs/output_a_vs_a_{n}_t8.csv",
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t8.txt"
+    threads: 4
+    shell: """
+        export RAYON_NUM_THREADS={threads}
+        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against}
+    """
+
+
+
+rule a_vs_a_sub_t16:
+    input:
+        bin=sra_search_bin,
+        queries="data/gtdb-list-a.sigs.txt",
+        against="data/wort-list-a-{n}.txt",
+    output:
+        csv="outputs/output_a_vs_a_{n}_t16.csv",
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t16.txt"
+    threads: 4
     shell: """
         export RAYON_NUM_THREADS={threads}
         {input.bin} -k 31 --scaled=1000 -o {output.csv} \

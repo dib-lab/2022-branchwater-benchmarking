@@ -45,6 +45,11 @@ def main():
     sizes.sort()
     median = sizes[len(sizes) // 2]
     print(f"median file size: {median}")
+    total = sum(sizes)
+    print(f"total file size: {total}")
+
+    total_10k = sum(sizes[-10000:])
+    print(f"10k biggest sum to: {total_10k}")
 
     if args.output:
         with open(args.output, 'wt') as outfp:
