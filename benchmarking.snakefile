@@ -163,7 +163,7 @@ rule a_vs_a_sub_t8:
         csv="outputs/output_a_vs_a_{n}_t8.csv",
     benchmark:
         "benchmarks/a_vs_a_{n}_t8.txt"
-    threads: 4
+    threads: 8
     shell: """
         export RAYON_NUM_THREADS={threads}
         {input.bin} -k 31 --scaled=1000 -o {output.csv} \
@@ -181,10 +181,9 @@ rule a_vs_a_sub_t16:
         csv="outputs/output_a_vs_a_{n}_t16.csv",
     benchmark:
         "benchmarks/a_vs_a_{n}_t16.txt"
-    threads: 4
+    threads: 16
     shell: """
         export RAYON_NUM_THREADS={threads}
         {input.bin} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
-
