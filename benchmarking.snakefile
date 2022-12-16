@@ -7,7 +7,8 @@ rule all:
         "outputs/output_a_vs_largest_10k.csv",
         expand("benchmarks/a_{n}_vs_a.txt", n=range(100, 1000, 100)),
         expand("benchmarks/a_vs_a_{n}.txt", n=range(1000, 10000, 1000)),
-        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16])
+        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
+        expand("benchmarks/a_vs_catalog.txt"),
 
 rule a_vs_a:
     input:
@@ -186,4 +187,21 @@ rule a_vs_a_sub_t16:
         export RAYON_NUM_THREADS={threads}
         {input.bin} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
+    """
+
+
+rule a_vs_catalog:
+    input:
+        bin=sra_search_bin,
+        queries="data/gtdb-list-a.sigs.txt",
+        against="data/metagenomes-catalog.txt",
+    output:
+        csv="outputs/output_a_vs_catalog.csv",
+    benchmark:
+        "benchmarks/a_vs_catalog.txt"
+    threads: 32
+    shell: """
+        export RAYON_NUM_THREADS={threads}
+        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against} || true
     """
