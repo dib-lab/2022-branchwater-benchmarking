@@ -190,6 +190,23 @@ rule a_vs_a_sub_t16:
     """
 
 
+rule a_vs_a_sub_t64:
+    input:
+        bin=sra_search_bin,
+        queries="data/gtdb-list-a.sigs.txt",
+        against="data/wort-list-a-{n}.txt",
+    output:
+        csv="outputs/output_a_vs_a_{n}_t64.csv",
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t64.txt"
+    threads: 64
+    shell: """
+        export RAYON_NUM_THREADS={threads}
+        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against}
+    """
+
+
 rule a_vs_catalog:
     input:
         bin=sra_search_bin,
