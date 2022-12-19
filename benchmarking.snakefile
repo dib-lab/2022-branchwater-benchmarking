@@ -138,70 +138,18 @@ rule a_vs_largest:
             {input.queries} {input.against}
     """
 
-rule a_vs_a_sub_t4:
+rule a_vs_a_sub_threads:
     input:
         bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-a-{n}.txt",
     output:
-        csv="outputs/output_a_vs_a_{n}_t4.csv",
+        csv="outputs/output_a_vs_a_{n}_t{thr}.csv",
     benchmark:
-        "benchmarks/a_vs_a_{n}_t4.txt"
-    threads: 4
-    shell: """
-        export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
-    """
-
-
-rule a_vs_a_sub_t8:
-    input:
-        bin=sra_search_bin,
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a-{n}.txt",
-    output:
-        csv="outputs/output_a_vs_a_{n}_t8.csv",
-    benchmark:
-        "benchmarks/a_vs_a_{n}_t8.txt"
-    threads: 8
-    shell: """
-        export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
-    """
-
-
-
-rule a_vs_a_sub_t16:
-    input:
-        bin=sra_search_bin,
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a-{n}.txt",
-    output:
-        csv="outputs/output_a_vs_a_{n}_t16.csv",
-    benchmark:
-        "benchmarks/a_vs_a_{n}_t16.txt"
-    threads: 16
-    shell: """
-        export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
-    """
-
-
-rule a_vs_a_sub_t64:
-    input:
-        bin=sra_search_bin,
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a-{n}.txt",
-    output:
-        csv="outputs/output_a_vs_a_{n}_t64.csv",
-    benchmark:
-        "benchmarks/a_vs_a_{n}_t64.txt"
+        "benchmarks/a_vs_a_{n}_t{thr}.txt"
     threads: 64
     shell: """
-        export RAYON_NUM_THREADS={threads}
+        export RAYON_NUM_THREADS={wildcards.thr}
         {input.bin} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
