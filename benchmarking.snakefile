@@ -1,4 +1,5 @@
-sra_search_bin="/home/ctbrown/scratch/magsearch/bin/searcher"
+#sra_search_bin="/home/ctbrown/scratch/magsearch/bin/searcher"
+manysearch_cmd = "sourmash scripts manysearch"
 
 rule all:
     input:
@@ -10,9 +11,13 @@ rule all:
         expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
         expand("benchmarks/a_vs_catalog.txt"),
 
+rule threads:
+    input:
+        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
+    
+
 rule a_vs_a:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-a.txt",
     output:
@@ -22,13 +27,12 @@ rule a_vs_a:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_sub_vs_a:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a-{n}.sigs.txt",
         against="data/wort-list-a.txt",
     output:
@@ -38,13 +42,12 @@ rule a_sub_vs_a:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_a_sub:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-a-{n}.txt",
     output:
@@ -54,13 +57,12 @@ rule a_vs_a_sub:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_b:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-b.txt",
     output:
@@ -70,13 +72,12 @@ rule a_vs_b:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_c:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-c.txt",
     output:
@@ -86,13 +87,12 @@ rule a_vs_c:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_d:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-d.txt",
     output:
@@ -102,13 +102,12 @@ rule a_vs_d:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_e:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-e.txt",
     output:
@@ -118,13 +117,12 @@ rule a_vs_e:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_largest:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-largest-10k.txt",
     output:
@@ -134,30 +132,28 @@ rule a_vs_largest:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 rule a_vs_a_sub_threads:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/wort-list-a-{n}.txt",
     output:
         csv="outputs/output_a_vs_a_{n}_t{thr}.csv",
     benchmark:
         "benchmarks/a_vs_a_{n}_t{thr}.txt"
-    threads: 64
+    threads: 64                 # max out threads so nothing else running
     shell: """
         export RAYON_NUM_THREADS={wildcards.thr}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against}
     """
 
 
 rule a_vs_catalog:
     input:
-        bin=sra_search_bin,
         queries="data/gtdb-list-a.sigs.txt",
         against="data/metagenomes-catalog.txt",
     output:
@@ -167,6 +163,6 @@ rule a_vs_catalog:
     threads: 32
     shell: """
         export RAYON_NUM_THREADS={threads}
-        {input.bin} -k 31 --scaled=1000 -o {output.csv} \
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against} || true
     """
