@@ -1,11 +1,19 @@
+# Benchmarks for branchwater paper
+
+This repo contains the benchmarking code for
+
+[Sourmash Branchwater Enables Lightweight Petabyte-Scale Sequence Search](https://dib-lab.github.io/2022-paper-branchwater-software/) ([github repo](https://github.com/dib-lab/2022-paper-branchwater-software/)), Irber et al., 2022.
+
+[doi: 10.1101/2022.11.02.514947](https://www.biorxiv.org/content/10.1101/2022.11.02.514947v1.full)
+
 ## Running
 
+Allocate 64 threads and 64 GB:
 ```!
 srun -p high2 --time=72:00:00 --nodes=1 --cpus-per-task 64 --mem 64GB --pty bash
 ```
 
-then
-
+then run the snakemake workflow:
 ```
 snakemake -j 64 -s benchmarking.snakefile --resources only_one_job=1
 ```
