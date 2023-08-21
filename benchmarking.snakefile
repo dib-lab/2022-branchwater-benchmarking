@@ -22,6 +22,8 @@ rule a_vs_a:
         against="data/wort-list-a.txt",
     output:
         csv="outputs/output_a_vs_a.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a.txt"
     threads: 32
@@ -37,6 +39,8 @@ rule a_sub_vs_a:
         against="data/wort-list-a.txt",
     output:
         csv="outputs/output_a_{n}_vs_a.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_{n}_vs_a.txt"
     threads: 32
@@ -52,6 +56,8 @@ rule a_vs_a_sub:
         against="data/wort-list-a-{n}.txt",
     output:
         csv="outputs/output_a_vs_a_{n}.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a_{n}.txt"
     threads: 32
@@ -67,6 +73,8 @@ rule a_vs_b:
         against="data/wort-list-b.txt",
     output:
         csv="outputs/output_a_vs_b.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_b.txt"
     threads: 32
@@ -82,6 +90,8 @@ rule a_vs_c:
         against="data/wort-list-c.txt",
     output:
         csv="outputs/output_a_vs_c.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_c.txt"
     threads: 32
@@ -97,6 +107,8 @@ rule a_vs_d:
         against="data/wort-list-d.txt",
     output:
         csv="outputs/output_a_vs_d.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_d.txt"
     threads: 32
@@ -112,6 +124,8 @@ rule a_vs_e:
         against="data/wort-list-e.txt",
     output:
         csv="outputs/output_a_vs_e.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_e.txt"
     threads: 32
@@ -127,6 +141,8 @@ rule a_vs_largest:
         against="data/wort-largest-10k.txt",
     output:
         csv="outputs/output_a_vs_largest_10k.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_largest_10k.txt"
     threads: 32
@@ -142,6 +158,8 @@ rule a_vs_a_sub_threads:
         against="data/wort-list-a-{n}.txt",
     output:
         csv="outputs/output_a_vs_a_{n}_t{thr}.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a_{n}_t{thr}.txt"
     threads: 64                 # max out threads so nothing else running
@@ -158,6 +176,8 @@ rule a_vs_catalog:
         against="data/metagenomes-catalog.txt",
     output:
         csv="outputs/output_a_vs_catalog.csv",
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_catalog.txt"
     threads: 32
