@@ -10,7 +10,7 @@ This repo contains the benchmarking code for
 
 Allocate 64 threads and 64 GB:
 ```!
-srun -p high2 --time=72:00:00 --nodes=1 --cpus-per-task 64 --mem 64GB --pty bash
+srun -p high2 --time=72:00:00 --nodes=1 --cpus-per-task 64 --mem 80GB --pty bash
 ```
 
 then run the snakemake workflow:
