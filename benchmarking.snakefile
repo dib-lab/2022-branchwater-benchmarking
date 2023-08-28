@@ -22,15 +22,15 @@ rule a_vs_a:
         against="data/wort-list-a.txt",
     output:
         csv="outputs/output_a_vs_a.csv",
-    resources:
-        only_one_job=1,
+#    resources:
+#        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
+        #export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_sub_vs_a:
