@@ -10,4 +10,4 @@ dependencies:
     - rust
     - maturin>=1,<2
     - pip:
-      - pyo3_branchwater>=0.5.1
+      - pyo3_branchwater==0.6.1

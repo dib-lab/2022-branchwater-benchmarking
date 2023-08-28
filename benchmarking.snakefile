@@ -22,13 +22,12 @@ rule a_vs_a:
         against="data/wort-list-a.txt",
     output:
         csv="outputs/output_a_vs_a.csv",
-#    resources:
-#        only_one_job=1,
+    resources:
+        only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a.txt"
     threads: 32
     shell: """
-        #export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
             {input.queries} {input.against} -c {threads}
     """
@@ -45,9 +44,8 @@ rule a_sub_vs_a:
         "benchmarks/a_{n}_vs_a.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_a_sub:
@@ -62,9 +60,8 @@ rule a_vs_a_sub:
         "benchmarks/a_vs_a_{n}.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_b:
@@ -79,9 +76,8 @@ rule a_vs_b:
         "benchmarks/a_vs_b.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_c:
@@ -96,9 +92,8 @@ rule a_vs_c:
         "benchmarks/a_vs_c.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_d:
@@ -113,9 +108,8 @@ rule a_vs_d:
         "benchmarks/a_vs_d.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_e:
@@ -130,9 +124,8 @@ rule a_vs_e:
         "benchmarks/a_vs_e.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_largest:
@@ -147,9 +140,8 @@ rule a_vs_largest:
         "benchmarks/a_vs_largest_10k.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {threads}
     """
 
 rule a_vs_a_sub_threads:
@@ -164,9 +156,8 @@ rule a_vs_a_sub_threads:
         "benchmarks/a_vs_a_{n}_t{thr}.txt"
     threads: 64                 # max out threads so nothing else running
     shell: """
-        export RAYON_NUM_THREADS={wildcards.thr}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against}
+            {input.queries} {input.against} -c {wildcards.thr}
     """
 
 
@@ -182,7 +173,6 @@ rule a_vs_catalog:
         "benchmarks/a_vs_catalog.txt"
     threads: 32
     shell: """
-        export RAYON_NUM_THREADS={threads}
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against} || true
+            {input.queries} {input.against} -c {threads} || true
     """
