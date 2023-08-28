@@ -1,0 +1,13 @@
+name: branchwater-bench
+channels:
+    - conda-forge
+    - bioconda
+    - defaults
+dependencies:
+    - sourmash>=4.8.3,<5
+    - snakemake-minimal>=7,<8
+    - pip
+    - rust
+    - maturin>=1,<2
+    - pip:
+      - pyo3_branchwater==0.6.1
