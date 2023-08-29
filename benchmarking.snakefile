@@ -13,7 +13,7 @@ rule all:
 
 rule threads:
     input:
-        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
+        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16,24,32,40,48,56,64]),
     
 
 rule a_vs_a:

@@ -15,7 +15,7 @@ srun -p high2 --time=72:00:00 --nodes=1 --cpus-per-task 64 --mem 80GB --pty bash
 
 then run the snakemake workflow:
 ```
-snakemake -c 64 -p -s benchmarking.snakefile  --resources only_one_job=1
+snakemake -c 64 -p -s benchmarking.snakefile  --resources only_one_job=1 -k
 ```
 
 ## appendix
