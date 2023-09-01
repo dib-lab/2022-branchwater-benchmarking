@@ -5,11 +5,14 @@ rule all:
     input:
         expand("benchmarks/{x}_vs_{y}.txt", x=['a'],
                y=['a', 'b', 'c', 'd', 'e']),
+
+rule big:
+    input:
+        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
         "outputs/output_a_vs_largest_10k.csv",
+        expand("benchmarks/a_vs_catalog.txt"),
         expand("benchmarks/a_{n}_vs_a.txt", n=range(100, 1000, 100)),
         expand("benchmarks/a_vs_a_{n}.txt", n=range(1000, 10000, 1000)),
-        expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16]),
-        expand("benchmarks/a_vs_catalog.txt"),
 
 rule threads:
     input:
