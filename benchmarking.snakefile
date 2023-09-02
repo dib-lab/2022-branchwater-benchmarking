@@ -5,6 +5,8 @@ rule all:
     input:
         expand("benchmarks/{x}_vs_{y}.txt", x=['a'],
                y=['a', 'b', 'c', 'd', 'e']),
+        expand("outputs/output_{x}_vs_{y}.csv", x=['a'],
+               y=['a', 'b', 'c', 'd', 'e']),
 
 rule big:
     input:
