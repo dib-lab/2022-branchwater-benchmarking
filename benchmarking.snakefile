@@ -137,17 +137,18 @@ rule a_vs_e:
 rule a_vs_largest:
     input:
         queries="data/gtdb-list-a-1000.sig.zip",
-        against="data/wort-largest-10k.mf.csv.gz",
+        against="data/wort-sra.largest-10k.mf.csv",
     output:
         csv="outputs/output_a_vs_largest_10k.csv",
     resources:
         only_one_job=1,
     benchmark:
         "benchmarks/a_vs_largest_10k.txt"
+    log: "logs/a_vs_largest_10k.log"
     threads: 32
     shell: """
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
-            {input.queries} {input.against} -c {threads}
+            {input.queries} {input.against} -c {threads} 2> {log}
     """
 
 rule a_vs_a_sub_threads:
