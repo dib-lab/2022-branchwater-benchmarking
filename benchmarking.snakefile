@@ -24,8 +24,8 @@ rule threads:
 
 rule a_vs_a:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.a.mf.csv",
     output:
         csv="outputs/output_a_vs_a.csv",
     resources:
@@ -40,8 +40,8 @@ rule a_vs_a:
 
 rule a_sub_vs_a:
     input:
-        queries="data/gtdb-list-a-{n}.sigs.txt",
-        against="data/wort-list-a.txt",
+        queries="data/gtdb-list-a-{n}.sig.zip",
+        against="data/wort-list.a.mf.csv",
     output:
         csv="outputs/output_a_{n}_vs_a.csv",
     resources:
@@ -56,8 +56,8 @@ rule a_sub_vs_a:
 
 rule a_vs_a_sub:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a-{n}.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.a.{n}.mf.csv"
     output:
         csv="outputs/output_a_vs_a_{n}.csv",
     resources:
@@ -72,8 +72,8 @@ rule a_vs_a_sub:
 
 rule a_vs_b:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-b.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.b.mf.csv",
     output:
         csv="outputs/output_a_vs_b.csv",
     resources:
@@ -88,8 +88,8 @@ rule a_vs_b:
 
 rule a_vs_c:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-c.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.c.mf.csv",
     output:
         csv="outputs/output_a_vs_c.csv",
     resources:
@@ -104,8 +104,8 @@ rule a_vs_c:
 
 rule a_vs_d:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="wort-list.d.mf.csv",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.d.mf.csv",
     output:
         csv="outputs/output_a_vs_d.csv",
     resources:
@@ -120,8 +120,8 @@ rule a_vs_d:
 
 rule a_vs_e:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-e.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.e.mf.csv",
     output:
         csv="outputs/output_a_vs_e.csv",
     resources:
@@ -136,8 +136,8 @@ rule a_vs_e:
 
 rule a_vs_largest:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-largest-10k.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-largest-10k.mf.csv.gz",
     output:
         csv="outputs/output_a_vs_largest_10k.csv",
     resources:
@@ -152,8 +152,8 @@ rule a_vs_largest:
 
 rule a_vs_a_sub_threads:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/wort-list-a-{n}.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.a.{n}.mf.csv",
     output:
         csv="outputs/output_a_vs_a_{n}_t{thr}.csv",
     resources:
@@ -169,8 +169,8 @@ rule a_vs_a_sub_threads:
 
 rule a_vs_catalog:
     input:
-        queries="data/gtdb-list-a.sigs.txt",
-        against="data/metagenomes-catalog.txt",
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="/group/ctbrowngrp5/wort/wort-sra/SOURMASH-MANIFEST.csv.gz"
     output:
         csv="outputs/output_a_vs_catalog.csv",
     resources:
