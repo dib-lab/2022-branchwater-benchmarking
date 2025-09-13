@@ -25,11 +25,15 @@ rule zips:
         expand("outputs/output_a_vs_a_{n}_ziplist.csv", n=range(1000, 10000, 1000)),
         # aggregated zip benchmarks
         "benchmarks/zips_benchmarks.csv",
-        "benchmarks/zips_summary.csv",
 
 rule threads:
     input:
         expand("benchmarks/a_vs_a_1000_t{t}.txt", t=[4,8,16,24,32,40,48,56,64]),
+        # zip threads
+        expand("benchmarks/a_vs_a_{n}_t{thr}_zipmf.txt", n=range(1000, 10000, 1000), thr=[4,8,16,24,32,40,48,56,64]),
+        expand("benchmarks/a_vs_a_{n}_t{thr}_ziplist.txt", n=range(1000, 10000, 1000), thr=[4,8,16,24,32,40,48,56,64]),
+        # aggregated threads benchmarks
+        "benchmarks/threads_benchmarks.csv",
 
 
 wildcard_constraints:
@@ -149,7 +153,6 @@ rule a_vs_a_sub:
     """
 
 
-### need to make the zip mfs for this to work
 rule a_vs_a_sub_zipmf:
     """
     Run the full GTDB list A (1000 genomes) against a subset of wort A (1k, 2k, ..., 9k).
@@ -173,7 +176,6 @@ rule a_vs_a_sub_zipmf:
     """
 
 
-### need to make the ziplist for this to work
 rule a_vs_a_sub_ziplist:
     """
     Run the full GTDB list A (1000 genomes) against a subset of wort A (1k, 2k, ..., 9k).
@@ -293,6 +295,50 @@ rule a_vs_a_sub_threads:
         only_one_job=1,
     benchmark:
         "benchmarks/a_vs_a_{n}_t{thr}.txt"
+    threads: 64                 # max out threads so nothing else running
+    shell: """
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against} -c {wildcards.thr}
+    """
+
+rule a_vs_a_sub_threads_zipmf:
+    """
+    Run the full GTDB list A (1000 genomes) against a subset of wort A (1k, 2k, ..., 9k).
+    formats:
+        GTDB list A: *sig.zip
+        wort A: manifest for loading sig.zip files directly
+    """
+    input:
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list.a-{n}.zip-mf.csv"
+    output:
+        csv="outputs/output_a_vs_a_{n}_t{thr}_zipmf.csv",
+    resources:
+        only_one_job=1,
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t{thr}_zipmf.txt"
+    threads: 64                 # max out threads so nothing else running
+    shell: """
+        {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \
+            {input.queries} {input.against} -c {wildcards.thr}
+    """
+
+rule a_vs_a_sub_threads_ziplist:
+    """
+    Run the full GTDB list A (1000 genomes) against a subset of wort A (1k, 2k, ..., 9k).
+    formats:
+        GTDB list A: *sig.zip
+        wort A: ziplist file listing zips
+    """
+    input:
+        queries="data/gtdb-list-a-1000.sig.zip",
+        against="data/wort-list-a-{n}.ziplist.txt",
+    output:
+        csv="outputs/output_a_vs_a_{n}_t{thr}_ziplist.csv",
+    resources:
+        only_one_job=1,
+    benchmark:
+        "benchmarks/a_vs_a_{n}_t{thr}_ziplist.txt"
     threads: 64                 # max out threads so nothing else running
     shell: """
         {manysearch_cmd} -k 31 --scaled=1000 -o {output.csv} \

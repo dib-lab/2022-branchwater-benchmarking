@@ -95,12 +95,14 @@ def main(args):
     benchmark_data = collect_benchmarks(args.file_list)
     write_benchmark_csv(args.benchmarks_csv, benchmark_data)
 
-    summaries = summarize_by_category(benchmark_data)
-    write_summary_csv(args.summary_csv, summaries)
+    # if we want to summarize by category
+    if args.summary_csv:
+        summaries = summarize_by_category(benchmark_data)
+        write_summary_csv(args.summary_csv, summaries)
 
-    print("Per-category summary:")
-    for s in summaries:
-        print(s)
+        print("Per-category summary:")
+        for s in summaries:
+            print(s)
 
 
 if __name__ == "__main__":
@@ -108,7 +110,7 @@ if __name__ == "__main__":
     p.add_argument("file_list", nargs='+', help="List of .txt benchmark files")
     p.add_argument("--benchmarks-csv", required=True,
                    help="Output CSV file with all benchmark data")
-    p.add_argument("--summary-csv", required=True,
+    p.add_argument("--summary-csv",
                    help="Output CSV file with per-category summaries")
     args = p.parse_args()
     main(args)
