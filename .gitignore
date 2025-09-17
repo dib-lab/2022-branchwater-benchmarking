@@ -1,2 +1,5 @@
 .snakemake
 *~
+*.zip
+data/*
+list-a

@@ -1,0 +1,2 @@
+category,n_runs,total_time,avg_time_s,max_memory_rss_gb,max_cpu_utilization_cores
+threads,9,36m 37s,244.2,10.49,1.76

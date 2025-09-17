@@ -1,0 +1,2 @@
+category,n_runs,total_time,avg_time_s,max_memory_rss_gb,max_cpu_utilization_cores
+zips,38,737m 24s,1164.34,43.33,2.88
