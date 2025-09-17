@@ -38,6 +38,17 @@ def assign_category(rule_name: str) -> str:
         # default fallback
         return "other"
 
+def detect_formats(rule):
+    """Detect format (mf, zipmf, ziplist) from rule name."""
+    if "zipmf" in rule:
+        return "zipmf"
+    elif "ziplist" in rule:
+        return "ziplist"
+    elif rule.endswith(".mf") or "mf" in rule:
+        return "mf"
+    else:
+        return "other"
+
 
 def summarize_by_category(benchmark_data):
     """Summarize benchmarks per category."""

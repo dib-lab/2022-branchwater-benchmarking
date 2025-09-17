@@ -16,6 +16,7 @@ rule big:
         expand("benchmarks/a_vs_catalog.txt"),
         expand("benchmarks/a_{n}_vs_a.txt", n=range(100, 1000, 100)),
         expand("benchmarks/a_vs_a_{n}.txt", n=range(1000, 10000, 1000)),
+        "benchmarks/big_benchmarks.csv",
 
 rule zips:
     input:
